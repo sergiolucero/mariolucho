@@ -2,9 +2,13 @@ name: Radio Data Scraper
 
 on:
   schedule:
-    # Runs every 15 minutes (Minute Hour Day-of-Month Month Day-of-Week)
-    - cron: '*/3 * * * *'
-  workflow_dispatch: # Enables a "Run workflow" manual button in the GitHub UI
+    # Runs twice every hour at offset minutes
+    - cron: '17,47 * * * *'
+  workflow_dispatch:
+
+# Give the workflow permission to write changes back to the repository
+permissions:
+  contents: write
 
 jobs:
   scrape-job:
@@ -21,3 +25,9 @@ jobs:
 
       - name: Run Scraper Script
         run: python scraper.py
+
+      - name: Commit and push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          commit_message: "chore: update nowplaying.json [skip ci]"
+          file_pattern: "nowplaying.json"
