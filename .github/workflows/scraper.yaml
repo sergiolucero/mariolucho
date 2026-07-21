@@ -2,11 +2,9 @@ name: Radio Data Scraper
 
 on:
   schedule:
-    # Runs twice every hour at offset minutes
     - cron: '17,47 * * * *'
   workflow_dispatch:
 
-# Give the workflow permission to write changes back to the repository
 permissions:
   contents: write
 
