@@ -1,0 +1,615 @@
+[
+  {
+    "station": {
+      "id": 1,
+      "name": "Radio Mario Maria",
+      "shortcode": "rmm1",
+      "description": "Transmitiendo desde la frontera Franklin Matta Sur en Santiago \ud83c\udde8\ud83c\uddf1",
+      "frontend": "icecast",
+      "backend": "liquidsoap",
+      "timezone": "America/Santiago",
+      "listen_url": "https://tina.radiomariomaria.live:8000/rmm1.256kbps.mp3",
+      "url": "https://radiomariomaria.live",
+      "public_player_url": "https://tina.radiomariomaria.live/public/rmm1",
+      "playlist_pls_url": "https://tina.radiomariomaria.live/public/rmm1/playlist.pls",
+      "playlist_m3u_url": "https://tina.radiomariomaria.live/public/rmm1/playlist.m3u",
+      "is_public": true,
+      "requests_enabled": false,
+      "mounts": [
+        {
+          "id": 1,
+          "name": "rmm1 256kbps mp3",
+          "url": "https://tina.radiomariomaria.live:8000/rmm1.256kbps.mp3",
+          "bitrate": 256,
+          "format": "mp3",
+          "listeners": {
+            "total": 1,
+            "unique": 1,
+            "current": 1
+          },
+          "path": "/rmm1.256kbps.mp3",
+          "is_default": true
+        },
+        {
+          "id": 3,
+          "name": "rmm2 256kbps mp3",
+          "url": "https://tina.radiomariomaria.live:8000/rmm2.256kbps.mp3",
+          "bitrate": 256,
+          "format": "mp3",
+          "listeners": {
+            "total": 0,
+            "unique": 0,
+            "current": 0
+          },
+          "path": "/rmm2.256kbps.mp3",
+          "is_default": false
+        }
+      ],
+      "remotes": [],
+      "hls_enabled": false,
+      "hls_is_default": false,
+      "hls_url": null,
+      "hls_listeners": 0
+    },
+    "listeners": {
+      "total": 1,
+      "unique": 1,
+      "current": 1
+    },
+    "live": {
+      "is_live": false,
+      "streamer_name": "",
+      "broadcast_start": null,
+      "art": null
+    },
+    "now_playing": {
+      "sh_id": 256206,
+      "played_at": 1784610342,
+      "duration": 160,
+      "playlist": "RECUENTO_2025",
+      "streamer": "",
+      "is_request": false,
+      "song": {
+        "id": "138aee9aa76240bf944f504b88382ebe",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/78b40002f686fb19559edd16-1762998447.jpg",
+        "custom_fields": [],
+        "text": "Corps Diplomatique - Dans Ta Nuit - Puzzle Sheeps (Bonus Track)",
+        "artist": "Corps Diplomatique",
+        "title": "Puzzle Sheeps (Bonus Track)",
+        "album": "Dans Ta Nuit",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      },
+      "elapsed": 132,
+      "remaining": 28
+    },
+    "playing_next": {
+      "cued_at": 1784610111,
+      "played_at": 1784610497,
+      "duration": 214.9616,
+      "playlist": "RECUENTO_2025",
+      "is_request": false,
+      "song": {
+        "id": "ef30dfc3ff02a75bbf8581d36d65f8ba",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a1f35c1e102f8a19bcb88322-1762989063.jpg",
+        "custom_fields": [],
+        "text": "Youth Lagoon - Rarely Do I Dream - Home Movies (1989-1993)",
+        "artist": "Youth Lagoon",
+        "title": "Home Movies (1989-1993)",
+        "album": "Rarely Do I Dream",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      }
+    },
+    "song_history": [
+      {
+        "sh_id": 256203,
+        "played_at": 1784610119,
+        "duration": 228,
+        "playlist": "RECUENTO_2025",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1025971fe384d5929c606d4e5613783b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/b378519800a98823d127ee3f-1762991486.jpg",
+          "custom_fields": [],
+          "text": "aya - im hole - dis yacky",
+          "artist": "aya",
+          "title": "dis yacky",
+          "album": "im hole",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      }
+    ],
+    "is_online": true,
+    "cache": null
+  },
+  {
+    "station": {
+      "id": 2,
+      "name": "El Disco es Cultura",
+      "shortcode": "eldiscoescultura",
+      "description": "Escucha aqu\u00ed gran parte del cat\u00e1logo de discos editados por el sello IRT durante el gobierno de la Unidad Popular en Chile (1970-1973) Proyecto financiado por el Ministerio de las Culturas Folio 767390 ",
+      "frontend": "icecast",
+      "backend": "liquidsoap",
+      "timezone": "America/Santiago",
+      "listen_url": "https://tina.radiomariomaria.live:8010/eldiscoescultura.mp3",
+      "url": "https://eldiscoescultura.cl",
+      "public_player_url": "https://tina.radiomariomaria.live/public/eldiscoescultura",
+      "playlist_pls_url": "https://tina.radiomariomaria.live/public/eldiscoescultura/playlist.pls",
+      "playlist_m3u_url": "https://tina.radiomariomaria.live/public/eldiscoescultura/playlist.m3u",
+      "is_public": true,
+      "requests_enabled": false,
+      "mounts": [
+        {
+          "id": 2,
+          "name": "/eldiscoescultura.mp3 (192kbps MP3)",
+          "url": "https://tina.radiomariomaria.live:8010/eldiscoescultura.mp3",
+          "bitrate": 192,
+          "format": "mp3",
+          "listeners": {
+            "total": 1,
+            "unique": 1,
+            "current": 1
+          },
+          "path": "/eldiscoescultura.mp3",
+          "is_default": true
+        }
+      ],
+      "remotes": [],
+      "hls_enabled": false,
+      "hls_is_default": false,
+      "hls_url": null,
+      "hls_listeners": 0
+    },
+    "listeners": {
+      "total": 1,
+      "unique": 1,
+      "current": 1
+    },
+    "live": {
+      "is_live": false,
+      "streamer_name": "",
+      "broadcast_start": null,
+      "art": null
+    },
+    "now_playing": {
+      "sh_id": 256205,
+      "played_at": 1784610307,
+      "duration": 192,
+      "playlist": "EDEC",
+      "streamer": "",
+      "is_request": false,
+      "song": {
+        "id": "76fa36a07c5cc3fd927091700d1a1904",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e05c7a8247f1d53547f988c1",
+        "custom_fields": [],
+        "text": "Los Cuatro de Chile - Coloquio bajo la palma",
+        "artist": "Los Cuatro de Chile",
+        "title": "Coloquio bajo la palma",
+        "album": "",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      },
+      "elapsed": 167,
+      "remaining": 25
+    },
+    "playing_next": {
+      "cued_at": 1784610053,
+      "played_at": 1784610495,
+      "duration": 351.352292,
+      "playlist": "EDEC",
+      "is_request": false,
+      "song": {
+        "id": "444def224bb3af6eee30d057f59fd90f",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/df1d66b36992f4ecf253f3a7",
+        "custom_fields": [],
+        "text": "Panal - Panal - El humahuaque\u00f1o",
+        "artist": "Panal",
+        "title": "El humahuaque\u00f1o",
+        "album": "Panal",
+        "genre": "Psych",
+        "isrc": "",
+        "lyrics": ""
+      }
+    },
+    "song_history": [
+      {
+        "sh_id": 256201,
+        "played_at": 1784610066,
+        "duration": 246,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "5a82bea98bb1d7b1f378ea4bdbac6f8f",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/281ad6182103c67df4f15f71",
+          "custom_fields": [],
+          "text": "Nano Acevedo y Pancho Navarro - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Arriba la Guardia",
+          "artist": "Nano Acevedo y Pancho Navarro",
+          "title": "Arriba la Guardia",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256199,
+        "played_at": 1784609895,
+        "duration": 171,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "7b0de0730b53fb7508d1068b105b3c9b",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3c9108f35fe69f1b821c19f6",
+          "custom_fields": [],
+          "text": "Patricia Maldonado - Revivir un amor",
+          "artist": "Patricia Maldonado",
+          "title": "Revivir un amor",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256195,
+        "played_at": 1784609548,
+        "duration": 348,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "ac83ea77b990f68a8e27bbdb71f51e40",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e591cb157d88302f79157918",
+          "custom_fields": [],
+          "text": "Los Tupamaros - Los Tupamaros Cantan - Poema 28 - Chamarrita",
+          "artist": "Los Tupamaros",
+          "title": "Poema 28 - Chamarrita",
+          "album": "Los Tupamaros Cantan",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256193,
+        "played_at": 1784609313,
+        "duration": 241,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c7887ece6db2638d2ff8458918af1c4c",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/465b5514449ff0f540c74fbb",
+          "custom_fields": [],
+          "text": "Patricio Manns - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - En Lota la noche es brava",
+          "artist": "Patricio Manns",
+          "title": "En Lota la noche es brava",
+          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256192,
+        "played_at": 1784609262,
+        "duration": 70,
+        "playlist": "CU\u00d1AS",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b93e0a778418c5618ffd3133b4a0f93e",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3f221d55feb4b9ef21c97bd9",
+          "custom_fields": [],
+          "text": "Julio Osses - EDEC - Cu\u00f1a EDEC",
+          "artist": "Julio Osses",
+          "title": "Cu\u00f1a EDEC",
+          "album": "EDEC",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      }
+    ],
+    "is_online": true,
+    "cache": null
+  },
+  {
+    "station": {
+      "id": 3,
+      "name": "Tect\u00f3nica",
+      "shortcode": "tectonica",
+      "description": "",
+      "frontend": "icecast",
+      "backend": "liquidsoap",
+      "timezone": "America/Santiago",
+      "listen_url": "https://tina.radiomariomaria.live:8020/radio.mp3",
+      "url": "",
+      "public_player_url": "https://tina.radiomariomaria.live/public/tectonica",
+      "playlist_pls_url": "https://tina.radiomariomaria.live/public/tectonica/playlist.pls",
+      "playlist_m3u_url": "https://tina.radiomariomaria.live/public/tectonica/playlist.m3u",
+      "is_public": true,
+      "requests_enabled": false,
+      "mounts": [
+        {
+          "id": 5,
+          "name": "/radio.mp3 (192kbps MP3)",
+          "url": "https://tina.radiomariomaria.live:8020/radio.mp3",
+          "bitrate": 192,
+          "format": "mp3",
+          "listeners": {
+            "total": 0,
+            "unique": 0,
+            "current": 0
+          },
+          "path": "/radio.mp3",
+          "is_default": true
+        }
+      ],
+      "remotes": [],
+      "hls_enabled": true,
+      "hls_is_default": false,
+      "hls_url": "https://tina.radiomariomaria.live/hls/tectonica/live.m3u8",
+      "hls_listeners": 0
+    },
+    "listeners": {
+      "total": 0,
+      "unique": 0,
+      "current": 0
+    },
+    "live": {
+      "is_live": false,
+      "streamer_name": "",
+      "broadcast_start": null,
+      "art": null
+    },
+    "now_playing": {
+      "sh_id": 256207,
+      "played_at": 1784610410,
+      "duration": 478,
+      "playlist": "Especial fines de junio",
+      "streamer": "",
+      "is_request": false,
+      "song": {
+        "id": "7eaef181c53f300e7848ab3f2de45201",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6487bd23799396d47eb6b124",
+        "custom_fields": [],
+        "text": "6. damas",
+        "artist": "",
+        "title": "6. damas",
+        "album": "",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      },
+      "elapsed": 64,
+      "remaining": 414
+    },
+    "playing_next": {
+      "cued_at": 1784610268,
+      "played_at": 1784610879,
+      "duration": 311.9804,
+      "playlist": "Especial fines de junio",
+      "is_request": false,
+      "song": {
+        "id": "7587b5abef580c17f6e1515e88f91d54",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cb7f6da8e0328419dc4bb58a-1781895645.jpg",
+        "custom_fields": [],
+        "text": "Chaka Khan - Chaka Khan (Tracks) - Every Little Thing",
+        "artist": "Chaka Khan",
+        "title": "Every Little Thing",
+        "album": "Chaka Khan (Tracks)",
+        "genre": "R&B",
+        "isrc": "",
+        "lyrics": ""
+      }
+    },
+    "song_history": [
+      {
+        "sh_id": 256204,
+        "played_at": 1784610274,
+        "duration": 140,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "993ebce31137b940f96f2d1a5d56f7b4",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/83a4cdc8fe35178ab4e0ac5d",
+          "custom_fields": [],
+          "text": "5. famatina",
+          "artist": "",
+          "title": "5. famatina",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256200,
+        "played_at": 1784609908,
+        "duration": 369,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "be1af87224e4d29f47e08e012456f431",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/f89df3d5f4c9a404702f29a5",
+          "custom_fields": [],
+          "text": "4. estanques de tecoma",
+          "artist": "",
+          "title": "4. estanques de tecoma",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256197,
+        "played_at": 1784609728,
+        "duration": 185,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "6bffc9f2f03f2e20f54a3023f1b5636a",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1fd82dd7daff68308097a048",
+          "custom_fields": [],
+          "text": "3. cuncuna",
+          "artist": "",
+          "title": "3. cuncuna",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256190,
+        "played_at": 1784609219,
+        "duration": 513,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "8220c9525d02a8bc7d44288bdb8a09c2",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/16f8a2fef03b944e5e0334b8",
+          "custom_fields": [],
+          "text": "2. siesta en el lado sabio",
+          "artist": "",
+          "title": "2. siesta en el lado sabio",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 256183,
+        "played_at": 1784608499,
+        "duration": 724,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "fa58725ddf397413d8681121dc8f7119",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/44f9834b4be9b974c2e9243d",
+          "custom_fields": [],
+          "text": "1. vesti\u0301bulo lunar",
+          "artist": "",
+          "title": "1. vesti\u0301bulo lunar",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      }
+    ],
+    "is_online": true,
+    "cache": null
+  },
+  {
+    "station": {
+      "id": 4,
+      "name": "Tests",
+      "shortcode": "tests",
+      "description": "",
+      "frontend": "icecast",
+      "backend": "liquidsoap",
+      "timezone": "America/Santiago",
+      "listen_url": "https://tina.radiomariomaria.live:8030/radio.mp3",
+      "url": "",
+      "public_player_url": "https://tina.radiomariomaria.live/public/tests",
+      "playlist_pls_url": "https://tina.radiomariomaria.live/public/tests/playlist.pls",
+      "playlist_m3u_url": "https://tina.radiomariomaria.live/public/tests/playlist.m3u",
+      "is_public": true,
+      "requests_enabled": false,
+      "mounts": [
+        {
+          "id": 6,
+          "name": "/radio.mp3 (192kbps MP3)",
+          "url": "https://tina.radiomariomaria.live:8030/radio.mp3",
+          "bitrate": 192,
+          "format": "mp3",
+          "listeners": {
+            "total": 0,
+            "unique": 0,
+            "current": 0
+          },
+          "path": "/radio.mp3",
+          "is_default": true
+        }
+      ],
+      "remotes": [],
+      "hls_enabled": false,
+      "hls_is_default": false,
+      "hls_url": null,
+      "hls_listeners": 0
+    },
+    "listeners": {
+      "total": 0,
+      "unique": 0,
+      "current": 0
+    },
+    "live": {
+      "is_live": false,
+      "streamer_name": "",
+      "broadcast_start": null,
+      "art": null
+    },
+    "now_playing": {
+      "sh_id": 217835,
+      "played_at": 1781596479,
+      "duration": 180,
+      "playlist": "default",
+      "streamer": "",
+      "is_request": false,
+      "song": {
+        "id": "a52ca4cecf717b3606d7bf6a06d785e2",
+        "art": "https://tina.radiomariomaria.live/api/station/tests/art/f4d8e2b149107f94a14e60b8",
+        "custom_fields": [],
+        "text": "Tono - DronCC",
+        "artist": "Tono",
+        "title": "DronCC",
+        "album": "",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      },
+      "elapsed": 180,
+      "remaining": 0
+    },
+    "playing_next": {
+      "cued_at": 1784002774,
+      "played_at": 1784610458,
+      "duration": 180.2971,
+      "playlist": "default",
+      "is_request": false,
+      "song": {
+        "id": "a52ca4cecf717b3606d7bf6a06d785e2",
+        "art": "https://tina.radiomariomaria.live/api/station/tests/art/f4d8e2b149107f94a14e60b8",
+        "custom_fields": [],
+        "text": "Tono - DronCC",
+        "artist": "Tono",
+        "title": "DronCC",
+        "album": "",
+        "genre": "",
+        "isrc": "",
+        "lyrics": ""
+      }
+    },
+    "song_history": [],
+    "is_online": true,
+    "cache": null
+  }
+]
