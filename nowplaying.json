@@ -23,9 +23,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/rmm1.256kbps.mp3",
           "is_default": true
@@ -52,9 +52,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 278337,
-      "played_at": 1786312113,
-      "duration": 148,
-      "playlist": "RECUENTO_2026",
+      "sh_id": 278353,
+      "played_at": 1786313486,
+      "duration": 260,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "e1eca24329e63f9fe0628d1d6235849a",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/6084adf0790f16b97c19c100-1772155863.jpg",
+        "id": "c683774cb890f7f3a75c8edaef28fa17",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/171e488c15378165c0bd9c5a-1762990287.jpg",
         "custom_fields": [],
-        "text": "cropscropscrops / Vaygrnt / E L U C I D - we've been after each other - anatomy angels (feat. E L U C I D)",
-        "artist": "cropscropscrops / Vaygrnt / E L U C I D",
-        "title": "anatomy angels (feat. E L U C I D)",
-        "album": "we've been after each other",
+        "text": "Joni Void - Every Life Is A Light - Event Flow - A Sequence",
+        "artist": "Joni Void",
+        "title": "Event Flow - A Sequence",
+        "album": "Every Life Is A Light",
         "genre": "",
-        "isrc": "QT6FY2511297",
+        "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 141,
-      "remaining": 7
+      "elapsed": 205,
+      "remaining": 55
     },
     "playing_next": {
-      "cued_at": 1786311910,
-      "played_at": 1786312256,
-      "duration": 163.70935,
-      "playlist": "IPAD",
+      "cued_at": 1786313140,
+      "played_at": 1786313741,
+      "duration": 123.168,
+      "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "bc5583a6adb040b2f824408deec587a0",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/6259a33d5a500c8d69b44944-1780614161.jpg",
+        "id": "b567b89ec6708a44307f5f571ac4d630",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a9cf6c63a6eac75376fe62df-1777937163.jpg",
         "custom_fields": [],
-        "text": "Alice Coltrane - Radha-Krsna Nama Sankirtana - Ganesha",
-        "artist": "Alice Coltrane",
-        "title": "Ganesha",
-        "album": "Radha-Krsna Nama Sankirtana",
-        "genre": "Jazz",
-        "isrc": "USWB10103910",
+        "text": "Nan\u00e1 Rizinni / Mark Cake - Epiblast - Epiblast (Outerlude)",
+        "artist": "Nan\u00e1 Rizinni / Mark Cake",
+        "title": "Epiblast (Outerlude)",
+        "album": "Epiblast",
+        "genre": "",
+        "isrc": "FRIDO2515087",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 278334,
-        "played_at": 1786311917,
-        "duration": 200,
-        "playlist": "RECUENTO_2025",
+        "sh_id": 278350,
+        "played_at": 1786313146,
+        "duration": 358,
+        "playlist": "RECUENTO_2026",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "9b0bc1b70f4f20149f684bb5a0f631b0",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/8d34f9270ce3ede1e5af3aa5-1762989381.jpg",
+          "id": "6d5ef6d6683c3423b078f26a48b20626",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/f2e99dae09ab685aa2cb8be0-1785460125.jpg",
           "custom_fields": [],
-          "text": "Dorothy Carlos - Ear World - Milk - My Ideal Is Windy",
-          "artist": "Dorothy Carlos",
-          "title": "Milk - My Ideal Is Windy",
-          "album": "Ear World",
+          "text": "Al Wootton - River Songs - Xana",
+          "artist": "Al Wootton",
+          "title": "Xana",
+          "album": "River Songs",
           "genre": "",
-          "isrc": "",
+          "isrc": "UKN6K2301626",
           "lyrics": ""
         }
       }
@@ -178,41 +178,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 278336,
-      "played_at": 1786312055,
-      "duration": 221,
+      "sh_id": 278354,
+      "played_at": 1786313602,
+      "duration": 234,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "a2a45e03aecea8be82f437798a13a068",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/0cc06df04de9b01aec37d063",
+        "id": "ebef9f9b85fea5b9be4359669e9f158e",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/319378938a8f6bd19a1450f6",
         "custom_fields": [],
-        "text": "Ariaselva - Ariaselva - Yo Sali Por Quinchao",
-        "artist": "Ariaselva",
-        "title": "Yo Sali Por Quinchao",
-        "album": "Ariaselva",
+        "text": "Los Huasos del Maipo - A mi Puente Alto - Carabineros de Chile",
+        "artist": "Los Huasos del Maipo",
+        "title": "A mi Puente Alto - Carabineros de Chile",
+        "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 199,
-      "remaining": 22
+      "elapsed": 89,
+      "remaining": 145
     },
     "playing_next": {
-      "cued_at": 1786311865,
-      "played_at": 1786312271,
-      "duration": 171.41551,
+      "cued_at": 1786313442,
+      "played_at": 1786313831,
+      "duration": 255.2163,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "7b0de0730b53fb7508d1068b105b3c9b",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3c9108f35fe69f1b821c19f6",
+        "id": "b5869a29b6ba7785e775091eb847d68c",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5ac2c1e366f5b8112f3c01eb",
         "custom_fields": [],
-        "text": "Patricia Maldonado - Revivir un amor",
-        "artist": "Patricia Maldonado",
-        "title": "Revivir un amor",
-        "album": "",
+        "text": "Omara Portuondo - Amor por ti / Gracias a la vida [SINGLE] - Gracias a la vida",
+        "artist": "Omara Portuondo",
+        "title": "Gracias a la vida",
+        "album": "Amor por ti / Gracias a la vida [SINGLE]",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -220,101 +220,101 @@
     },
     "song_history": [
       {
-        "sh_id": 278333,
-        "played_at": 1786311871,
-        "duration": 186,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "568b87f476849cd7daa035ecfbc7f37a",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6d6a172c689e02cc2559f98b",
-          "custom_fields": [],
-          "text": "Los Fortineros - A la bandera de Chile / En la mitad de un salar - A la bandera de Chile",
-          "artist": "Los Fortineros",
-          "title": "A la bandera de Chile",
-          "album": "A la bandera de Chile / En la mitad de un salar",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278331,
-        "played_at": 1786311617,
-        "duration": 256,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "0e4804691300a7ab76f5a2958a19d460",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d6bfc5cc2e591964c4df3236",
-          "custom_fields": [],
-          "text": "Chito Morales - El irresistible",
-          "artist": "Chito Morales",
-          "title": "El irresistible",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278329,
-        "played_at": 1786311483,
-        "duration": 137,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "7800613972154959d51e99d295d134ff",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/970e4650c16afe144ad5ae94",
-          "custom_fields": [],
-          "text": "Giolito y su Combo - Cosecha Tropical - Una Casita",
-          "artist": "Giolito y su Combo",
-          "title": "Una Casita",
-          "album": "Cosecha Tropical",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278327,
-        "played_at": 1786311413,
-        "duration": 70,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "2896e0f3b898e7897c38399a7db1f926",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/35616e6147565a0ad4060b22",
-          "custom_fields": [],
-          "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Relato",
-          "artist": "Coro Universidad Austral de Chile",
-          "title": "Relato",
-          "album": "Cantata Santa Mar\u00eda de Iquique",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278324,
-        "played_at": 1786311265,
+        "sh_id": 278352,
+        "played_at": 1786313448,
         "duration": 154,
+        "playlist": "CONTEXTO",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "558d6e9bb4addfb3b469821050773f81",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5df2e4497a3ac03106c8d2dc",
+          "custom_fields": [],
+          "text": "Cuando Despierta el Pueblo - Cuando Despierta el Pueblo - Testimonio 2",
+          "artist": "Cuando Despierta el Pueblo",
+          "title": "Testimonio 2",
+          "album": "Cuando Despierta el Pueblo",
+          "genre": "Ignacio Alfonso",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 278351,
+        "played_at": 1786313308,
+        "duration": 145,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "0d47fcf277d94befa06f8af333b54cf5",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a036dfd1af0bdc5a8f03a393-1757470635.jpg",
+          "id": "8926fac096c578fcece47d7c69048a2b",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5fe7e5533e3b2e170ab54083",
           "custom_fields": [],
-          "text": "Sacros - Sacros - Cobre, Pobres, Viejos",
-          "artist": "Sacros",
-          "title": "Cobre, Pobres, Viejos",
-          "album": "Sacros",
-          "genre": "Psychedelic Folk-Rock",
+          "text": "Los Ecos - Rock 'N Roll - Arr\u00e1ncate",
+          "artist": "Los Ecos",
+          "title": "Arr\u00e1ncate",
+          "album": "Rock 'N Roll",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 278349,
+        "played_at": 1786313066,
+        "duration": 248,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "70066d99c64b30c68021f56ac809ffff",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/db587453c98558a67355d533",
+          "custom_fields": [],
+          "text": "Manguar\u00e9 - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Boga Boga",
+          "artist": "Manguar\u00e9",
+          "title": "Boga Boga",
+          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 278346,
+        "played_at": 1786312921,
+        "duration": 159,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c0a37a7b49e92c0c59368a86198eb903",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6571153697c6703db6347379",
+          "custom_fields": [],
+          "text": "Maleza con Horacio Saavedra y su Orquesta - \u00bfHan Visto a mi Dulce Gypsy Rose? [SINGLE] - \u00bfHan Visto a mi Dulce Gypsy Rose?",
+          "artist": "Maleza con Horacio Saavedra y su Orquesta",
+          "title": "\u00bfHan Visto a mi Dulce Gypsy Rose?",
+          "album": "\u00bfHan Visto a mi Dulce Gypsy Rose? [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 278343,
+        "played_at": 1786312593,
+        "duration": 348,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "ce9cd3150b6a65d611e4827f3593f063",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a4331e8028750f1c99b5e691-1757470563.jpg",
+          "custom_fields": [],
+          "text": "Los Jaivas - Los Jaivas (La Ventana) - Todos Juntos",
+          "artist": "Los Jaivas",
+          "title": "Todos Juntos",
+          "album": "Los Jaivas (La Ventana)",
+          "genre": "Prog Folk (Chile)",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,47 +373,87 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 278335,
-      "played_at": 1786312019,
-      "duration": 486,
+      "sh_id": 278347,
+      "played_at": 1786312924,
+      "duration": 885,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "0160f84bc33e39806bef42879303eff1",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b24b80a964e7de2347413ad8-1781895449.jpg",
+        "id": "d8aeed153438af6f5783738912d7ca02",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ecf34bb8afe50bbc29fbff19-1781895428.jpg",
         "custom_fields": [],
-        "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Extended 12'')",
-        "artist": "Aurra",
-        "title": "Like I Like It (Extended 12'')",
-        "album": "Unknown Album Dance Classics",
-        "genre": "Dance Classics",
+        "text": "Brooklyn Express - Burning Hot - Burning Hot (Tee Scott Re-Mix) 12",
+        "artist": "Brooklyn Express",
+        "title": "Burning Hot (Tee Scott Re-Mix) 12",
+        "album": "Burning Hot",
+        "genre": "Disco",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 235,
-      "remaining": 251
+      "elapsed": 767,
+      "remaining": 118
     },
     "playing_next": {
-      "cued_at": 1786311431,
-      "played_at": 1786312496,
-      "duration": 423.5755,
+      "cued_at": 1786312496,
+      "played_at": 1786313801,
+      "duration": 428.38204166667,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "77e9d86f843f19002b33620f054fd317",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0a9f723691e662c6f7a474ed-1781895509.jpg",
+        "id": "c1c1cedba716a53424715a0ccd8be4ea",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9f6d4d2a729c5e4df6ad07b2-1781895686.jpg",
         "custom_fields": [],
-        "text": "Gwen Guthrie - Polydor (885 106-1b2) - Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
-        "artist": "Gwen Guthrie",
-        "title": "Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
-        "album": "Polydor (885 106-1b2)",
-        "genre": "Disco",
+        "text": "Alexander O'Neal - Classic Soul - Criticize (12'' Mix)",
+        "artist": "Alexander O'Neal",
+        "title": "Criticize (12'' Mix)",
+        "album": "Classic Soul",
+        "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 278342,
+        "played_at": 1786312506,
+        "duration": 423,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "77e9d86f843f19002b33620f054fd317",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0a9f723691e662c6f7a474ed-1781895509.jpg",
+          "custom_fields": [],
+          "text": "Gwen Guthrie - Polydor (885 106-1b2) - Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
+          "artist": "Gwen Guthrie",
+          "title": "Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
+          "album": "Polydor (885 106-1b2)",
+          "genre": "Disco",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 278335,
+        "played_at": 1786312019,
+        "duration": 486,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "0160f84bc33e39806bef42879303eff1",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b24b80a964e7de2347413ad8-1781895449.jpg",
+          "custom_fields": [],
+          "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Extended 12'')",
+          "artist": "Aurra",
+          "title": "Like I Like It (Extended 12'')",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 278328,
         "played_at": 1786311436,
@@ -470,46 +510,6 @@
           "title": "Going In Circles",
           "album": "Soul Compi",
           "genre": "Other",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278316,
-        "played_at": 1786310659,
-        "duration": 247,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "58ffe679f5245e0baff962b061220580",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
-          "custom_fields": [],
-          "text": "Delegation - The Promise Of Love - Oh Honey",
-          "artist": "Delegation",
-          "title": "Oh Honey",
-          "album": "The Promise Of Love",
-          "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 278311,
-        "played_at": 1786310189,
-        "duration": 469,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "2b54d9756a59ca0aecfbc8a1804fd970",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ee4e78a69b0f1ffc5d30c6e7-1781895273.jpg",
-          "custom_fields": [],
-          "text": "Davina - Don't You Want It (Extended)",
-          "artist": "Davina",
-          "title": "Don't You Want It (Extended)",
-          "album": "",
-          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1785705464,
-      "played_at": 1786312237,
+      "played_at": 1786313675,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
