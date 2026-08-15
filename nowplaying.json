@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 285069,
-      "played_at": 1786830367,
-      "duration": 180,
+      "sh_id": 285073,
+      "played_at": 1786830752,
+      "duration": 576,
       "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "6d2fb3001949c1748cffde5e94a14a91",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/feb99ed3b223324ba6d544f8-1773104164.jpg",
+        "id": "f353bd091dcf58c6217f6545f8d19dcb",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/55206b22a19529d4cefd9bbf-1768955464.jpg",
         "custom_fields": [],
-        "text": "JJULIUS - Vol. 2 - Dom H\u00f6r Dig Men Dom Lyssnar Inte",
-        "artist": "JJULIUS",
-        "title": "Dom H\u00f6r Dig Men Dom Lyssnar Inte",
-        "album": "Vol. 2",
+        "text": "DakhaBrakha - Ptakh - Plach",
+        "artist": "DakhaBrakha",
+        "title": "Plach",
+        "album": "Ptakh",
         "genre": "",
-        "isrc": "US4GE2100023",
+        "isrc": "UAEO12500615",
         "lyrics": ""
       },
-      "elapsed": 160,
-      "remaining": 20
+      "elapsed": 486,
+      "remaining": 90
     },
     "playing_next": {
-      "cued_at": 1786829826,
-      "played_at": 1786830543,
-      "duration": 221.16,
-      "playlist": "RECUENTO_2026",
+      "cued_at": 1786830525,
+      "played_at": 1786831323,
+      "duration": 24.372284638538,
+      "playlist": "MARCAS",
       "is_request": false,
       "song": {
-        "id": "56d659a319de3525e43f554726f4df24",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/fab1985f349176f42c6ecae4-1782952054.jpg",
+        "id": "40d16631d7473d7a2df1b7357af7da7b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
         "custom_fields": [],
-        "text": "Debit - Potpourri - Pero like",
-        "artist": "Debit",
-        "title": "Pero like",
-        "album": "Potpourri",
-        "genre": "",
-        "isrc": "USYBL2600671",
+        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+        "artist": "Radio Mario Maria",
+        "title": "Toques de Gong Radios Chilenas",
+        "album": "MARCA",
+        "genre": "MARCA",
+        "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 285065,
-        "played_at": 1786829832,
-        "duration": 535,
-        "playlist": "IPAD",
+        "sh_id": 285071,
+        "played_at": 1786830532,
+        "duration": 221,
+        "playlist": "RECUENTO_2026",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "c481d19d568f91cb9a9d302407c9006f",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c803aa7b4c4dfa256f1e764d-1781048167.jpg",
+          "id": "56d659a319de3525e43f554726f4df24",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/fab1985f349176f42c6ecae4-1782952054.jpg",
           "custom_fields": [],
-          "text": "Helena Hauff - R4 - MOTHERJAM",
-          "artist": "Helena Hauff",
-          "title": "MOTHERJAM",
-          "album": "R4",
+          "text": "Debit - Potpourri - Pero like",
+          "artist": "Debit",
+          "title": "Pero like",
+          "album": "Potpourri",
           "genre": "",
-          "isrc": "",
+          "isrc": "USYBL2600671",
           "lyrics": ""
         }
       }
@@ -196,8 +196,8 @@
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 139,
-      "remaining": 1176
+      "elapsed": 850,
+      "remaining": 465
     },
     "playing_next": {
       "cued_at": 1786830148,
@@ -373,47 +373,107 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 285067,
-      "played_at": 1786830112,
-      "duration": 428,
+      "sh_id": 285075,
+      "played_at": 1786831234,
+      "duration": 70,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "c1c1cedba716a53424715a0ccd8be4ea",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9f6d4d2a729c5e4df6ad07b2-1781895686.jpg",
+        "id": "542fe0c653c552fad1f7545a712a04c4",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ae843f4fcd595542016ff45c-1781895455.jpg",
         "custom_fields": [],
-        "text": "Alexander O'Neal - Classic Soul - Criticize (12'' Mix)",
-        "artist": "Alexander O'Neal",
-        "title": "Criticize (12'' Mix)",
-        "album": "Classic Soul",
-        "genre": "Dance Classics",
+        "text": "B Beat Girls - For The Same Man VLS 12Inch - For the Same Man (Bonus plus Beats Version); For The Same Man (Bonus Plus Beats Version)",
+        "artist": "B Beat Girls",
+        "title": "For the Same Man (Bonus plus Beats Version); For The Same Man (Bonus Plus Beats Version)",
+        "album": "For The Same Man VLS 12Inch",
+        "genre": "Electro Funk",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 415,
-      "remaining": 13
+      "elapsed": 4,
+      "remaining": 66
     },
     "playing_next": {
-      "cued_at": 1786829226,
-      "played_at": 1786830531,
-      "duration": 310.46533707488,
+      "cued_at": 1786830841,
+      "played_at": 1786831296,
+      "duration": 233.9082,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "0c47251896ab194fc82662e1fbfe624c",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e31ba1e571e6236f8543848f-1781895341.jpg",
+        "id": "e131b2da28723e07946f4393783be472",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/135155bb82914a4406282b13-1781895634.jpg",
         "custom_fields": [],
-        "text": "52nd Street - Children Of The Night - Smiling Eyes",
-        "artist": "52nd Street",
-        "title": "Smiling Eyes",
-        "album": "Children Of The Night",
-        "genre": "Dance Classics",
+        "text": "Various Artists - Soul Compi - Don't Leave Me This Way - Harold Melvin & The Blue Notes",
+        "artist": "Various Artists",
+        "title": "Don't Leave Me This Way - Harold Melvin & The Blue Notes",
+        "album": "Soul Compi",
+        "genre": "Rock; Pop",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 285074,
+        "played_at": 1786830846,
+        "duration": 392,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "0028c28aac4cb5ea6a8e226759c0647b",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e6e0e1a75c909b3fb1c4004f-1781895517.jpg",
+          "custom_fields": [],
+          "text": "ABC - The Remix Collection - The Night You Murdered Love (Sheer Chic Mix)",
+          "artist": "ABC",
+          "title": "The Night You Murdered Love (Sheer Chic Mix)",
+          "album": "The Remix Collection",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285072,
+        "played_at": 1786830540,
+        "duration": 310,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "0c47251896ab194fc82662e1fbfe624c",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e31ba1e571e6236f8543848f-1781895341.jpg",
+          "custom_fields": [],
+          "text": "52nd Street - Children Of The Night - Smiling Eyes",
+          "artist": "52nd Street",
+          "title": "Smiling Eyes",
+          "album": "Children Of The Night",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285067,
+        "played_at": 1786830112,
+        "duration": 428,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c1c1cedba716a53424715a0ccd8be4ea",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9f6d4d2a729c5e4df6ad07b2-1781895686.jpg",
+          "custom_fields": [],
+          "text": "Alexander O'Neal - Classic Soul - Criticize (12'' Mix)",
+          "artist": "Alexander O'Neal",
+          "title": "Criticize (12'' Mix)",
+          "album": "Classic Soul",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 285060,
         "played_at": 1786829231,
@@ -450,66 +510,6 @@
           "title": "Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
           "album": "Polydor (885 106-1b2)",
           "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285046,
-        "played_at": 1786828325,
-        "duration": 486,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "0160f84bc33e39806bef42879303eff1",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b24b80a964e7de2347413ad8-1781895449.jpg",
-          "custom_fields": [],
-          "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Extended 12'')",
-          "artist": "Aurra",
-          "title": "Like I Like It (Extended 12'')",
-          "album": "Unknown Album Dance Classics",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285041,
-        "played_at": 1786827742,
-        "duration": 587,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b01005306b3873491af06b1cdfd9a324",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0b6446017341a42d13b16a6b-1781895328.jpg",
-          "custom_fields": [],
-          "text": "Atlantic Starr - Soulbeat 1 - Let The Sun In (12'')",
-          "artist": "Atlantic Starr",
-          "title": "Let The Sun In (12'')",
-          "album": "Soulbeat 1",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285035,
-        "played_at": 1786827459,
-        "duration": 287,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "1cc24f9a646fe92a5abfdc64c4c570c0",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9bfe0cc70e32ceb2ea2f8c59-1781895454.jpg",
-          "custom_fields": [],
-          "text": "Gold In The Shade - Over You / Shining Through - Over You (Mix 2)",
-          "artist": "Gold In The Shade",
-          "title": "Over You (Mix 2)",
-          "album": "Over You / Shining Through",
-          "genre": "Dance",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786223869,
-      "played_at": 1786830519,
+      "played_at": 1786831213,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
