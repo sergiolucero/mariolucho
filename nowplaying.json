@@ -63,62 +63,62 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 284751,
-      "played_at": 1786804954,
-      "duration": 135,
-      "playlist": "RECUENTO_2024",
+      "sh_id": 284763,
+      "played_at": 1786805912,
+      "duration": 244,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "e08b5f9108df12e4cf7f4a1a119c6535",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/69b17bb1d3d91bc9fc24dd8e-1762998396.jpg",
+        "id": "9d085eaa043043e3f77b035a2549817b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/7e1f8d9da28162c4c69c1d90-1762989084.jpg",
         "custom_fields": [],
-        "text": "Crizin da Z. O. / Iggor Cavalera - Acelero - O Fim Um",
-        "artist": "Crizin da Z. O. / Iggor Cavalera",
-        "title": "O Fim Um",
-        "album": "Acelero",
+        "text": "Quinton Barnes - CODE NOIR - LaLaLaLa",
+        "artist": "Quinton Barnes",
+        "title": "LaLaLaLa",
+        "album": "CODE NOIR",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 28,
-      "remaining": 107
+      "elapsed": 51,
+      "remaining": 193
     },
     "playing_next": {
-      "cued_at": 1786804826,
-      "played_at": 1786805085,
-      "duration": 213.2114,
-      "playlist": "RECUENTO_2024",
+      "cued_at": 1786805710,
+      "played_at": 1786806152,
+      "duration": 24.372284638538,
+      "playlist": "MARCAS",
       "is_request": false,
       "song": {
-        "id": "d3871c4211ecc1db2ea9afef6c7dfe7f",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/b95f1b63c1b1f4f767c2048f-1762985764.jpg",
+        "id": "40d16631d7473d7a2df1b7357af7da7b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
         "custom_fields": [],
-        "text": "Meemo Comma - Decimation Of I - Signs",
-        "artist": "Meemo Comma",
-        "title": "Signs",
-        "album": "Decimation Of I",
-        "genre": "",
+        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+        "artist": "Radio Mario Maria",
+        "title": "Toques de Gong Radios Chilenas",
+        "album": "MARCA",
+        "genre": "MARCA",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 284749,
-        "played_at": 1786804832,
-        "duration": 121,
+        "sh_id": 284760,
+        "played_at": 1786805716,
+        "duration": 213,
         "playlist": "RECUENTO_2025",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "2f0edbe5c8c35ab71acbfc6ad021307d",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/913a02754685a6f56dc15f4b-1762998539.jpg",
+          "id": "02ea993e56ce02dddf8784557a08aad6",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/86547963d485ad8b05b3e9b0-1762991171.jpg",
           "custom_fields": [],
-          "text": "aya - im hole - OoB Prosthesis",
-          "artist": "aya",
-          "title": "OoB Prosthesis",
-          "album": "im hole",
+          "text": "KALI Trio - The Playful Abstract - Cascading",
+          "artist": "KALI Trio",
+          "title": "Cascading",
+          "album": "The Playful Abstract",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 284752,
-      "played_at": 1786804967,
-      "duration": 194,
+      "sh_id": 284762,
+      "played_at": 1786805845,
+      "duration": 229,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "4ee008a2a5478650f1141d8954716937",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/36728de006223b33be12337c",
+        "id": "a4420b42fa612ccee115f64749beee97",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3e985206d8bec0f078bf1880",
         "custom_fields": [],
-        "text": "Jeronimo - El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE] - El ultimo tren del domingo",
-        "artist": "Jeronimo",
-        "title": "El ultimo tren del domingo",
-        "album": "El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE]",
+        "text": "Capablanca - Lo que es Amor - Cuando ya no me Quieras",
+        "artist": "Capablanca",
+        "title": "Cuando ya no me Quieras",
+        "album": "Lo que es Amor",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 15,
-      "remaining": 179
+      "elapsed": 118,
+      "remaining": 111
     },
     "playing_next": {
-      "cued_at": 1786804896,
-      "played_at": 1786805156,
-      "duration": 208.222041,
+      "cued_at": 1786805595,
+      "played_at": 1786806070,
+      "duration": 266.318325,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "803a08113ccc28c65d85ce50fc3c5d67",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ce0e51f088b2e80f8db7c1f2",
+        "id": "b8642945089703c949206ecd725594db",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/26602a2082b95ee74fc2cdce",
         "custom_fields": [],
-        "text": "Los Puntillanos - La duda",
-        "artist": "Los Puntillanos",
-        "title": "La duda",
-        "album": "",
+        "text": "Banda de la escuela de suboficiales - BANDA DE GUERRA ESC. SUBOFICIALES - General Schneider",
+        "artist": "Banda de la escuela de suboficiales",
+        "title": "General Schneider",
+        "album": "BANDA DE GUERRA ESC. SUBOFICIALES",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 284759,
+        "played_at": 1786805602,
+        "duration": 248,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "68cb389b2471d9e72c525d8e89647c3c",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7afb74e75f2ea43e5dd81d4b-1757470407.jpg",
+          "custom_fields": [],
+          "text": "Congregacion - Viene... - Tanto Parcelamiento",
+          "artist": "Congregacion",
+          "title": "Tanto Parcelamiento",
+          "album": "Viene...",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 284758,
+        "played_at": 1786805360,
+        "duration": 246,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "5a82bea98bb1d7b1f378ea4bdbac6f8f",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/281ad6182103c67df4f15f71",
+          "custom_fields": [],
+          "text": "Nano Acevedo y Pancho Navarro - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Arriba la Guardia",
+          "artist": "Nano Acevedo y Pancho Navarro",
+          "title": "Arriba la Guardia",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 284755,
+        "played_at": 1786805154,
+        "duration": 208,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "803a08113ccc28c65d85ce50fc3c5d67",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ce0e51f088b2e80f8db7c1f2",
+          "custom_fields": [],
+          "text": "Los Puntillanos - La duda",
+          "artist": "Los Puntillanos",
+          "title": "La duda",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 284752,
+        "played_at": 1786804967,
+        "duration": 194,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "4ee008a2a5478650f1141d8954716937",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/36728de006223b33be12337c",
+          "custom_fields": [],
+          "text": "Jeronimo - El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE] - El ultimo tren del domingo",
+          "artist": "Jeronimo",
+          "title": "El ultimo tren del domingo",
+          "album": "El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 284750,
         "played_at": 1786804903,
@@ -235,86 +315,6 @@
           "title": "Cu\u00f1a EDEC",
           "album": "EDEC",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284747,
-        "played_at": 1786804745,
-        "duration": 170,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "21fd986a07b18a55d45c4d9fef7a5c28",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3484782accfc015b87565cc3-1757470296.jpg",
-          "custom_fields": [],
-          "text": "Amerindios - Tu sue\u00f1o es mi sue\u00f1o, tu grito es mi canto... - Cueca beat",
-          "artist": "Amerindios",
-          "title": "Cueca beat",
-          "album": "Tu sue\u00f1o es mi sue\u00f1o, tu grito es mi canto...",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284746,
-        "played_at": 1786804686,
-        "duration": 61,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "35344c1dd050880d37753cc73f3eb125",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/b60823703e2681194b059b5c",
-          "custom_fields": [],
-          "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - La Trastasera",
-          "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
-          "title": "La Trastasera",
-          "album": "Aucam\u00e1n",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284742,
-        "played_at": 1786804487,
-        "duration": 207,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3fbaf887720045a15def029676689400",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d9c33f5d913b922fe548ac5a",
-          "custom_fields": [],
-          "text": "Quilapay\u00fan - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-          "artist": "Quilapay\u00fan",
-          "title": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
-          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284741,
-        "played_at": 1786804224,
-        "duration": 263,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "bc7db84a84ca69a434c011c9b7c457db",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/16780cf4185e32630d4887d5",
-          "custom_fields": [],
-          "text": "Panal - Panal - Cucurrucucu paloma",
-          "artist": "Panal",
-          "title": "Cucurrucucu paloma",
-          "album": "Panal",
-          "genre": "Psych",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,47 +373,107 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 284748,
-      "played_at": 1786804786,
-      "duration": 265,
+      "sh_id": 284761,
+      "played_at": 1786805798,
+      "duration": 268,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "8df173fe5e453b8fe84ccb5d57fe9ad9",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/96ceed36df3d8aa7d93b280e-1781895278.jpg",
+        "id": "ceba1434bc791860039feb7dbbd1c7aa",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/39db38415de04b24a3d34097-1781895713.jpg",
         "custom_fields": [],
-        "text": "Chaka Khan - Chaka Khan (Tracks) - It Ain't Easy Lovin' Me",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - I Know You, I Live You",
         "artist": "Chaka Khan",
-        "title": "It Ain't Easy Lovin' Me",
+        "title": "I Know You, I Live You",
         "album": "Chaka Khan (Tracks)",
         "genre": "R&B",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 196,
-      "remaining": 69
+      "elapsed": 165,
+      "remaining": 103
     },
     "playing_next": {
-      "cued_at": 1786804537,
-      "played_at": 1786805043,
-      "duration": 249.234275,
+      "cued_at": 1786805287,
+      "played_at": 1786806056,
+      "duration": 373.0547,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "a3f8e787124da50faf37b6517719ed4d",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4e9b821e22aec20b37538fe2-1781895434.jpg",
+        "id": "9af63294cc0c869ccd91813443b55eff",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ed337f9e70163a6c624400d9-1781895612.jpg",
         "custom_fields": [],
-        "text": "Chaka Khan - Chaka Khan (Tracks) - I Feel For You (7'' Edit)",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - Love Of A Lifetime (Extended Dance Version)",
         "artist": "Chaka Khan",
-        "title": "I Feel For You (7'' Edit)",
+        "title": "Love Of A Lifetime (Extended Dance Version)",
         "album": "Chaka Khan (Tracks)",
         "genre": "R&B",
         "isrc": "",
-        "lyrics": "Suspicions rising, answers aren't clear\rI thought we made a promise, now you've disappeared\rYou seem to lead two lives at a time\rDo I still fit in, I thought you were mine\rSitting at the bar in our favorite cafe\rI turn and see ya laughin' with her and your smile fades away\rDidn't surprise me, there's nothin' left to say\rI caught you red-handed now and you can't walk away\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, and I can't stand to hear your lies\rCaught in the act, don't you try and change my mind\r\rYou called me the only, you said, \"she's only a friend\"\rDon't pretend you're sorry, my heart will mend\rDon't you come back to me, don't you try to call\rYou couldn't hold my heart with love, now you can't hold me at all\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a"
+        "lyrics": "Love of a lifetime  Good for you (heart of change) Got to be the heart of change Good for me - a heart of change I know we'll get it better Stir it up (got to be) Stir it tender heartedly Stir it and The whole world's gettin' better  BRIDGE:  I believe the world to be Fast and ever changing That's the way my love will be Got to last and satisfy me  CHORUS:  You got the love of a lifetime You're such a rock steady lover, baby Keep up the good love for Chaka You can hold it, boy 'Cause you don't let it go  Good for you Good for me The way we work together Short and sweet (hit and run) I know where you're comin' from We can steal And baby, we'll hit and run together  Repeat bridge  We got the love of a lifetime Ooh, we're such rock steady lovers, baby Keep up the good love together We can hold it, boy And never let it go  We got the love of a lifetime We got to keep on rockin' steady I really think I'm ready now Baby, I'm burnin', burnin', burnin'  You got the love of a lifetime You're such a rock steady lover, baby Keep up the good love for Chaka You can hold it, boy, never let it go We got the love of a lifetime Ooh, we're such rock steady lovers, baby Keep up the good love together Hold it, boy  Love of a lifetime  (Love of a lifetime) We got the love, we got the love We got the love Guess it's just a heart of change We got the love, we got the love We got the love It's got to be a heart of change We got the love, we got the love..."
       }
     },
     "song_history": [
+      {
+        "sh_id": 284757,
+        "played_at": 1786805297,
+        "duration": 505,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "4d92a026bd3f7de236bd207fa6083edc",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/eb1fb98f158d4a6b6c86fe08-1781895288.jpg",
+          "custom_fields": [],
+          "text": "Chaka Khan - Chaka Khan (Tracks) - I Feel For You (Extended 12'' Mix)",
+          "artist": "Chaka Khan",
+          "title": "I Feel For You (Extended 12'' Mix)",
+          "album": "Chaka Khan (Tracks)",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": "Suspicions rising, answers aren't clear\rI thought we made a promise, now you've disappeared\rYou seem to lead two lives at a time\rDo I still fit in, I thought you were mine\rSitting at the bar in our favorite cafe\rI turn and see ya laughin' with her and your smile fades away\rDidn't surprise me, there's nothin' left to say\rI caught you red-handed now and you can't walk away\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, and I can't stand to hear your lies\rCaught in the act, don't you try and change my mind\r\rYou called me the only, you said, \"she's only a friend\"\rDon't pretend you're sorry, my heart will mend\rDon't you come back to me, don't you try to call\rYou couldn't hold my heart with love, now you can't hold me at all\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a"
+        }
+      },
+      {
+        "sh_id": 284753,
+        "played_at": 1786805048,
+        "duration": 249,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "a3f8e787124da50faf37b6517719ed4d",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4e9b821e22aec20b37538fe2-1781895434.jpg",
+          "custom_fields": [],
+          "text": "Chaka Khan - Chaka Khan (Tracks) - I Feel For You (7'' Edit)",
+          "artist": "Chaka Khan",
+          "title": "I Feel For You (7'' Edit)",
+          "album": "Chaka Khan (Tracks)",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": "Suspicions rising, answers aren't clear\rI thought we made a promise, now you've disappeared\rYou seem to lead two lives at a time\rDo I still fit in, I thought you were mine\rSitting at the bar in our favorite cafe\rI turn and see ya laughin' with her and your smile fades away\rDidn't surprise me, there's nothin' left to say\rI caught you red-handed now and you can't walk away\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, and I can't stand to hear your lies\rCaught in the act, don't you try and change my mind\r\rYou called me the only, you said, \"she's only a friend\"\rDon't pretend you're sorry, my heart will mend\rDon't you come back to me, don't you try to call\rYou couldn't hold my heart with love, now you can't hold me at all\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a"
+        }
+      },
+      {
+        "sh_id": 284748,
+        "played_at": 1786804786,
+        "duration": 265,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "8df173fe5e453b8fe84ccb5d57fe9ad9",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/96ceed36df3d8aa7d93b280e-1781895278.jpg",
+          "custom_fields": [],
+          "text": "Chaka Khan - Chaka Khan (Tracks) - It Ain't Easy Lovin' Me",
+          "artist": "Chaka Khan",
+          "title": "It Ain't Easy Lovin' Me",
+          "album": "Chaka Khan (Tracks)",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 284744,
         "played_at": 1786804543,
@@ -452,66 +512,6 @@
           "genre": "R&B",
           "isrc": "",
           "lyrics": "I'm in the mood to end these empty days\rEver when I, you stare down romancin'\rEvery time I see your face hopeless\rColder than ice with no more flame\r\rI think our love has reached the part of no return\rIt's so sad when lovers don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThat distant look is all you've got to say\rEvery time I try to talk to you\rEvery word is lost in space\rDrifting further apart in every way\r\rWe've come to be the ones whose love is out of sight\rIt's so clear that we just don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThere's no reason for this heartache\rTo go on and on when the feeling's gone\rI can say now that it's to late\rTo try and change your mind\r\rNo tear, oh yeah\rA look everyday, yeah\r[Incomprehensible]\rEye to eye, I'm seeing\rEye to eye to just keep singing\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rEye to eye, a look says everything\rEye to eye, a look says everything\rEye to eye, so close, so far away\rEye to eye"
-        }
-      },
-      {
-        "sh_id": 284737,
-        "played_at": 1786803844,
-        "duration": 311,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "7587b5abef580c17f6e1515e88f91d54",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cb7f6da8e0328419dc4bb58a-1781895645.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Every Little Thing",
-          "artist": "Chaka Khan",
-          "title": "Every Little Thing",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284731,
-        "played_at": 1786803369,
-        "duration": 478,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "7eaef181c53f300e7848ab3f2de45201",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6487bd23799396d47eb6b124",
-          "custom_fields": [],
-          "text": "6. damas",
-          "artist": "",
-          "title": "6. damas",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 284728,
-        "played_at": 1786803233,
-        "duration": 140,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "993ebce31137b940f96f2d1a5d56f7b4",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/83a4cdc8fe35178ab4e0ac5d",
-          "custom_fields": [],
-          "text": "5. famatina",
-          "artist": "",
-          "title": "5. famatina",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
         }
       }
     ],
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786198638,
-      "played_at": 1786804963,
+      "played_at": 1786805952,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
