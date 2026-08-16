@@ -63,63 +63,63 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286226,
-      "played_at": 1786920517,
-      "duration": 179,
+      "sh_id": 286237,
+      "played_at": 1786921288,
+      "duration": 270,
       "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "b9c168515126ca682d3be4ea5372fdd1",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c8d9c99d9881382d2c59957a-1772156164.jpg",
+        "id": "21f4f469483ba45ba8abf3480cd72939",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/d8885cabf6c9dfa45a44f846-1774284692.jpg",
         "custom_fields": [],
-        "text": "SASSY 009 - Dreamer+ - In the Snow",
-        "artist": "SASSY 009",
-        "title": "In the Snow",
-        "album": "Dreamer+",
+        "text": "Jackson Conti - Sujinho - Amazon Stroll",
+        "artist": "Jackson Conti",
+        "title": "Amazon Stroll",
+        "album": "Sujinho",
         "genre": "",
-        "isrc": "GBENL2504463",
+        "isrc": "USA2P2151105",
         "lyrics": ""
       },
-      "elapsed": 79,
-      "remaining": 100
+      "elapsed": 12,
+      "remaining": 258
     },
     "playing_next": {
-      "cued_at": 1786920034,
-      "played_at": 1786920691,
-      "duration": 194.66445,
+      "cued_at": 1786921258,
+      "played_at": 1786921554,
+      "duration": 283.794275,
       "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "68f2d4f3382554ce5a153dcaaecee375",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/fd66cc24fc328ee8a69904a8-1778812566.jpg",
+        "id": "184211ec0bad94052504936df8caa057",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/70783bab0184dd78e63b66c4-1780605324.jpg",
         "custom_fields": [],
-        "text": "Irked - The Grievance - Who Asked?",
-        "artist": "Irked",
-        "title": "Who Asked?",
-        "album": "The Grievance",
+        "text": "Peach - Soak Vol. 1 - Accidental Zoom",
+        "artist": "Peach",
+        "title": "Accidental Zoom",
+        "album": "Soak Vol. 1",
         "genre": "",
-        "isrc": "GBHLW2606008",
+        "isrc": "USYBL2600754",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 286219,
-        "played_at": 1786920041,
-        "duration": 478,
-        "playlist": "RECUENTO_2024",
+        "sh_id": 286236,
+        "played_at": 1786921264,
+        "duration": 24,
+        "playlist": "MARCAS",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "f16c81bfb63b23338ae0680c49d5fd42",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/5caab58dd821aae24df9170b-1762986676.jpg",
+          "id": "40d16631d7473d7a2df1b7357af7da7b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
           "custom_fields": [],
-          "text": "Papa M - Ballads of Harry Houdini - Thank You For Talking To Me (When I Was Fat)",
-          "artist": "Papa M",
-          "title": "Thank You For Talking To Me (When I Was Fat)",
-          "album": "Ballads of Harry Houdini",
-          "genre": "",
+          "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+          "artist": "Radio Mario Maria",
+          "title": "Toques de Gong Radios Chilenas",
+          "album": "MARCA",
+          "genre": "MARCA",
           "isrc": "",
           "lyrics": ""
         }
@@ -178,47 +178,107 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286227,
-      "played_at": 1786920589,
-      "duration": 167,
+      "sh_id": 286235,
+      "played_at": 1786921200,
+      "duration": 107,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "b81a747e01db286f32e60f1200afccf3",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f8634a5fe55130a79f4ac4f7",
+        "id": "2896e0f3b898e7897c38399a7db1f926",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7008d7f1e606857c588b6f68",
         "custom_fields": [],
-        "text": "Don Rodrigo con Julio Urbina y Su Orquesta - Este Verano / Todo Por Ti - Todo Por Ti",
-        "artist": "Don Rodrigo con Julio Urbina y Su Orquesta",
-        "title": "Todo Por Ti",
-        "album": "Este Verano / Todo Por Ti",
+        "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Relato",
+        "artist": "Coro Universidad Austral de Chile",
+        "title": "Relato",
+        "album": "Cantata Santa Mar\u00eda de Iquique",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 7,
-      "remaining": 160
+      "elapsed": 100,
+      "remaining": 7
     },
     "playing_next": {
-      "cued_at": 1786920481,
-      "played_at": 1786920751,
-      "duration": 59.2395,
-      "playlist": "EDEC",
+      "cued_at": 1786920804,
+      "played_at": 1786921302,
+      "duration": 57.144032089924,
+      "playlist": "CU\u00d1AS",
       "is_request": false,
       "song": {
-        "id": "6de31fd8f538056b4c6fa5230a029c55",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d4c87351c5d3c9ea8dd00a11",
+        "id": "a5c91d23cbe024d0bb484c75d64bcc58",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/489b820e6842f47801e9faac",
         "custom_fields": [],
-        "text": "Relato - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Chile Tierra",
-        "artist": "Relato",
-        "title": "Chile Tierra",
-        "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+        "text": "Carolina Castro Zamorano - EDEC - Cu\u00f1a EDEC",
+        "artist": "Carolina Castro Zamorano",
+        "title": "Cu\u00f1a EDEC",
+        "album": "EDEC",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 286230,
+        "played_at": 1786920811,
+        "duration": 389,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "98c39db456c94a89e9bbfe60b9f55d5d",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/9d0220d21130dcd62a4e5a48",
+          "custom_fields": [],
+          "text": "Salvador Allende y otros - 4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular - Pista 5 primer a\u00f1o del Gobierno Popular",
+          "artist": "Salvador Allende y otros",
+          "title": "Pista 5 primer a\u00f1o del Gobierno Popular",
+          "album": "4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286229,
+        "played_at": 1786920753,
+        "duration": 59,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "6de31fd8f538056b4c6fa5230a029c55",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d4c87351c5d3c9ea8dd00a11",
+          "custom_fields": [],
+          "text": "Relato - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Chile Tierra",
+          "artist": "Relato",
+          "title": "Chile Tierra",
+          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286227,
+        "played_at": 1786920589,
+        "duration": 167,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b81a747e01db286f32e60f1200afccf3",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f8634a5fe55130a79f4ac4f7",
+          "custom_fields": [],
+          "text": "Don Rodrigo con Julio Urbina y Su Orquesta - Este Verano / Todo Por Ti - Todo Por Ti",
+          "artist": "Don Rodrigo con Julio Urbina y Su Orquesta",
+          "title": "Todo Por Ti",
+          "album": "Este Verano / Todo Por Ti",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 286225,
         "played_at": 1786920488,
@@ -255,66 +315,6 @@
           "title": "Iluso Que Sue\u00f1as",
           "album": "Sacros",
           "genre": "Psychedelic Folk-Rock",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286222,
-        "played_at": 1786920211,
-        "duration": 147,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "e50919a44e81b0210d1c3665e22494dd",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/742749910ca4983187aa8bad",
-          "custom_fields": [],
-          "text": "Norte Andino - Norte Andino - Quisiera un Pu\u00f1al",
-          "artist": "Norte Andino",
-          "title": "Quisiera un Pu\u00f1al",
-          "album": "Norte Andino",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286220,
-        "played_at": 1786920046,
-        "duration": 165,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8150b57259ea4fd893aaf3d3cf69cb9b",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/341ee974e3e83b1e7d788dfb",
-          "custom_fields": [],
-          "text": "Nino Lardi - NINO LARDI - Cobard\u00eda",
-          "artist": "Nino Lardi",
-          "title": "Cobard\u00eda",
-          "album": "NINO LARDI",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286217,
-        "played_at": 1786919810,
-        "duration": 247,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b23489995938876b63d29ed9f5b64a27",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/caf673be48bd6680daa68538",
-          "custom_fields": [],
-          "text": "Frutos del Pa\u00eds - Sin T\u00ed - Sin T\u00ed",
-          "artist": "Frutos del Pa\u00eds",
-          "title": "Sin T\u00ed",
-          "album": "Sin T\u00ed",
-          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,47 +373,87 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286224,
-      "played_at": 1786920369,
-      "duration": 469,
+      "sh_id": 286233,
+      "played_at": 1786921083,
+      "duration": 250,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "2b54d9756a59ca0aecfbc8a1804fd970",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ee4e78a69b0f1ffc5d30c6e7-1781895273.jpg",
+        "id": "b5a12373d2755e21233384d8f722493f",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/da5f9c028b3715eac252c7fa-1781895344.jpg",
         "custom_fields": [],
-        "text": "Davina - Don't You Want It (Extended)",
-        "artist": "Davina",
-        "title": "Don't You Want It (Extended)",
-        "album": "",
-        "genre": "",
+        "text": "Friends Of Distinction - Soul Compi - Going In Circles",
+        "artist": "Friends Of Distinction",
+        "title": "Going In Circles",
+        "album": "Soul Compi",
+        "genre": "Other",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 227,
-      "remaining": 242
+      "elapsed": 217,
+      "remaining": 33
     },
     "playing_next": {
-      "cued_at": 1786920090,
-      "played_at": 1786920830,
-      "duration": 247.875875,
+      "cued_at": 1786920830,
+      "played_at": 1786921324,
+      "duration": 287.68655542841,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "58ffe679f5245e0baff962b061220580",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
+        "id": "1cc24f9a646fe92a5abfdc64c4c570c0",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9bfe0cc70e32ceb2ea2f8c59-1781895454.jpg",
         "custom_fields": [],
-        "text": "Delegation - The Promise Of Love - Oh Honey",
-        "artist": "Delegation",
-        "title": "Oh Honey",
-        "album": "The Promise Of Love",
-        "genre": "Disco",
+        "text": "Gold In The Shade - Over You / Shining Through - Over You (Mix 2)",
+        "artist": "Gold In The Shade",
+        "title": "Over You (Mix 2)",
+        "album": "Over You / Shining Through",
+        "genre": "Dance",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 286231,
+        "played_at": 1786920839,
+        "duration": 247,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "58ffe679f5245e0baff962b061220580",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
+          "custom_fields": [],
+          "text": "Delegation - The Promise Of Love - Oh Honey",
+          "artist": "Delegation",
+          "title": "Oh Honey",
+          "album": "The Promise Of Love",
+          "genre": "Disco",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286224,
+        "played_at": 1786920369,
+        "duration": 469,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "2b54d9756a59ca0aecfbc8a1804fd970",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ee4e78a69b0f1ffc5d30c6e7-1781895273.jpg",
+          "custom_fields": [],
+          "text": "Davina - Don't You Want It (Extended)",
+          "artist": "Davina",
+          "title": "Don't You Want It (Extended)",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 286221,
         "played_at": 1786920096,
@@ -472,46 +512,6 @@
           "genre": "Other",
           "isrc": "",
           "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286208,
-        "played_at": 1786918948,
-        "duration": 347,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "72660b3231a8161932b2239786c97834",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e07e15fb5efdddd5214d0a03-1781895352.jpg",
-          "custom_fields": [],
-          "text": "Change - Mutual Attraction",
-          "artist": "Change",
-          "title": "Mutual Attraction",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286203,
-        "played_at": 1786918647,
-        "duration": 301,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3d39b60ba6bab3c85b97d15c292af5e0",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8e72f6517dac290d87eee2e7-1781895689.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - And The Melody Still Lingers On (Night In Tunisia)",
-          "artist": "Chaka Khan",
-          "title": "And The Melody Still Lingers On (Night In Tunisia)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "A long time ago in the 40's\rDizzy and bird gave us this song\rThey called it a night in Tunisia\rAnd the melody still lingers on\r\rIt was new and very strange\rBlew the squares right off the stage\rFew could play along\rThe, the melody still lingers on\r\rMax and miles to name just two\rTogether they grew\rThe music was young and strong\rAnd the melody still lingers on\r\rThey paved the way for generations\rFrom Coltrane to Stevie\rNo one could stop the winds of change\rWithout them where'd we be?\r\rThe Duke and the Prez were there before\rThe past you can't ignore\rThe torch is lit, we'll keep the flame\rAnd the melody remains the same\r\rThe Duke and the Prez were there before\rThe past you can't ignore\rThe torch is lit, we'll keep the flame\rAnd the melody remains the same\r\rA long time ago in the 40's\rDizzy and bird gave us this song\rThey called it a night in Tunisia\rAnd the melody still lingers on\r\rIn the 40's, a night in Tunisia\rIn the 40's, a night in Tunisia\rIn the 40's, a night in Tunisia\rIn the 40's, a night in Tunisia"
         }
       }
     ],
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786313979,
-      "played_at": 1786920588,
+      "played_at": 1786921285,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
