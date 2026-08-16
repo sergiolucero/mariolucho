@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286145,
-      "played_at": 1786913643,
-      "duration": 332,
-      "playlist": "RECUENTO_2025",
+      "sh_id": 286156,
+      "played_at": 1786914704,
+      "duration": 393,
+      "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "ea9deb90fbb8de685acf48614d075800",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/cfb4266d9679f054f5c72895-1762990297.jpg",
+        "id": "122d923ded1aee80e3f87d46ca521d1d",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/793f99d034fadac0b0582022-1784510133.jpg",
         "custom_fields": [],
-        "text": "Alex Chilton / Ben Vaughn / Alan Vega - Cubist Blues - Fly Away",
-        "artist": "Alex Chilton / Ben Vaughn / Alan Vega",
-        "title": "Fly Away",
-        "album": "Cubist Blues",
+        "text": "Akusmi / Marysia Osu / Dud\u00f9 Kouate / Sarathy Korwar - Terra Incognita - Drongo's Flute",
+        "artist": "Akusmi / Marysia Osu / Dud\u00f9 Kouate / Sarathy Korwar",
+        "title": "Drongo's Flute",
+        "album": "Terra Incognita",
         "genre": "",
-        "isrc": "",
+        "isrc": "GX4FT2620005",
         "lyrics": ""
       },
-      "elapsed": 41,
-      "remaining": 291
+      "elapsed": 113,
+      "remaining": 280
     },
     "playing_next": {
-      "cued_at": 1786913456,
-      "played_at": 1786913970,
-      "duration": 24.372284638538,
-      "playlist": "MARCAS",
+      "cued_at": 1786914597,
+      "played_at": 1786915092,
+      "duration": 168.0718,
+      "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "40d16631d7473d7a2df1b7357af7da7b",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
+        "id": "3681fb463d723c918c00849537622f9f",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/71c20be5e9104ebdc765a664-1781388507.jpg",
         "custom_fields": [],
-        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
-        "artist": "Radio Mario Maria",
-        "title": "Toques de Gong Radios Chilenas",
-        "album": "MARCA",
-        "genre": "MARCA",
-        "isrc": "",
+        "text": "Fawzi / Al Nather - 2000 - Hajmeh",
+        "artist": "Fawzi / Al Nather",
+        "title": "Hajmeh",
+        "album": "2000",
+        "genre": "",
+        "isrc": "QZMEM2131122",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 286142,
-        "played_at": 1786913463,
-        "duration": 189,
-        "playlist": "RECUENTO_2026",
+        "sh_id": 286155,
+        "played_at": 1786914603,
+        "duration": 102,
+        "playlist": "RECUENTO_2025",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "d14aac38e7b135e554e06b2bece54ba1",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/e763febec33e0968c30fb5db-1768955466.jpg",
+          "id": "e01378c83d0a5d965917347b398ff2fa",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c3e44e4bff979f72fe258f52-1762998526.jpg",
           "custom_fields": [],
-          "text": "Xiu Xiu - Xiu Mutha Fuckin' Xiu: Vol. 1 - Lick or Sum",
-          "artist": "Xiu Xiu",
-          "title": "Lick or Sum",
-          "album": "Xiu Mutha Fuckin' Xiu: Vol. 1",
+          "text": "Michaela Turcerov\u00e1 - alene et - in flux \u00e4",
+          "artist": "Michaela Turcerov\u00e1",
+          "title": "in flux \u00e4",
+          "album": "alene et",
           "genre": "",
-          "isrc": "US3R42652009",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 3,
+            "unique": 3,
+            "current": 3
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 3,
+      "unique": 3,
+      "current": 3
     },
     "live": {
       "is_live": false,
@@ -178,47 +178,87 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286143,
-      "played_at": 1786913519,
-      "duration": 182,
+      "sh_id": 286147,
+      "played_at": 1786913874,
+      "duration": 1315,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "8a9e772fdea1ba43de903de13bf600dc",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/db65b14ddc4a96bac0b7a477",
+        "id": "ec17efb4e7662e411cd04e1072849873",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/2915a80b114ba888747de2be",
         "custom_fields": [],
-        "text": "Los Harmonic`s - Si pudiera",
-        "artist": "Los Harmonic`s",
-        "title": "Si pudiera",
-        "album": "",
+        "text": "Jos\u00e9 Vicente Asuar - El Computador Virtuoso - Exposici\u00f3n de Sonidos Electr\u00f3nicos y M\u00fasica con Computadoras",
+        "artist": "Jos\u00e9 Vicente Asuar",
+        "title": "Exposici\u00f3n de Sonidos Electr\u00f3nicos y M\u00fasica con Computadoras",
+        "album": "El Computador Virtuoso",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 165,
-      "remaining": 17
+      "elapsed": 943,
+      "remaining": 372
     },
     "playing_next": {
-      "cued_at": 1786913368,
-      "played_at": 1786913697,
-      "duration": 178.259592,
+      "cued_at": 1786913692,
+      "played_at": 1786915184,
+      "duration": 56.555102,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "1e85af0867daf3dca348fdd59a302ffc",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e61be38b06ed2ce16a64cbaa",
+        "id": "86a6a7afe6892061e177f88c8d9fac8e",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/401099e0aea124b9fa713aa4",
         "custom_fields": [],
-        "text": "Los Emigrantitos - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Mi Pap\u00e1 en la Guardia",
-        "artist": "Los Emigrantitos",
-        "title": "Mi Pap\u00e1 en la Guardia",
-        "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+        "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - El Pequ\u00e9n",
+        "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
+        "title": "El Pequ\u00e9n",
+        "album": "Aucam\u00e1n",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 286146,
+        "played_at": 1786913699,
+        "duration": 178,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1e85af0867daf3dca348fdd59a302ffc",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e61be38b06ed2ce16a64cbaa",
+          "custom_fields": [],
+          "text": "Los Emigrantitos - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Mi Pap\u00e1 en la Guardia",
+          "artist": "Los Emigrantitos",
+          "title": "Mi Pap\u00e1 en la Guardia",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286143,
+        "played_at": 1786913519,
+        "duration": 182,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "8a9e772fdea1ba43de903de13bf600dc",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/db65b14ddc4a96bac0b7a477",
+          "custom_fields": [],
+          "text": "Los Harmonic`s - Si pudiera",
+          "artist": "Los Harmonic`s",
+          "title": "Si pudiera",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 286141,
         "played_at": 1786913374,
@@ -278,46 +318,6 @@
           "isrc": "",
           "lyrics": ""
         }
-      },
-      {
-        "sh_id": 286134,
-        "played_at": 1786912711,
-        "duration": 129,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "c639b29e049fadba44ac6f894d35e92c",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/51158ab04ef29a76f6c4af0b",
-          "custom_fields": [],
-          "text": "Gumercindo Licidio - Norte Andino - La Mariposa",
-          "artist": "Gumercindo Licidio",
-          "title": "La Mariposa",
-          "album": "Norte Andino",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286132,
-        "played_at": 1786912514,
-        "duration": 204,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "30c10785b7f4317f4e1b48c94bf8aa23",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/349d1e276642a850c612e9f2",
-          "custom_fields": [],
-          "text": "Pop-Tops - Escondite / Paseando por la rivera [SINGLE] - Escondite",
-          "artist": "Pop-Tops",
-          "title": "Escondite",
-          "album": "Escondite / Paseando por la rivera [SINGLE]",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
       }
     ],
     "is_online": true,
@@ -373,40 +373,40 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 286144,
-      "played_at": 1786913594,
-      "duration": 405,
+      "sh_id": 286154,
+      "played_at": 1786914600,
+      "duration": 365,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "9d124de9c6f13454cfd80d195539a89f",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/05c13060ee28400fbc62cf83-1781895271.jpg",
+        "id": "ebdc9117ec14d31184fc5d52a1db7585",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ee4c5960d76ce9ad7e8781bd-1781895323.jpg",
         "custom_fields": [],
-        "text": "Armenta & Majik - Internet Radio - I Wanna Be With You (Long Version)",
-        "artist": "Armenta & Majik",
-        "title": "I Wanna Be With You (Long Version)",
-        "album": "Internet Radio",
-        "genre": "Dance Classics",
+        "text": "Attitude - Love Me Tonight",
+        "artist": "Attitude",
+        "title": "Love Me Tonight",
+        "album": "",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 90,
-      "remaining": 315
+      "elapsed": 217,
+      "remaining": 148
     },
     "playing_next": {
-      "cued_at": 1786913171,
-      "played_at": 1786913990,
-      "duration": 358.112625,
+      "cued_at": 1786914348,
+      "played_at": 1786914957,
+      "duration": 421.92979166667,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "b09f2312bfe6c088390594ca363875e8",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/f6dd027ec0c44771a3bc5633-1781895457.jpg",
+        "id": "ccde7bc677a6d0dea52096773efc826c",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3f6006c57f9bb192a479dc10-1781895264.jpg",
         "custom_fields": [],
-        "text": "Arthur Adams - Unknown Album Dance Classics - You Got The Floor (Original Extended 12'')",
-        "artist": "Arthur Adams",
-        "title": "You Got The Floor (Original Extended 12'')",
+        "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Dub Remix)",
+        "artist": "Aurra",
+        "title": "Like I Like It (Dub Remix)",
         "album": "Unknown Album Dance Classics",
         "genre": "Dance Classics",
         "isrc": "",
@@ -414,6 +414,66 @@
       }
     },
     "song_history": [
+      {
+        "sh_id": 286152,
+        "played_at": 1786914353,
+        "duration": 247,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "89c67b91e4d444c57c76fdda2d8769d7",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6672f4cefce8d6a19da70c87-1781895260.jpg",
+          "custom_fields": [],
+          "text": "Atlantic Starr - Unknown Album Dance Classics - Let The Sun In",
+          "artist": "Atlantic Starr",
+          "title": "Let The Sun In",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286150,
+        "played_at": 1786913999,
+        "duration": 358,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b09f2312bfe6c088390594ca363875e8",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/f6dd027ec0c44771a3bc5633-1781895457.jpg",
+          "custom_fields": [],
+          "text": "Arthur Adams - Unknown Album Dance Classics - You Got The Floor (Original Extended 12'')",
+          "artist": "Arthur Adams",
+          "title": "You Got The Floor (Original Extended 12'')",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 286144,
+        "played_at": 1786913594,
+        "duration": 405,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "9d124de9c6f13454cfd80d195539a89f",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/05c13060ee28400fbc62cf83-1781895271.jpg",
+          "custom_fields": [],
+          "text": "Armenta & Majik - Internet Radio - I Wanna Be With You (Long Version)",
+          "artist": "Armenta & Majik",
+          "title": "I Wanna Be With You (Long Version)",
+          "album": "Internet Radio",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 286140,
         "played_at": 1786913176,
@@ -450,66 +510,6 @@
           "title": "Get It Down",
           "album": "DSR003",
           "genre": "Deep House",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286131,
-        "played_at": 1786912503,
-        "duration": 355,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "90101703ceebfb666d4bc1bab4ed5868",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6f0af01c636cb93026a3f114-1781895722.jpg",
-          "custom_fields": [],
-          "text": "Anthony Franklin - Unknown Album Dance Classics - Hot Number",
-          "artist": "Anthony Franklin",
-          "title": "Hot Number",
-          "album": "Unknown Album Dance Classics",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286124,
-        "played_at": 1786912127,
-        "duration": 376,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "4e18065bb136bae7a7733bf71e30186a",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/d9b24b5b1c005b0ac952b3e3-1781895442.jpg",
-          "custom_fields": [],
-          "text": "Andrea True Connection - Unknown Album Dance Classics - More More More (12 Inch Disco Mix 1976)",
-          "artist": "Andrea True Connection",
-          "title": "More More More (12 Inch Disco Mix 1976)",
-          "album": "Unknown Album Dance Classics",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 286119,
-        "played_at": 1786911641,
-        "duration": 490,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "5767d6acefea097f27c907c97ea96ee1",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4f07204753ce8dc2e621d85e-1781895358.jpg",
-          "custom_fields": [],
-          "text": "Amant - Dance classics - Don't Bring Back Memories (12'' Mix)",
-          "artist": "Amant",
-          "title": "Don't Bring Back Memories (12'' Mix)",
-          "album": "Dance classics",
-          "genre": "Dance Classics",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786306767,
-      "played_at": 1786913671,
+      "played_at": 1786914807,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
