@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 285158,
-      "played_at": 1786837532,
-      "duration": 370,
-      "playlist": "RECUENTO_2026",
+      "sh_id": 285168,
+      "played_at": 1786838244,
+      "duration": 352,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "2bef174f11ed029c10028c085ea0af60",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/908fa01b1b74d1f59508d1c0-1781388566.jpg",
+        "id": "41b17ccd9ad917b774d59cd4f05b8e59",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a12b2d7b4add69ea1a36b535-1762988506.jpg",
         "custom_fields": [],
-        "text": "Phosphorescent - Muchacho - Song for Zula",
-        "artist": "Phosphorescent",
-        "title": "Song for Zula",
-        "album": "Muchacho",
+        "text": "Squid - Cowards - Cowards",
+        "artist": "Squid",
+        "title": "Cowards",
+        "album": "Cowards",
         "genre": "",
-        "isrc": "USJ5G1305002",
+        "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 208,
-      "remaining": 162
+      "elapsed": 212,
+      "remaining": 140
     },
     "playing_next": {
-      "cued_at": 1786837290,
-      "played_at": 1786837897,
-      "duration": 367.5951,
-      "playlist": "RECUENTO_2024",
+      "cued_at": 1786837882,
+      "played_at": 1786838591,
+      "duration": 24.372284638538,
+      "playlist": "MARCAS",
       "is_request": false,
       "song": {
-        "id": "3089e6097ceca9b8192d492e4a68ec66",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/25a701c185d93daabfd5e777-1762986678.jpg",
+        "id": "40d16631d7473d7a2df1b7357af7da7b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
         "custom_fields": [],
-        "text": "Holy Tongue / Shackleton - The Tumbling Psychic Joy of Now - The Merciful Lake",
-        "artist": "Holy Tongue / Shackleton",
-        "title": "The Merciful Lake",
-        "album": "The Tumbling Psychic Joy of Now",
-        "genre": "",
+        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+        "artist": "Radio Mario Maria",
+        "title": "Toques de Gong Radios Chilenas",
+        "album": "MARCA",
+        "genre": "MARCA",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 285156,
-        "played_at": 1786837297,
-        "duration": 245,
-        "playlist": "RECUENTO_2026",
+        "sh_id": 285164,
+        "played_at": 1786837889,
+        "duration": 367,
+        "playlist": "RECUENTO_2024",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "29b80addfa90d34b2585f6dc502d974d",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/5d50856910b69a587d4942a8-1775837468.jpg",
+          "id": "3089e6097ceca9b8192d492e4a68ec66",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/25a701c185d93daabfd5e777-1762986678.jpg",
           "custom_fields": [],
-          "text": "Go Kurosawa - soft shakes - Rice Harvesting Day",
-          "artist": "Go Kurosawa",
-          "title": "Rice Harvesting Day",
-          "album": "soft shakes",
+          "text": "Holy Tongue / Shackleton - The Tumbling Psychic Joy of Now - The Merciful Lake",
+          "artist": "Holy Tongue / Shackleton",
+          "title": "The Merciful Lake",
+          "album": "The Tumbling Psychic Joy of Now",
           "genre": "",
-          "isrc": "TCAJW2567097",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 3,
-            "unique": 3,
-            "current": 3
+            "total": 2,
+            "unique": 2,
+            "current": 2
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 3,
-      "unique": 3,
-      "current": 3
+      "total": 2,
+      "unique": 2,
+      "current": 2
     },
     "live": {
       "is_live": false,
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 285161,
-      "played_at": 1786837683,
-      "duration": 146,
+      "sh_id": 285169,
+      "played_at": 1786838398,
+      "duration": 222,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "9856d2065062ce68e24c52c2eb5b5d0a",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f2f9e24decd9ce293e6c0efe",
+        "id": "5145a2870bbf4aa5e36dd2d726a07400",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5ed7cda2dfbeae6edde972ba",
         "custom_fields": [],
-        "text": "Jos\u00e9 Vicente Asuar - El Computador Virtuoso - Doctor Gradus Ad Parnassum",
-        "artist": "Jos\u00e9 Vicente Asuar",
-        "title": "Doctor Gradus Ad Parnassum",
-        "album": "El Computador Virtuoso",
+        "text": "Cero Grado - Amante ni\u00f1a / Llega el oto\u00f1o - Amante ni\u00f1a",
+        "artist": "Cero Grado",
+        "title": "Amante ni\u00f1a",
+        "album": "Amante ni\u00f1a / Llega el oto\u00f1o",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 57,
-      "remaining": 89
+      "elapsed": 58,
+      "remaining": 164
     },
     "playing_next": {
-      "cued_at": 1786837636,
-      "played_at": 1786837825,
-      "duration": 137.665275,
+      "cued_at": 1786838180,
+      "played_at": 1786838615,
+      "duration": 241.972245,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "8b0863097c0410263f57cf4956d98fdf",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a23af7ffb31a7c62c0b8920d",
+        "id": "e0d5ee197baa0a3ec46d66f4cdfdcc05",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/eede8c7d8a77ca021dca3c83",
         "custom_fields": [],
-        "text": "Ver\u00f3nica Hurtado - Ellos / Cuando tu decidas - Cuando tu decidas",
-        "artist": "Ver\u00f3nica Hurtado",
-        "title": "Cuando tu decidas",
-        "album": "Ellos / Cuando tu decidas",
+        "text": "Grua - Tiempo Libre - Jungla",
+        "artist": "Grua",
+        "title": "Jungla",
+        "album": "Tiempo Libre",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 285166,
+        "played_at": 1786838187,
+        "duration": 213,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b366da48e82e6c16ae0fba85dba92bf8",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ea2494e2d7e25037fcd56acb",
+          "custom_fields": [],
+          "text": "Apache Garcia - Mi rebeli\u00f3n",
+          "artist": "Apache Garcia",
+          "title": "Mi rebeli\u00f3n",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285165,
+        "played_at": 1786837956,
+        "duration": 234,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "fbaef11ba9bcb5c3d325575b1acb174f",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3937132218690b6c4c0af5a3",
+          "custom_fields": [],
+          "text": "Isabel Pastor y Orquesta Loncurehue - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - A una Madre Ca\u00edda",
+          "artist": "Isabel Pastor y Orquesta Loncurehue",
+          "title": "A una Madre Ca\u00edda",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285163,
+        "played_at": 1786837827,
+        "duration": 137,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "8b0863097c0410263f57cf4956d98fdf",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a23af7ffb31a7c62c0b8920d",
+          "custom_fields": [],
+          "text": "Ver\u00f3nica Hurtado - Ellos / Cuando tu decidas - Cuando tu decidas",
+          "artist": "Ver\u00f3nica Hurtado",
+          "title": "Cuando tu decidas",
+          "album": "Ellos / Cuando tu decidas",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285161,
+        "played_at": 1786837683,
+        "duration": 146,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "9856d2065062ce68e24c52c2eb5b5d0a",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f2f9e24decd9ce293e6c0efe",
+          "custom_fields": [],
+          "text": "Jos\u00e9 Vicente Asuar - El Computador Virtuoso - Doctor Gradus Ad Parnassum",
+          "artist": "Jos\u00e9 Vicente Asuar",
+          "title": "Doctor Gradus Ad Parnassum",
+          "album": "El Computador Virtuoso",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 285160,
         "played_at": 1786837643,
@@ -234,86 +314,6 @@
           "artist": "Balu",
           "title": "Cu\u00f1a EDEC",
           "album": "EDEC",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285157,
-        "played_at": 1786837456,
-        "duration": 188,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "02720427c1dfaed63f39dffb5eadbe10",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/39f0824f7540065a154fdffa",
-          "custom_fields": [],
-          "text": "Ruperto Fonfach - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Viva la Patria",
-          "artist": "Ruperto Fonfach",
-          "title": "Viva la Patria",
-          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285155,
-        "played_at": 1786837272,
-        "duration": 186,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "568b87f476849cd7daa035ecfbc7f37a",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6d6a172c689e02cc2559f98b",
-          "custom_fields": [],
-          "text": "Los Fortineros - A la bandera de Chile / En la mitad de un salar - A la bandera de Chile",
-          "artist": "Los Fortineros",
-          "title": "A la bandera de Chile",
-          "album": "A la bandera de Chile / En la mitad de un salar",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285152,
-        "played_at": 1786837029,
-        "duration": 248,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "68cb389b2471d9e72c525d8e89647c3c",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7afb74e75f2ea43e5dd81d4b-1757470407.jpg",
-          "custom_fields": [],
-          "text": "Congregacion - Viene... - Tanto Parcelamiento",
-          "artist": "Congregacion",
-          "title": "Tanto Parcelamiento",
-          "album": "Viene...",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285150,
-        "played_at": 1786836886,
-        "duration": 145,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "47f250eba687fe50c7d634df685c1445",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7f20549131f8ef21a2128fcd",
-          "custom_fields": [],
-          "text": "V\u00edctor Jara - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Obreras del telar",
-          "artist": "V\u00edctor Jara",
-          "title": "Obreras del telar",
-          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,47 +373,87 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 285159,
-      "played_at": 1786837559,
-      "duration": 253,
+      "sh_id": 285167,
+      "played_at": 1786838243,
+      "duration": 297,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "bf5797963cd8bc5e0f0c170b4d2437d9",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e5ec64f77f141df8a9adf3c7-1781895473.jpg",
+        "id": "d0b181452325b13e13da33ab43b24f82",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3ed20beb3b2f0ab85874c565-1781895556.jpg",
         "custom_fields": [],
-        "text": "Special Touch - Garden Of Life - Garden Of Life",
-        "artist": "Special Touch",
-        "title": "Garden Of Life",
-        "album": "Garden Of Life",
-        "genre": "Electronic, Street Soul",
+        "text": "Stephanie Mills - What Cha Gonna Do With My Lovin' (Disc 1) - Feel The Fire",
+        "artist": "Stephanie Mills",
+        "title": "Feel The Fire",
+        "album": "What Cha Gonna Do With My Lovin' (Disc 1)",
+        "genre": "Soul",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 181,
-      "remaining": 72
+      "elapsed": 213,
+      "remaining": 84
     },
     "playing_next": {
-      "cued_at": 1786837221,
-      "played_at": 1786837803,
-      "duration": 435.64410564489,
+      "cued_at": 1786837803,
+      "played_at": 1786838532,
+      "duration": 356.16829166667,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "ca5be1a5e58b0092df816e23f6c368f5",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6e954d91427279b1f7374e97-1781895584.jpg",
+        "id": "0b70aa8e727e4a31a443c42be2da5782",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/094275a09bd263bedc373af1-1781895417.jpg",
         "custom_fields": [],
-        "text": "52nd Street - Grand 12-Inches 17 - Tell Me (How It Feels) [Extended]",
-        "artist": "52nd Street",
-        "title": "Tell Me (How It Feels) [Extended]",
-        "album": "Grand 12-Inches 17",
-        "genre": "Electronic, Funk / Soul",
+        "text": "B Beat Girls - For The Same Man VLS 12Inch - For The Same Man (Dub Version)",
+        "artist": "B Beat Girls",
+        "title": "For The Same Man (Dub Version)",
+        "album": "For The Same Man VLS 12Inch",
+        "genre": "Electro Funk",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 285162,
+        "played_at": 1786837812,
+        "duration": 435,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "ca5be1a5e58b0092df816e23f6c368f5",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6e954d91427279b1f7374e97-1781895584.jpg",
+          "custom_fields": [],
+          "text": "52nd Street - Grand 12-Inches 17 - Tell Me (How It Feels) [Extended]",
+          "artist": "52nd Street",
+          "title": "Tell Me (How It Feels) [Extended]",
+          "album": "Grand 12-Inches 17",
+          "genre": "Electronic, Funk / Soul",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 285159,
+        "played_at": 1786837559,
+        "duration": 253,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "bf5797963cd8bc5e0f0c170b4d2437d9",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e5ec64f77f141df8a9adf3c7-1781895473.jpg",
+          "custom_fields": [],
+          "text": "Special Touch - Garden Of Life - Garden Of Life",
+          "artist": "Special Touch",
+          "title": "Garden Of Life",
+          "album": "Garden Of Life",
+          "genre": "Electronic, Street Soul",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 285154,
         "played_at": 1786837226,
@@ -469,46 +509,6 @@
           "artist": "Alexander O'Neal Ft. Cherelle",
           "title": "Never Knew Love Like This Before",
           "album": "Body + Soul - Slow And Easy (CD2)",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285141,
-        "played_at": 1786836175,
-        "duration": 493,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8969b0b45f12dce718263a494b2ddf1c",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4074df86e6bc26041c43b11c-1781895661.jpg",
-          "custom_fields": [],
-          "text": "gwen guthrie - hopscotch (edit)",
-          "artist": "gwen guthrie",
-          "title": "hopscotch (edit)",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 285137,
-        "played_at": 1786835769,
-        "duration": 406,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "7637541cb540635aeee2004c71da21a5",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b423ec4d49d6c7139ca6ddf1-1781895276.jpg",
-          "custom_fields": [],
-          "text": "Aurra - Unknown Album Dance Classics - You & Me Tognight (Extended)",
-          "artist": "Aurra",
-          "title": "You & Me Tognight (Extended)",
-          "album": "Unknown Album Dance Classics",
           "genre": "Dance Classics",
           "isrc": "",
           "lyrics": ""
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786231077,
-      "played_at": 1786837726,
+      "played_at": 1786838441,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
