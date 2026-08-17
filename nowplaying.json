@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 287221,
-      "played_at": 1786995944,
-      "duration": 234,
-      "playlist": "RECUENTO_2025",
+      "sh_id": 287235,
+      "played_at": 1786996918,
+      "duration": 361,
+      "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "46511d801868a084bf25a4832aced060",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a3107d521e605bce2b6f313e-1762990565.jpg",
+        "id": "eb5d511853c8358e5fb09e4b5f6c875b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/eb98b6a0a03780d9ec4b6fda-1775246125.jpg",
         "custom_fields": [],
-        "text": "Kaitlyn Aurelia Smith - GUSH - What's Between Us",
-        "artist": "Kaitlyn Aurelia Smith",
-        "title": "What's Between Us",
-        "album": "GUSH",
+        "text": "Band X / Craig Peyton - The Best of Band X - Afterthought",
+        "artist": "Band X / Craig Peyton",
+        "title": "Afterthought",
+        "album": "The Best of Band X",
         "genre": "",
-        "isrc": "",
+        "isrc": "GBEQT1400129",
         "lyrics": ""
       },
-      "elapsed": 28,
-      "remaining": 206
+      "elapsed": 72,
+      "remaining": 289
     },
     "playing_next": {
-      "cued_at": 1786995693,
-      "played_at": 1786996173,
-      "duration": 238.5763,
-      "playlist": "IPAD",
+      "cued_at": 1786996888,
+      "played_at": 1786997275,
+      "duration": 394.448975,
+      "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "929337ef4bd1b9c46681a53b1abb9aef",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/763e2a267d156d0d683b1a17-1780613941.jpg",
+        "id": "1cd25d0dd1db3c267773aa4491147d8f",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/2218157c4afa4adf2522e94f-1768955463.jpg",
         "custom_fields": [],
-        "text": "Bourbonese Qualk - My Government Is My Soul (Expanded Version) - The Last Thing We Have Is Choice",
-        "artist": "Bourbonese Qualk",
-        "title": "The Last Thing We Have Is Choice",
-        "album": "My Government Is My Soul (Expanded Version)",
+        "text": "The Golden Palominos - Dead Inside - Metal Eye",
+        "artist": "The Golden Palominos",
+        "title": "Metal Eye",
+        "album": "Dead Inside",
         "genre": "",
-        "isrc": "",
+        "isrc": "USRY20411703",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 287218,
-        "played_at": 1786995699,
-        "duration": 258,
-        "playlist": "IPAD",
+        "sh_id": 287234,
+        "played_at": 1786996895,
+        "duration": 24,
+        "playlist": "MARCAS",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "26b3945f08a0cad54f21ab6eb6b9df9a",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/3aeec0d391f2e1613fadc9df-1780614142.jpg",
+          "id": "40d16631d7473d7a2df1b7357af7da7b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
           "custom_fields": [],
-          "text": "Geto Boys - Da Good, Da Bad & Da Ugly - Gangsta (Put Me Down)",
-          "artist": "Geto Boys",
-          "title": "Gangsta (Put Me Down)",
-          "album": "Da Good, Da Bad & Da Ugly",
-          "genre": "",
-          "isrc": "USZXT1013960",
+          "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+          "artist": "Radio Mario Maria",
+          "title": "Toques de Gong Radios Chilenas",
+          "album": "MARCA",
+          "genre": "MARCA",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 287222,
-      "played_at": 1786995964,
-      "duration": 232,
+      "sh_id": 287233,
+      "played_at": 1786996863,
+      "duration": 185,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "010cc103e5d70964422620c5214173c9",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d7284fde1f4b75fca0cbe0fc",
+        "id": "2c4a92849a5c52968d44bae9171e40fc",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/eb71aba10939fccb6788b1c2",
         "custom_fields": [],
-        "text": "Kalish - Stone of Years [SINGLE] - Stones of Years",
-        "artist": "Kalish",
-        "title": "Stones of Years",
-        "album": "Stone of Years [SINGLE]",
+        "text": "Nino Lardi - NINO LARDI - Me Beso y Se Fu\u00e9",
+        "artist": "Nino Lardi",
+        "title": "Me Beso y Se Fu\u00e9",
+        "album": "NINO LARDI",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 8,
-      "remaining": 224
+      "elapsed": 127,
+      "remaining": 58
     },
     "playing_next": {
-      "cued_at": 1786995813,
-      "played_at": 1786996192,
-      "duration": 212.269438,
+      "cued_at": 1786996622,
+      "played_at": 1786997044,
+      "duration": 169.456327,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "3abb40db250ca435f5abf2f8b643bc19",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/928aacc09b23708051ba9ab3",
+        "id": "c038ced87d53e609c866a3f2c5714820",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/83f2fdde6ea8cde98543e865",
         "custom_fields": [],
-        "text": "Claudio Y\u00e1\u00f1ez - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Nuestro cobre",
-        "artist": "Claudio Y\u00e1\u00f1ez",
-        "title": "Nuestro cobre",
-        "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+        "text": "Villadiego - Tu que te reias",
+        "artist": "Villadiego",
+        "title": "Tu que te reias",
+        "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 287230,
+        "played_at": 1786996629,
+        "duration": 237,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "66e5101e7061a866423b9a88b71ba396",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e53ef9537c8bdf68737127f9-1757470399.jpg",
+          "custom_fields": [],
+          "text": "Congregacion - Viene... - Arrebol",
+          "artist": "Congregacion",
+          "title": "Arrebol",
+          "album": "Viene...",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287227,
+        "played_at": 1786996403,
+        "duration": 226,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "7b350f866f8371436947a54301635e14",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/90bddcda696a597772727b84",
+          "custom_fields": [],
+          "text": "Allende y Amerindios - Chile, El Gran Desaf\u00edo - Allende y Amerindios - Chile, El Gran Desaf\u00edo - Salvador Allende en Las Naciones Unidas",
+          "artist": "Allende y Amerindios - Chile, El Gran Desaf\u00edo",
+          "title": "Salvador Allende en Las Naciones Unidas",
+          "album": "Allende y Amerindios - Chile, El Gran Desaf\u00edo",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287225,
+        "played_at": 1786996195,
+        "duration": 212,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "3abb40db250ca435f5abf2f8b643bc19",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/928aacc09b23708051ba9ab3",
+          "custom_fields": [],
+          "text": "Claudio Y\u00e1\u00f1ez - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Nuestro cobre",
+          "artist": "Claudio Y\u00e1\u00f1ez",
+          "title": "Nuestro cobre",
+          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287222,
+        "played_at": 1786995964,
+        "duration": 232,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "010cc103e5d70964422620c5214173c9",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d7284fde1f4b75fca0cbe0fc",
+          "custom_fields": [],
+          "text": "Kalish - Stone of Years [SINGLE] - Stones of Years",
+          "artist": "Kalish",
+          "title": "Stones of Years",
+          "album": "Stone of Years [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 287219,
         "played_at": 1786995821,
@@ -234,86 +314,6 @@
           "artist": "Ver\u00f3nica Hurtado",
           "title": "Porque mentir as\u00ed",
           "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287216,
-        "played_at": 1786995618,
-        "duration": 204,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "39c8b19762e90796193601b13a0b8358",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/94f2f60051140dcb95dae715",
-          "custom_fields": [],
-          "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Preg\u00f3n",
-          "artist": "Coro Universidad Austral de Chile",
-          "title": "Preg\u00f3n",
-          "album": "Cantata Santa Mar\u00eda de Iquique",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287215,
-        "played_at": 1786995328,
-        "duration": 296,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b48753d7a2eb10821305413637f685c7",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5e19c457ef92d942a7b3efb4-1757470861.jpg",
-          "custom_fields": [],
-          "text": "Manduka - Manduka - Patria Amada Idolatrada Salve Salve",
-          "artist": "Manduka",
-          "title": "Patria Amada Idolatrada Salve Salve",
-          "album": "Manduka",
-          "genre": "Mpb",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287212,
-        "played_at": 1786995131,
-        "duration": 204,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "30c10785b7f4317f4e1b48c94bf8aa23",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/349d1e276642a850c612e9f2",
-          "custom_fields": [],
-          "text": "Pop-Tops - Escondite / Paseando por la rivera [SINGLE] - Escondite",
-          "artist": "Pop-Tops",
-          "title": "Escondite",
-          "album": "Escondite / Paseando por la rivera [SINGLE]",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287209,
-        "played_at": 1786994957,
-        "duration": 179,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "4326103d1d22e927405ba615dce2860f",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/bd8bfc401241bddd11c2c60d",
-          "custom_fields": [],
-          "text": "Los Fortineros - A la bandera de Chile / En la mitad de un salar - En la mitad de un salar",
-          "artist": "Los Fortineros",
-          "title": "En la mitad de un salar",
-          "album": "A la bandera de Chile / En la mitad de un salar",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,40 +373,40 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 287220,
-      "played_at": 1786995827,
-      "duration": 259,
+      "sh_id": 287232,
+      "played_at": 1786996801,
+      "duration": 307,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "3476625df6e88053f1489f1c8174082d",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a2538e3cad26fd2b1385a450-1781490863.jpg",
+        "id": "218481b78dc88a2167181e6898c20a9d",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/21c287ce2ee160ecde96ec5f-1781491409.jpg",
         "custom_fields": [],
-        "text": "samuel vio - miel-reversiones  - 03 miel - lilen remix",
+        "text": "samuel vio - miel-reversiones  - 07 roci\u0301o - asap remix",
         "artist": "samuel vio",
-        "title": "miel-reversiones  - 03 miel - lilen remix",
+        "title": "miel-reversiones  - 07 roci\u0301o - asap remix",
         "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 145,
-      "remaining": 114
+      "elapsed": 189,
+      "remaining": 118
     },
     "playing_next": {
-      "cued_at": 1786995622,
-      "played_at": 1786996077,
-      "duration": 160.78367515446,
+      "cued_at": 1786996539,
+      "played_at": 1786997100,
+      "duration": 404.08818739917,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "e4e5771bf4a192f1c8e21817e307d151",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e72fef25f571cae753a3158f-1781491395.jpg",
+        "id": "b183ec36d5e19ff36b9e43be3d564545",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/2a916234969187cec1d41dfd-1781491414.jpg",
         "custom_fields": [],
-        "text": "samuel vio - miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+        "text": "samuel vio - miel-reversiones  - 08 dulce mi\u0301o - f600 remix",
         "artist": "samuel vio",
-        "title": "miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+        "title": "miel-reversiones  - 08 dulce mi\u0301o - f600 remix",
         "album": "",
         "genre": "",
         "isrc": "",
@@ -414,6 +414,86 @@
       }
     },
     "song_history": [
+      {
+        "sh_id": 287229,
+        "played_at": 1786996544,
+        "duration": 262,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "141405408c49d3a9dfa77137c692be45",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6fa4bb3531a9aca6cfed99a3-1781491406.jpg",
+          "custom_fields": [],
+          "text": "samuel vio - miel-reversiones  - 06 ciruelo - antonia navarro remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 06 ciruelo - antonia navarro remix",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287226,
+        "played_at": 1786996239,
+        "duration": 309,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "0cb774d9ae3833e4e90fa46cc7d4a565",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/96ceb7b38d1ae66c82996308-1781491403.jpg",
+          "custom_fields": [],
+          "text": "samuel vio - miel-reversiones  - 05 amantes - ripio remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 05 amantes - ripio remix",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287223,
+        "played_at": 1786996082,
+        "duration": 160,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "e4e5771bf4a192f1c8e21817e307d151",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e72fef25f571cae753a3158f-1781491395.jpg",
+          "custom_fields": [],
+          "text": "samuel vio - miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 287220,
+        "played_at": 1786995827,
+        "duration": 259,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "3476625df6e88053f1489f1c8174082d",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a2538e3cad26fd2b1385a450-1781490863.jpg",
+          "custom_fields": [],
+          "text": "samuel vio - miel-reversiones  - 03 miel - lilen remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 03 miel - lilen remix",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 287217,
         "played_at": 1786995627,
@@ -432,86 +512,6 @@
           "genre": "",
           "isrc": "",
           "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287214,
-        "played_at": 1786995296,
-        "duration": 335,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "a5485296e7eec6e99cfe9c8a60b357c1",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/635ba08da215d1431587fca9-1781571136.jpg",
-          "custom_fields": [],
-          "text": "F600 vs. Leonino - Cobijo - 04 Correquetepilla",
-          "artist": "F600 vs. Leonino",
-          "title": "04 Correquetepilla",
-          "album": "Cobijo",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287211,
-        "played_at": 1786995015,
-        "duration": 285,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8f644b149fbc8ddc48ef0f4a7c9917f5",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3b02af0ce77d04ed5346df9c-1781571128.jpg",
-          "custom_fields": [],
-          "text": "F600 vs. Leonino - Cobijo - 03 Sorteando el destino",
-          "artist": "F600 vs. Leonino",
-          "title": "03 Sorteando el destino",
-          "album": "Cobijo",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287207,
-        "played_at": 1786994739,
-        "duration": 280,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "afbf357bd6c50f1da081a09017ee7afd",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1f575f383b6a1ce8ece5bd84-1781895414.jpg",
-          "custom_fields": [],
-          "text": "Rufus & Chaka Khan - Chaka Khan (Tracks) - Ain't Nobody",
-          "artist": "Rufus & Chaka Khan",
-          "title": "Ain't Nobody",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 287202,
-        "played_at": 1786994457,
-        "duration": 286,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "79e3db09b3f05e63e0c48dff097c5b8b",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/c8e572e157b3d6be15812841-1781895543.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "artist": "Chaka Khan",
-          "title": "Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "All is fair in love boy When the love is shared Now you've been acting for some time Like you just don't care About me  Well my mama used to say That there would come a day When fools begin to open up their eyes  You never miss the water Till the well runs dry Now I have had enough bad love So I'm telling you goodbye, goodbye  You've been taking me for granted You even made me cry And sorry just ain't good enough Baby not this time  My mama used to say That there would come a day When the truth can no longer be denied  You're gonna miss my love You're gonna miss my love You're gonna miss my love  You never miss the water Till the well runs dry for ya  My mama used to say That there would come a day When you would run but baby you can't hide"
         }
       }
     ],
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1786389491,
-      "played_at": 1786995953,
+      "played_at": 1786996970,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
