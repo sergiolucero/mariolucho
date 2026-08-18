@@ -23,9 +23,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/rmm1.256kbps.mp3",
           "is_default": true
@@ -52,9 +52,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 288247,
-      "played_at": 1787075006,
-      "duration": 267,
-      "playlist": "IPAD",
+      "sh_id": 288261,
+      "played_at": 1787076175,
+      "duration": 247,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "f381cff628823a1ba67407fab7ca1800",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/4cac12a1af10f5b1b17cf712-1781048111.jpg",
+        "id": "e7e4bd187fad8f3447814dd6d607514b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/d0528abdae6706e8981066f4-1762989679.jpg",
         "custom_fields": [],
-        "text": "\u00c1lvaro Pe\u00f1a - Repetition Kills - Repetition Kills",
-        "artist": "\u00c1lvaro Pe\u00f1a",
-        "title": "Repetition Kills",
-        "album": "Repetition Kills",
+        "text": "Bibio - PHANTOM BRICKWORKS (LP II) - LLYN PERIS",
+        "artist": "Bibio",
+        "title": "LLYN PERIS",
+        "album": "PHANTOM BRICKWORKS (LP II)",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 33,
-      "remaining": 234
+      "elapsed": 27,
+      "remaining": 220
     },
     "playing_next": {
-      "cued_at": 1787074830,
-      "played_at": 1787075268,
-      "duration": 176.300375,
+      "cued_at": 1787076146,
+      "played_at": 1787076417,
+      "duration": 154.357525,
       "playlist": "IPAD",
       "is_request": false,
       "song": {
-        "id": "8410e8476f597289a6dab3c5948dd1e2",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/7628fecb189011379fb149b5-1780614022.jpg",
+        "id": "84696dcf84037eb7afe160965b976d9c",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/3c81b26391614755b84ef5aa-1780611344.jpg",
         "custom_fields": [],
-        "text": "Piero Montanari - Psyche Funk Italia (Italian Library Nuggets From The 60's and 70's) - Slums",
-        "artist": "Piero Montanari",
-        "title": "Slums",
-        "album": "Psyche Funk Italia (Italian Library Nuggets From The 60's and 70's)",
+        "text": "Confucius MC - Songs for Lost Travellers - Gutters",
+        "artist": "Confucius MC",
+        "title": "Gutters",
+        "album": "Songs for Lost Travellers",
         "genre": "",
-        "isrc": "IT7159911515",
+        "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 288243,
-        "played_at": 1787074835,
-        "duration": 171,
-        "playlist": "IPAD",
+        "sh_id": 288260,
+        "played_at": 1787076151,
+        "duration": 24,
+        "playlist": "MARCAS",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "c05520d33414e249bfe66133bbc3a6fa",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/04800c4d0087a23d5cfe443f-1780613982.jpg",
+          "id": "40d16631d7473d7a2df1b7357af7da7b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
           "custom_fields": [],
-          "text": "Stik Figa - Cold Comfort - Floodwaters Run Deep",
-          "artist": "Stik Figa",
-          "title": "Floodwaters Run Deep",
-          "album": "Cold Comfort",
-          "genre": "",
-          "isrc": "USA2B2601023",
+          "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+          "artist": "Radio Mario Maria",
+          "title": "Toques de Gong Radios Chilenas",
+          "album": "MARCA",
+          "genre": "MARCA",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 1,
-            "unique": 1,
-            "current": 1
+            "total": 2,
+            "unique": 2,
+            "current": 2
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 1,
-      "unique": 1,
-      "current": 1
+      "total": 2,
+      "unique": 2,
+      "current": 2
     },
     "live": {
       "is_live": false,
@@ -178,41 +178,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 288246,
-      "played_at": 1787074980,
-      "duration": 246,
+      "sh_id": 288259,
+      "played_at": 1787076080,
+      "duration": 235,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "5a82bea98bb1d7b1f378ea4bdbac6f8f",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/281ad6182103c67df4f15f71",
+        "id": "d7737e6450970159e3a43f7fe9a47911",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/4147fe341adab1501bafb1db-1757470456.jpg",
         "custom_fields": [],
-        "text": "Nano Acevedo y Pancho Navarro - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Arriba la Guardia",
-        "artist": "Nano Acevedo y Pancho Navarro",
-        "title": "Arriba la Guardia",
-        "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+        "text": "En Busca del Tiempo Perdido - Amanecer [SINGLE] - Esc\u00fachame",
+        "artist": "En Busca del Tiempo Perdido",
+        "title": "Esc\u00fachame",
+        "album": "Amanecer [SINGLE]",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 59,
-      "remaining": 187
+      "elapsed": 122,
+      "remaining": 113
     },
     "playing_next": {
-      "cued_at": 1787074888,
-      "played_at": 1787075222,
-      "duration": 150.595918,
+      "cued_at": 1787075708,
+      "played_at": 1787076310,
+      "duration": 136.12405,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "e1db3c2b92ab5ba14d3b7cec6455b9df",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/61c41c8bb56651fe0200ffef",
+        "id": "e3a8aa4f17941ed718006fa265c064f2",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/8ad1be4dcdaab62a244117e6",
         "custom_fields": [],
-        "text": "Apache Garcia - Llora m\u00e1s",
-        "artist": "Apache Garcia",
-        "title": "Llora m\u00e1s",
-        "album": "",
+        "text": "Nino Lardi - NINO LARDI - Envidia",
+        "artist": "Nino Lardi",
+        "title": "Envidia",
+        "album": "NINO LARDI",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -220,100 +220,100 @@
     },
     "song_history": [
       {
-        "sh_id": 288245,
-        "played_at": 1787074893,
-        "duration": 88,
+        "sh_id": 288257,
+        "played_at": 1787075713,
+        "duration": 369,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "20a10253e48a9127e541a992a68b0deb",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/96de9e28625dc4efa009819f",
+          "id": "b81baf6ab6be58f4d785f9a2b1c669e5",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/2c666d02c70c93b5a309d0d8",
           "custom_fields": [],
-          "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - Trote",
-          "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
-          "title": "Trote",
-          "album": "Aucam\u00e1n",
+          "text": "Los Tupamaros - Los Tupamaros Cantan - Poema 23 - Los Tupa",
+          "artist": "Los Tupamaros",
+          "title": "Poema 23 - Los Tupa",
+          "album": "Los Tupamaros Cantan",
           "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 288244,
-        "played_at": 1787074871,
-        "duration": 22,
-        "playlist": "CONTEXTO",
+        "sh_id": 288254,
+        "played_at": 1787075559,
+        "duration": 160,
+        "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "97f40d2f6b7165e60d81c532238585ab",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6ca96d9e8fbbf071d6d4f387",
+          "id": "a182a005f2aa5f07f346de063ed94d06",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/8c1faa1eb25e791a59f4508e",
           "custom_fields": [],
-          "text": "Propagandas Radiales - Nacionalizaci\u00f3n del Cobre - Propaganda 6",
-          "artist": "Propagandas Radiales",
-          "title": "Propaganda 6",
-          "album": "Nacionalizaci\u00f3n del Cobre",
-          "genre": "CircunferenciaPunga",
+          "text": "Los Ecos - Rock 'N Roll - No te Vayas",
+          "artist": "Los Ecos",
+          "title": "No te Vayas",
+          "album": "Rock 'N Roll",
+          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 288241,
-        "played_at": 1787074688,
-        "duration": 185,
+        "sh_id": 288251,
+        "played_at": 1787075370,
+        "duration": 191,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "21c0471b71fd5e4941c7638ab4813b33",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/96caac113a2b06d9d7bfe772",
+          "id": "789e32cde024bac50dea330d4020f8bd",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3b454d758ba453e9ec0945e9-1757470446.jpg",
           "custom_fields": [],
-          "text": "Grupo Lonqui - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - No a la Guerra Civil",
-          "artist": "Grupo Lonqui",
-          "title": "No a la Guerra Civil",
+          "text": "El Combo De Pepe - El Combo De Pepe - Co-Co-Ro-Co-Co",
+          "artist": "El Combo De Pepe",
+          "title": "Co-Co-Ro-Co-Co",
+          "album": "El Combo De Pepe",
+          "genre": "Cumbia peruana\t",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 288249,
+        "played_at": 1787075222,
+        "duration": 150,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "e1db3c2b92ab5ba14d3b7cec6455b9df",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/61c41c8bb56651fe0200ffef",
+          "custom_fields": [],
+          "text": "Apache Garcia - Llora m\u00e1s",
+          "artist": "Apache Garcia",
+          "title": "Llora m\u00e1s",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 288246,
+        "played_at": 1787074980,
+        "duration": 246,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "5a82bea98bb1d7b1f378ea4bdbac6f8f",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/281ad6182103c67df4f15f71",
+          "custom_fields": [],
+          "text": "Nano Acevedo y Pancho Navarro - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Arriba la Guardia",
+          "artist": "Nano Acevedo y Pancho Navarro",
+          "title": "Arriba la Guardia",
           "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288240,
-        "played_at": 1787074558,
-        "duration": 134,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8e7b334782c9d2124e350f25f2fe532d",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/29b5de2f44155ebf40226a48",
-          "custom_fields": [],
-          "text": "Los 4 de Chile - Los 4 de Chile - El Burrito Blanco",
-          "artist": "Los 4 de Chile",
-          "title": "El Burrito Blanco",
-          "album": "Los 4 de Chile",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288238,
-        "played_at": 1787074383,
-        "duration": 178,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b80bc1d652b151980d0a10a8ba664ee8",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/574d08bc2b89e4acbc7263cd",
-          "custom_fields": [],
-          "text": "Capablanca - Lo que es Amor - Por Temor no te Amo",
-          "artist": "Capablanca",
-          "title": "Por Temor no te Amo",
-          "album": "Lo que es Amor",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,47 +373,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 288242,
-      "played_at": 1787074806,
-      "duration": 361,
+      "sh_id": 288258,
+      "played_at": 1787075940,
+      "duration": 587,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "d7937d3c721d7e7e1771ddae78564889",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4f762f871cd06c6111d070b4-1781895710.jpg",
+        "id": "b01005306b3873491af06b1cdfd9a324",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0b6446017341a42d13b16a6b-1781895328.jpg",
         "custom_fields": [],
-        "text": "Al B. Sure! - Unknown Album Dance Classics - Nite & Day (Dusk Mix)",
-        "artist": "Al B. Sure!",
-        "title": "Nite & Day (Dusk Mix)",
-        "album": "Unknown Album Dance Classics",
+        "text": "Atlantic Starr - Soulbeat 1 - Let The Sun In (12'')",
+        "artist": "Atlantic Starr",
+        "title": "Let The Sun In (12'')",
+        "album": "Soulbeat 1",
         "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 233,
-      "remaining": 128
+      "elapsed": 262,
+      "remaining": 325
     },
     "playing_next": {
-      "cued_at": 1787074326,
-      "played_at": 1787075158,
-      "duration": 247.875875,
+      "cued_at": 1787075647,
+      "played_at": 1787076518,
+      "duration": 486.494125,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "58ffe679f5245e0baff962b061220580",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
+        "id": "0160f84bc33e39806bef42879303eff1",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b24b80a964e7de2347413ad8-1781895449.jpg",
         "custom_fields": [],
-        "text": "Delegation - The Promise Of Love - Oh Honey",
-        "artist": "Delegation",
-        "title": "Oh Honey",
-        "album": "The Promise Of Love",
-        "genre": "Disco",
+        "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Extended 12'')",
+        "artist": "Aurra",
+        "title": "Like I Like It (Extended 12'')",
+        "album": "Unknown Album Dance Classics",
+        "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 288255,
+        "played_at": 1787075657,
+        "duration": 287,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1cc24f9a646fe92a5abfdc64c4c570c0",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9bfe0cc70e32ceb2ea2f8c59-1781895454.jpg",
+          "custom_fields": [],
+          "text": "Gold In The Shade - Over You / Shining Through - Over You (Mix 2)",
+          "artist": "Gold In The Shade",
+          "title": "Over You (Mix 2)",
+          "album": "Over You / Shining Through",
+          "genre": "Dance",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 288252,
+        "played_at": 1787075407,
+        "duration": 250,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b5a12373d2755e21233384d8f722493f",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/da5f9c028b3715eac252c7fa-1781895344.jpg",
+          "custom_fields": [],
+          "text": "Friends Of Distinction - Soul Compi - Going In Circles",
+          "artist": "Friends Of Distinction",
+          "title": "Going In Circles",
+          "album": "Soul Compi",
+          "genre": "Other",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 288248,
+        "played_at": 1787075163,
+        "duration": 247,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "58ffe679f5245e0baff962b061220580",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
+          "custom_fields": [],
+          "text": "Delegation - The Promise Of Love - Oh Honey",
+          "artist": "Delegation",
+          "title": "Oh Honey",
+          "album": "The Promise Of Love",
+          "genre": "Disco",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 288242,
+        "played_at": 1787074806,
+        "duration": 361,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "d7937d3c721d7e7e1771ddae78564889",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4f762f871cd06c6111d070b4-1781895710.jpg",
+          "custom_fields": [],
+          "text": "Al B. Sure! - Unknown Album Dance Classics - Nite & Day (Dusk Mix)",
+          "artist": "Al B. Sure!",
+          "title": "Nite & Day (Dusk Mix)",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 288237,
         "played_at": 1787074336,
@@ -430,86 +510,6 @@
           "title": "Don't You Want It (Extended)",
           "album": "",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288235,
-        "played_at": 1787074062,
-        "duration": 274,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b5e5a9a9314f78cd52d675b1dd9e5bec",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cfcda51049f5156c74f0b89e-1781895395.jpg",
-          "custom_fields": [],
-          "text": "coolys hot box - lose your friends",
-          "artist": "coolys hot box",
-          "title": "lose your friends",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288230,
-        "played_at": 1787073772,
-        "duration": 293,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3f24ceeae136d880d8e07ca51ef69a7b",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/fe5b959f3f3231dcef566707-1781895558.jpg",
-          "custom_fields": [],
-          "text": "ABC - Unknown Album Dance Classics - The Night You Murdered Love",
-          "artist": "ABC",
-          "title": "The Night You Murdered Love",
-          "album": "Unknown Album Dance Classics",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288225,
-        "played_at": 1787073349,
-        "duration": 422,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "2c4c10c82320a9d154d0024953df8918",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/d1d2f856ed734cd605661708-1781895379.jpg",
-          "custom_fields": [],
-          "text": "Alexander O'Neal - Unknown Album Dance Classics - The Lovers (Extended Version)",
-          "artist": "Alexander O'Neal",
-          "title": "The Lovers (Extended Version)",
-          "album": "Unknown Album Dance Classics",
-          "genre": "Dance Classics",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 288221,
-        "played_at": 1787072932,
-        "duration": 417,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "381984cacd482561c6403ff6595a6b40",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b8f542d10146daf937103a85-1781895663.jpg",
-          "custom_fields": [],
-          "text": "52nd Street - Can't Afford (To Let You Go)",
-          "artist": "52nd Street",
-          "title": "Can't Afford (To Let You Go)",
-          "album": "",
-          "genre": "Street Soul",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787075030,
+      "played_at": 1787076189,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
