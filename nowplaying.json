@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289561,
-      "played_at": 1787176143,
-      "duration": 247,
-      "playlist": "RECUENTO_2026",
+      "sh_id": 289574,
+      "played_at": 1787177207,
+      "duration": 327,
+      "playlist": "RECUENTO_2024",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "3b324d8bf2376ae8ac3b7a91c42f4c8e",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/f274e13cc053e62facbce3ba-1780605292.jpg",
+        "id": "31d6339ea3d165edf434cb163335c07b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/741202428e8d6d85c75bb728-1762986985.jpg",
         "custom_fields": [],
-        "text": "Hannah Peel / Beibei Wang - The Endless Dance - Awaken the Insects",
-        "artist": "Hannah Peel / Beibei Wang",
-        "title": "Awaken the Insects",
-        "album": "The Endless Dance",
-        "genre": "",
-        "isrc": "GBCPA2502181",
-        "lyrics": ""
-      },
-      "elapsed": 148,
-      "remaining": 99
-    },
-    "playing_next": {
-      "cued_at": 1787176006,
-      "played_at": 1787176386,
-      "duration": 223.29465,
-      "playlist": "RECUENTO_2025",
-      "is_request": false,
-      "song": {
-        "id": "4e40eb06a1002c11f26b3ad2bfe1968b",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/0d7b6d5ee254f886652b6637-1762998507.jpg",
-        "custom_fields": [],
-        "text": "Zuhura & Party - Zanzibara, Vol. 10 (First Modern: Taarab Vibes from Mombasa & Tanga, 1970-1990) - Humvui Alovikwa",
-        "artist": "Zuhura & Party",
-        "title": "Humvui Alovikwa",
-        "album": "Zanzibara, Vol. 10 (First Modern: Taarab Vibes from Mombasa & Tanga, 1970-1990)",
+        "text": "Ahmed Malek / A\u00efda Gu\u00e9choud - Musique Originale De Films: Deuxi\u00e8me Tome (Habibi Funk 027) - Th\u00e8me Djalti",
+        "artist": "Ahmed Malek / A\u00efda Gu\u00e9choud",
+        "title": "Th\u00e8me Djalti",
+        "album": "Musique Originale De Films: Deuxi\u00e8me Tome (Habibi Funk 027)",
         "genre": "",
         "isrc": "",
+        "lyrics": ""
+      },
+      "elapsed": 232,
+      "remaining": 95
+    },
+    "playing_next": {
+      "cued_at": 1787176964,
+      "played_at": 1787177530,
+      "duration": 193.824,
+      "playlist": "RECUENTO_2026",
+      "is_request": false,
+      "song": {
+        "id": "77c71ef88c6a308a2861063f9c886df1",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/bac32c433e32935170bcff04-1783474781.jpg",
+        "custom_fields": [],
+        "text": "Kreidler - Schemes - Beads",
+        "artist": "Kreidler",
+        "title": "Beads",
+        "album": "Schemes",
+        "genre": "",
+        "isrc": "DELI52604654",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 289560,
-        "played_at": 1787176011,
-        "duration": 134,
+        "sh_id": 289572,
+        "played_at": 1787176969,
+        "duration": 241,
         "playlist": "RECUENTO_2026",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "3c450f87bb1b3078a95445b1ccfddf6e",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/588ac46536314e952d740bef-1774284687.jpg",
+          "id": "988d0fd0e36f75c2d426bf78cb45bdf1",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/46cef19d43f0d194b12f5abb-1777937465.jpg",
           "custom_fields": [],
-          "text": "Dialect - Full Serpent - Earth Angels of the Bone Age",
-          "artist": "Dialect",
-          "title": "Earth Angels of the Bone Age",
-          "album": "Full Serpent",
+          "text": "Aliener - Descarga Peruana - Bendice Pachamama",
+          "artist": "Aliener",
+          "title": "Bendice Pachamama",
+          "album": "Descarga Peruana",
           "genre": "",
-          "isrc": "US6PQ2500141",
+          "isrc": "QM6N22630482",
           "lyrics": ""
         }
       }
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289562,
-      "played_at": 1787176152,
-      "duration": 296,
+      "sh_id": 289575,
+      "played_at": 1787177223,
+      "duration": 255,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "b48753d7a2eb10821305413637f685c7",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5e19c457ef92d942a7b3efb4-1757470861.jpg",
+        "id": "b5869a29b6ba7785e775091eb847d68c",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5ac2c1e366f5b8112f3c01eb",
         "custom_fields": [],
-        "text": "Manduka - Manduka - Patria Amada Idolatrada Salve Salve",
-        "artist": "Manduka",
-        "title": "Patria Amada Idolatrada Salve Salve",
-        "album": "Manduka",
-        "genre": "Mpb",
+        "text": "Omara Portuondo - Amor por ti / Gracias a la vida [SINGLE] - Gracias a la vida",
+        "artist": "Omara Portuondo",
+        "title": "Gracias a la vida",
+        "album": "Amor por ti / Gracias a la vida [SINGLE]",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 139,
-      "remaining": 157
+      "elapsed": 216,
+      "remaining": 39
     },
     "playing_next": {
-      "cued_at": 1787175999,
-      "played_at": 1787176443,
-      "duration": 260.231837,
+      "cued_at": 1787176931,
+      "played_at": 1787177473,
+      "duration": 234.893025,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "4e40b2db59b04d9a16eab8a6b03fd73f",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/cfb6a8a40801c3bad6a955ef",
+        "id": "9c3a16d6b3f4e85f8f4ec2dd712c277b",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/84e7834d09b6988128ad9807",
         "custom_fields": [],
-        "text": "Los Tupamaros - Los Tupamaros Cantan - Peric\u00f3n",
-        "artist": "Los Tupamaros",
-        "title": "Peric\u00f3n",
-        "album": "Los Tupamaros Cantan",
+        "text": "Patricio Renan - Una vez un ni\u00f1o / Los hijos - Una vez un ni\u00f1o",
+        "artist": "Patricio Renan",
+        "title": "Una vez un ni\u00f1o",
+        "album": "Una vez un ni\u00f1o / Los hijos",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 289570,
+        "played_at": 1787176936,
+        "duration": 290,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "87444d942182d368511a84e52706f601",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e4ea33beb55dc8792491aae1",
+          "custom_fields": [],
+          "text": "En Busca del Tiempo Perdido - Ya es tiempo [SINGLE] - Ya es Tiempo",
+          "artist": "En Busca del Tiempo Perdido",
+          "title": "Ya es Tiempo",
+          "album": "Ya es tiempo [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289568,
+        "played_at": 1787176699,
+        "duration": 241,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "e0d5ee197baa0a3ec46d66f4cdfdcc05",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/eede8c7d8a77ca021dca3c83",
+          "custom_fields": [],
+          "text": "Grua - Tiempo Libre - Jungla",
+          "artist": "Grua",
+          "title": "Jungla",
+          "album": "Tiempo Libre",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289565,
+        "played_at": 1787176441,
+        "duration": 260,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "4e40b2db59b04d9a16eab8a6b03fd73f",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/cfb6a8a40801c3bad6a955ef",
+          "custom_fields": [],
+          "text": "Los Tupamaros - Los Tupamaros Cantan - Peric\u00f3n",
+          "artist": "Los Tupamaros",
+          "title": "Peric\u00f3n",
+          "album": "Los Tupamaros Cantan",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289562,
+        "played_at": 1787176152,
+        "duration": 296,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b48753d7a2eb10821305413637f685c7",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5e19c457ef92d942a7b3efb4-1757470861.jpg",
+          "custom_fields": [],
+          "text": "Manduka - Manduka - Patria Amada Idolatrada Salve Salve",
+          "artist": "Manduka",
+          "title": "Patria Amada Idolatrada Salve Salve",
+          "album": "Manduka",
+          "genre": "Mpb",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 289559,
         "played_at": 1787176004,
@@ -235,86 +315,6 @@
           "title": "Llegaremos Cantando",
           "album": "Cosecha Tropical",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289558,
-        "played_at": 1787175901,
-        "duration": 103,
-        "playlist": "CONTEXTO",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "51023ecd4f25049c5302f26247bd1cc3",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/2a968681baee90a483d68765",
-          "custom_fields": [],
-          "text": "Salvador Allende - Salvador Allende en la ONU 1972 - En la ONU 2",
-          "artist": "Salvador Allende",
-          "title": "En la ONU 2",
-          "album": "Salvador Allende en la ONU 1972",
-          "genre": "Cuatrux 40",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289557,
-        "played_at": 1787175850,
-        "duration": 70,
-        "playlist": "CU\u00d1AS",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b93e0a778418c5618ffd3133b4a0f93e",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3f221d55feb4b9ef21c97bd9",
-          "custom_fields": [],
-          "text": "Julio Osses - EDEC - Cu\u00f1a EDEC",
-          "artist": "Julio Osses",
-          "title": "Cu\u00f1a EDEC",
-          "album": "EDEC",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289555,
-        "played_at": 1787175666,
-        "duration": 187,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "0840af2f7d040e0a48071f66d1ae4756",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/98c59e0a45fe92b37610d7da",
-          "custom_fields": [],
-          "text": "Charo Cofr\u00e9 - A la ronda ronda / Viaje a Concepci\u00f3n - A la ronda ronda",
-          "artist": "Charo Cofr\u00e9",
-          "title": "A la ronda ronda",
-          "album": "A la ronda ronda / Viaje a Concepci\u00f3n",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289553,
-        "played_at": 1787175489,
-        "duration": 184,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "150b978e3a2e8ca5248573db8075981e",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/2d8f3f72338e56ca36324887-1757470300.jpg",
-          "custom_fields": [],
-          "text": "Amerindios - Amerindios - Juan Verdejo",
-          "artist": "Amerindios",
-          "title": "Juan Verdejo",
-          "album": "Amerindios",
-          "genre": "Other",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,47 +373,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289563,
-      "played_at": 1787176249,
-      "duration": 262,
+      "sh_id": 289576,
+      "played_at": 1787177380,
+      "duration": 176,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "a7543878e1a28643adffb7b386d249cc",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/21c6c63213c24b33a15680b5-1781895579.jpg",
+        "id": "3ac972eebe8affd90881726e1def7769",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4755f37a54d69c66e2a17c25-1781895466.jpg",
         "custom_fields": [],
-        "text": "Kevin McCord - When The Night Comes - When The Night Comes",
-        "artist": "Kevin McCord",
-        "title": "When The Night Comes",
-        "album": "When The Night Comes",
-        "genre": "R&B",
+        "text": "matthew wilder - break my stride 1983 (without announcer)",
+        "artist": "matthew wilder",
+        "title": "break my stride 1983 (without announcer)",
+        "album": "",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 42,
-      "remaining": 220
+      "elapsed": 59,
+      "remaining": 117
     },
     "playing_next": {
-      "cued_at": 1787175834,
-      "played_at": 1787176502,
-      "duration": 213.4986875,
+      "cued_at": 1787177056,
+      "played_at": 1787177547,
+      "duration": 292.75431048902,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "dc9c33926dff070d2028e623b84e055b",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1b55813b570df040f2a704c3-1781895360.jpg",
+        "id": "d4c8f45f667fffff57d8d6053c827da5",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/956ce266abc28cddda901895-1781895551.jpg",
         "custom_fields": [],
-        "text": "Lou Rawls - Soul Compi - You'll Never Find Another Love",
-        "artist": "Lou Rawls",
-        "title": "You'll Never Find Another Love",
-        "album": "Soul Compi",
-        "genre": "R&B",
+        "text": "MBT - Backstreet Brit Funk - You Know Too Much",
+        "artist": "MBT",
+        "title": "You Know Too Much",
+        "album": "Backstreet Brit Funk",
+        "genre": "Electronic Instrumental Jazz Funk Soul Disco",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 289573,
+        "played_at": 1787177061,
+        "duration": 319,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "074a3f112c875ae2cd1a69586898e659",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/542543660bba36baec93d3a8-1781895470.jpg",
+          "custom_fields": [],
+          "text": "Marti Caine - LateNightTales - Love The Way You Love Me",
+          "artist": "Marti Caine",
+          "title": "Love The Way You Love Me",
+          "album": "LateNightTales",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289569,
+        "played_at": 1787176716,
+        "duration": 349,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "cee9f863976e2b6193ab389e732289af",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8d84b4abe7aab236de8d3903-1781895726.jpg",
+          "custom_fields": [],
+          "text": "Toyin Agbetu presents Shades Of Black - Deepest Shades EP - Make U Mine",
+          "artist": "Toyin Agbetu presents Shades Of Black",
+          "title": "Make U Mine",
+          "album": "Deepest Shades EP",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289566,
+        "played_at": 1787176507,
+        "duration": 213,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "dc9c33926dff070d2028e623b84e055b",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1b55813b570df040f2a704c3-1781895360.jpg",
+          "custom_fields": [],
+          "text": "Lou Rawls - Soul Compi - You'll Never Find Another Love",
+          "artist": "Lou Rawls",
+          "title": "You'll Never Find Another Love",
+          "album": "Soul Compi",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289563,
+        "played_at": 1787176249,
+        "duration": 262,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "a7543878e1a28643adffb7b386d249cc",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/21c6c63213c24b33a15680b5-1781895579.jpg",
+          "custom_fields": [],
+          "text": "Kevin McCord - When The Night Comes - When The Night Comes",
+          "artist": "Kevin McCord",
+          "title": "When The Night Comes",
+          "album": "When The Night Comes",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 289556,
         "played_at": 1787175843,
@@ -430,86 +510,6 @@
           "title": "There's Never Been (No One Like You)",
           "album": "Free Soul The Treasure Of West End (Disc 1)",
           "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289552,
-        "played_at": 1787175433,
-        "duration": 410,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "690813e99d24dbfb1a692b8c03a5f2b8",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/c1bd548d6e741224a4260ade-1781895626.jpg",
-          "custom_fields": [],
-          "text": "Joe Bataan - Soul Compi - Joe Bataan - Mestizo",
-          "artist": "Joe Bataan",
-          "title": "Joe Bataan - Mestizo",
-          "album": "Soul Compi",
-          "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289549,
-        "played_at": 1787175213,
-        "duration": 225,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "9247a4e70b7c09d44835ae1daf61afcc",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b60c34a6f6036979e0dc9be5-1781895269.jpg",
-          "custom_fields": [],
-          "text": "Daryl Hall & John Oates - Soul Compi - I Can't Go For That (No Can Do)",
-          "artist": "Daryl Hall & John Oates",
-          "title": "I Can't Go For That (No Can Do)",
-          "album": "Soul Compi",
-          "genre": "Pop 80",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289545,
-        "played_at": 1787174977,
-        "duration": 240,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "19d70e06a6ac19b1b5b9a87dd74c250e",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9f0bbd0fc8b57f08f4a302b2-1781895691.jpg",
-          "custom_fields": [],
-          "text": "Isley Brothers - Soul Compi - Don't let me be lonely tonight",
-          "artist": "Isley Brothers",
-          "title": "Don't let me be lonely tonight",
-          "album": "Soul Compi",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289539,
-        "played_at": 1787174499,
-        "duration": 482,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3ae71b6808aaab69b625d2c06db48a32",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/77c6d8bbc40a5f53693279d1-1781895309.jpg",
-          "custom_fields": [],
-          "text": "Change feat. Luther Vandross - Searchin",
-          "artist": "Change feat. Luther Vandross",
-          "title": "Searchin",
-          "album": "",
-          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787176285,
+      "played_at": 1787177429,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
