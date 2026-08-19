@@ -23,9 +23,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 1,
-            "unique": 1,
-            "current": 1
+            "total": 2,
+            "unique": 2,
+            "current": 2
           },
           "path": "/rmm1.256kbps.mp3",
           "is_default": true
@@ -37,9 +37,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 0,
-            "unique": 0,
-            "current": 0
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/rmm2.256kbps.mp3",
           "is_default": false
@@ -52,9 +52,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 1,
-      "unique": 1,
-      "current": 1
+      "total": 3,
+      "unique": 3,
+      "current": 3
     },
     "live": {
       "is_live": false,
@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289476,
-      "played_at": 1787169319,
-      "duration": 466,
+      "sh_id": 289501,
+      "played_at": 1787171681,
+      "duration": 189,
       "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "c1407263bfd417f625f4437ce064e5a8",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/98a7336491ad8be0ba7d7ffe-1780605336.jpg",
+        "id": "167b2b9204cdac43568ab3222989dc68",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/fc8b0528f9e123f58fbbdbcd-1768955570.jpg",
         "custom_fields": [],
-        "text": "Phillip Golub / Anna Webber - Partisan Ship - cries of the initiated",
-        "artist": "Phillip Golub / Anna Webber",
-        "title": "cries of the initiated",
-        "album": "Partisan Ship",
+        "text": "Hifiklub / Alain Johannes - Mocomono - A New Hope",
+        "artist": "Hifiklub / Alain Johannes",
+        "title": "A New Hope",
+        "album": "Mocomono",
         "genre": "",
-        "isrc": "DEPH52609408",
+        "isrc": "UK6822510759",
         "lyrics": ""
       },
-      "elapsed": 305,
-      "remaining": 161
+      "elapsed": 140,
+      "remaining": 49
     },
     "playing_next": {
-      "cued_at": 1787169137,
-      "played_at": 1787169781,
-      "duration": 24.372284638538,
-      "playlist": "MARCAS",
+      "cued_at": 1787171405,
+      "played_at": 1787171866,
+      "duration": 213.550975,
+      "playlist": "IPAD",
       "is_request": false,
       "song": {
-        "id": "40d16631d7473d7a2df1b7357af7da7b",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
+        "id": "1f7947f26fff01f289873100885f2142",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9830e0d6613cc6439c98f2df-1780609798.jpg",
         "custom_fields": [],
-        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
-        "artist": "Radio Mario Maria",
-        "title": "Toques de Gong Radios Chilenas",
-        "album": "MARCA",
-        "genre": "MARCA",
-        "isrc": "",
+        "text": "Silverio - Naylons - Perro",
+        "artist": "Silverio",
+        "title": "Perro",
+        "album": "Naylons",
+        "genre": "",
+        "isrc": "USV351306375",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 289472,
-        "played_at": 1787169142,
-        "duration": 182,
-        "playlist": "RECUENTO_2026",
+        "sh_id": 289499,
+        "played_at": 1787171410,
+        "duration": 283,
+        "playlist": "RECUENTO_2025",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "3f8835ee3672a3061362d86155c15b3a",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/cedab67718f4877ecb8d9a9b-1786569395.jpg",
+          "id": "3cca0c598ffee0e3160566a441cc3b93",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/060d668dab84fe45b956655f-1762988502.jpg",
           "custom_fields": [],
-          "text": "Beatrice M. - Sinking - Ever",
-          "artist": "Beatrice M.",
-          "title": "Ever",
-          "album": "Sinking",
+          "text": "Luke Sanger - Dew Point Harmonics - Living Algorithms",
+          "artist": "Luke Sanger",
+          "title": "Living Algorithms",
+          "album": "Dew Point Harmonics",
           "genre": "",
-          "isrc": "UK4942600001",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 1,
-            "unique": 1,
-            "current": 1
+            "total": 2,
+            "unique": 2,
+            "current": 2
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 1,
-      "unique": 1,
-      "current": 1
+      "total": 2,
+      "unique": 2,
+      "current": 2
     },
     "live": {
       "is_live": false,
@@ -178,40 +178,40 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289477,
-      "played_at": 1787169529,
-      "duration": 204,
+      "sh_id": 289502,
+      "played_at": 1787171698,
+      "duration": 178,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "30c10785b7f4317f4e1b48c94bf8aa23",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/349d1e276642a850c612e9f2",
+        "id": "b9d4cb322bad24c7ab9289b35b6667ca",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/1966e290271d803502b77872",
         "custom_fields": [],
-        "text": "Pop-Tops - Escondite / Paseando por la rivera [SINGLE] - Escondite",
-        "artist": "Pop-Tops",
-        "title": "Escondite",
-        "album": "Escondite / Paseando por la rivera [SINGLE]",
+        "text": "Ariaselva - Ariaselva - Yo Vivo En Un Pueblo",
+        "artist": "Ariaselva",
+        "title": "Yo Vivo En Un Pueblo",
+        "album": "Ariaselva",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 95,
-      "remaining": 109
+      "elapsed": 123,
+      "remaining": 55
     },
     "playing_next": {
-      "cued_at": 1787169289,
-      "played_at": 1787169729,
-      "duration": 225.024,
+      "cued_at": 1787171505,
+      "played_at": 1787171871,
+      "duration": 198.164898,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "de3fd0c62b90608f56b9c99c7657e719",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/bdf1c548e8c35b3d76d36a1f",
+        "id": "28ad3275f706cb4cfe515b60dd6a573b",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ac79a66b8c9d8ca3b7ab43b8",
         "custom_fields": [],
-        "text": "Carlos Newman - Somos Hermanos del Norte",
-        "artist": "Carlos Newman",
-        "title": "Somos Hermanos del Norte",
+        "text": "Los Huasos del Maipo - Lo justo es justo",
+        "artist": "Los Huasos del Maipo",
+        "title": "Lo justo es justo",
         "album": "",
         "genre": "",
         "isrc": "",
@@ -220,100 +220,100 @@
     },
     "song_history": [
       {
-        "sh_id": 289475,
-        "played_at": 1787169294,
-        "duration": 242,
+        "sh_id": 289500,
+        "played_at": 1787171510,
+        "duration": 194,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "84f862fb234a9ad7a232a53c7e8c315f",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/b62c49d1e82fe7cbe9456ad0-1757470445.jpg",
+          "id": "4ee008a2a5478650f1141d8954716937",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/36728de006223b33be12337c",
           "custom_fields": [],
-          "text": "El Combo De Pepe - El Combo De Pepe - Caliente",
-          "artist": "El Combo De Pepe",
-          "title": "Caliente",
-          "album": "El Combo De Pepe",
-          "genre": "Cumbia peruana\t",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289473,
-        "played_at": 1787169178,
-        "duration": 116,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3012f8f686697231f4f093202fbe9926",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3a5e00525a42ed8fda54defa",
-          "custom_fields": [],
-          "text": "Relato - Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular) - Chile Pueblo",
-          "artist": "Relato",
-          "title": "Chile Pueblo",
-          "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
+          "text": "Jeronimo - El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE] - El ultimo tren del domingo",
+          "artist": "Jeronimo",
+          "title": "El ultimo tren del domingo",
+          "album": "El ultimo tren del domingo / Defensa de Violeta Parra [SINGLE]",
           "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 289469,
-        "played_at": 1787168946,
-        "duration": 233,
+        "sh_id": 289497,
+        "played_at": 1787171299,
+        "duration": 214,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "88bb2b6ec38e00b557697eead8d3ec9b",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ca3b39bc03cd5c54760eba67",
+          "id": "2ddd6c1cca35dbf122ccc2d7e6637168",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d25255e1d456cbfad82afeb5",
           "custom_fields": [],
-          "text": "Los Puntillanos - Nos fuimos pa\u00b4sure - Somos chilotes",
-          "artist": "Los Puntillanos",
-          "title": "Nos fuimos pa\u00b4sure - Somos chilotes",
-          "album": "",
+          "text": "Pedro Y\u00e1\u00f1ez - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - En La Ma\u00f1ana Del 29",
+          "artist": "Pedro Y\u00e1\u00f1ez",
+          "title": "En La Ma\u00f1ana Del 29",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
           "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 289468,
-        "played_at": 1787168780,
-        "duration": 168,
+        "sh_id": 289496,
+        "played_at": 1787171113,
+        "duration": 189,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "80917f3af3b1e7f5130d6d05d217cf34",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/75d947716bd40dedadb97626",
+          "id": "997400fc35275aa02e68d6a8d182e076",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/61f0a2655e0a878952889f2e",
           "custom_fields": [],
-          "text": "Los Cisnes de Vichuquen - LOS CISNES DE VICHUQUEN - Quisiera Pero No Quiero",
-          "artist": "Los Cisnes de Vichuquen",
-          "title": "Quisiera Pero No Quiero",
-          "album": "LOS CISNES DE VICHUQUEN",
+          "text": "Los Cuatro de Chile - Me peina el viento los cabellos / Camino del amor - Camino del amor",
+          "artist": "Los Cuatro de Chile",
+          "title": "Camino del amor",
+          "album": "Me peina el viento los cabellos / Camino del amor",
           "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 289466,
-        "played_at": 1787168716,
-        "duration": 84,
-        "playlist": "CU\u00d1AS",
+        "sh_id": 289495,
+        "played_at": 1787171065,
+        "duration": 50,
+        "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "93631910c4b81d1c2ea0bfbfd900c4e5",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e3fcc498bef808f25b4260a9",
+          "id": "81084fcf8acebc150dd8ab7f3379b64d",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/647b07d88630d397341a3bf6",
           "custom_fields": [],
-          "text": "Daniela Valdes - EDEC - Cu\u00f1a EDEC",
-          "artist": "Daniela Valdes",
-          "title": "Cu\u00f1a EDEC",
-          "album": "EDEC",
+          "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - La Nave",
+          "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
+          "title": "La Nave",
+          "album": "Aucam\u00e1n",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289493,
+        "played_at": 1787170779,
+        "duration": 288,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c99775c9e3b7899748f074bf7af7bada",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7501435c65f55cd6a44a435c",
+          "custom_fields": [],
+          "text": "Banda de la escuela de suboficiales - BANDA DE GUERRA ESC. SUBOFICIALES - Himno de la Escuela de Suboficiales - El Adios",
+          "artist": "Banda de la escuela de suboficiales",
+          "title": "Himno de la Escuela de Suboficiales - El Adios",
+          "album": "BANDA DE GUERRA ESC. SUBOFICIALES",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,47 +373,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 289478,
-      "played_at": 1787169530,
-      "duration": 287,
+      "sh_id": 289498,
+      "played_at": 1787171302,
+      "duration": 885,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "1cc24f9a646fe92a5abfdc64c4c570c0",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9bfe0cc70e32ceb2ea2f8c59-1781895454.jpg",
+        "id": "d8aeed153438af6f5783738912d7ca02",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ecf34bb8afe50bbc29fbff19-1781895428.jpg",
         "custom_fields": [],
-        "text": "Gold In The Shade - Over You / Shining Through - Over You (Mix 2)",
-        "artist": "Gold In The Shade",
-        "title": "Over You (Mix 2)",
-        "album": "Over You / Shining Through",
-        "genre": "Dance",
+        "text": "Brooklyn Express - Burning Hot - Burning Hot (Tee Scott Re-Mix) 12",
+        "artist": "Brooklyn Express",
+        "title": "Burning Hot (Tee Scott Re-Mix) 12",
+        "album": "Burning Hot",
+        "genre": "Disco",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 94,
-      "remaining": 193
+      "elapsed": 519,
+      "remaining": 366
     },
     "playing_next": {
-      "cued_at": 1787169275,
-      "played_at": 1787169809,
-      "duration": 587.25875,
+      "cued_at": 1787170873,
+      "played_at": 1787172178,
+      "duration": 428.38204166667,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "b01005306b3873491af06b1cdfd9a324",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0b6446017341a42d13b16a6b-1781895328.jpg",
+        "id": "c1c1cedba716a53424715a0ccd8be4ea",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9f6d4d2a729c5e4df6ad07b2-1781895686.jpg",
         "custom_fields": [],
-        "text": "Atlantic Starr - Soulbeat 1 - Let The Sun In (12'')",
-        "artist": "Atlantic Starr",
-        "title": "Let The Sun In (12'')",
-        "album": "Soulbeat 1",
+        "text": "Alexander O'Neal - Classic Soul - Criticize (12'' Mix)",
+        "artist": "Alexander O'Neal",
+        "title": "Criticize (12'' Mix)",
+        "album": "Classic Soul",
         "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 289494,
+        "played_at": 1787170883,
+        "duration": 423,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "77e9d86f843f19002b33620f054fd317",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0a9f723691e662c6f7a474ed-1781895509.jpg",
+          "custom_fields": [],
+          "text": "Gwen Guthrie - Polydor (885 106-1b2) - Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
+          "artist": "Gwen Guthrie",
+          "title": "Ain't Nothin' Goin' On But The Rent (Larry Levan Dub MIx)",
+          "album": "Polydor (885 106-1b2)",
+          "genre": "Disco",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289490,
+        "played_at": 1787170396,
+        "duration": 486,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "0160f84bc33e39806bef42879303eff1",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b24b80a964e7de2347413ad8-1781895449.jpg",
+          "custom_fields": [],
+          "text": "Aurra - Unknown Album Dance Classics - Like I Like It (Extended 12'')",
+          "artist": "Aurra",
+          "title": "Like I Like It (Extended 12'')",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289482,
+        "played_at": 1787169814,
+        "duration": 587,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b01005306b3873491af06b1cdfd9a324",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0b6446017341a42d13b16a6b-1781895328.jpg",
+          "custom_fields": [],
+          "text": "Atlantic Starr - Soulbeat 1 - Let The Sun In (12'')",
+          "artist": "Atlantic Starr",
+          "title": "Let The Sun In (12'')",
+          "album": "Soulbeat 1",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 289478,
+        "played_at": 1787169530,
+        "duration": 287,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1cc24f9a646fe92a5abfdc64c4c570c0",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9bfe0cc70e32ceb2ea2f8c59-1781895454.jpg",
+          "custom_fields": [],
+          "text": "Gold In The Shade - Over You / Shining Through - Over You (Mix 2)",
+          "artist": "Gold In The Shade",
+          "title": "Over You (Mix 2)",
+          "album": "Over You / Shining Through",
+          "genre": "Dance",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 289474,
         "played_at": 1787169280,
@@ -430,86 +510,6 @@
           "title": "Going In Circles",
           "album": "Soul Compi",
           "genre": "Other",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289471,
-        "played_at": 1787169037,
-        "duration": 247,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "58ffe679f5245e0baff962b061220580",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/307579f58013c36d93beafcf-1781895619.jpg",
-          "custom_fields": [],
-          "text": "Delegation - The Promise Of Love - Oh Honey",
-          "artist": "Delegation",
-          "title": "Oh Honey",
-          "album": "The Promise Of Love",
-          "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289464,
-        "played_at": 1787168567,
-        "duration": 469,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "2b54d9756a59ca0aecfbc8a1804fd970",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ee4e78a69b0f1ffc5d30c6e7-1781895273.jpg",
-          "custom_fields": [],
-          "text": "Davina - Don't You Want It (Extended)",
-          "artist": "Davina",
-          "title": "Don't You Want It (Extended)",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289461,
-        "played_at": 1787168293,
-        "duration": 274,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "b5e5a9a9314f78cd52d675b1dd9e5bec",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cfcda51049f5156c74f0b89e-1781895395.jpg",
-          "custom_fields": [],
-          "text": "coolys hot box - lose your friends",
-          "artist": "coolys hot box",
-          "title": "lose your friends",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 289455,
-        "played_at": 1787167791,
-        "duration": 506,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "f2837352b23e48de2224023402ea3dc7",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/557dee32aba6a3213cd7a461-1781895480.jpg",
-          "custom_fields": [],
-          "text": "Convertion - Let's Do It (12'')",
-          "artist": "Convertion",
-          "title": "Let's Do It (12'')",
-          "album": "",
-          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
@@ -542,9 +542,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 1,
-            "unique": 1,
-            "current": 1
+            "total": 0,
+            "unique": 0,
+            "current": 0
           },
           "path": "/radio.mp3",
           "is_default": true
@@ -557,9 +557,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 1,
-      "unique": 1,
-      "current": 1
+      "total": 0,
+      "unique": 0,
+      "current": 0
     },
     "live": {
       "is_live": false,
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787169608,
+      "played_at": 1787171802,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
