@@ -23,9 +23,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/rmm1.256kbps.mp3",
           "is_default": true
@@ -52,9 +52,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -63,41 +63,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 291044,
-      "played_at": 1787290522,
-      "duration": 317,
-      "playlist": "RECUENTO_2025",
+      "sh_id": 291061,
+      "played_at": 1787292054,
+      "duration": 239,
+      "playlist": "RECUENTO_2023",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "c30117e5cfd570a386a8c52532898365",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/5eb83d681b8785d08fbc6cc3-1762988475.jpg",
+        "id": "e7b6d6605563814cd73a6d9fa324a837",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/0b626114e28791403fb18616-1762981307.jpg",
         "custom_fields": [],
-        "text": "Michaela Turcerov\u00e1 - alene et - degrowth (closer)",
-        "artist": "Michaela Turcerov\u00e1",
-        "title": "degrowth (closer)",
-        "album": "alene et",
+        "text": "Yaeji/Nourished by Time - With A Hammer - Happy",
+        "artist": "Yaeji/Nourished by Time",
+        "title": "Happy",
+        "album": "With A Hammer",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 154,
-      "remaining": 163
+      "elapsed": 77,
+      "remaining": 162
     },
     "playing_next": {
-      "cued_at": 1787290242,
-      "played_at": 1787290834,
-      "duration": 281.652225,
-      "playlist": "RECUENTO_2025",
+      "cued_at": 1787292025,
+      "played_at": 1787292288,
+      "duration": 176.404898,
+      "playlist": "RECUENTO_2023",
       "is_request": false,
       "song": {
-        "id": "65acf33d174d867cf7754a8c6923dfbd",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a263c4b57228620ebb90f898-1762998525.jpg",
+        "id": "d9c6b050db98485be608da0d9607d47e",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/efb9fddf22ac9a227a95a88f-1762980827.jpg",
         "custom_fields": [],
-        "text": "James Jonathan Clancy - Sprecato - A Worship Deal",
-        "artist": "James Jonathan Clancy",
-        "title": "A Worship Deal",
-        "album": "Sprecato",
+        "text": "Wiki / Tony Seltzer - 14K Figaro - That Aint Pat",
+        "artist": "Wiki / Tony Seltzer",
+        "title": "That Aint Pat",
+        "album": "14K Figaro",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -105,22 +105,22 @@
     },
     "song_history": [
       {
-        "sh_id": 291040,
-        "played_at": 1787290247,
-        "duration": 278,
-        "playlist": "RECUENTO_2025",
+        "sh_id": 291060,
+        "played_at": 1787292031,
+        "duration": 24,
+        "playlist": "MARCAS",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "57bd142e8130a5ed67d0fb7031bf2281",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/31712420b99e263c92450349-1767654381.jpg",
+          "id": "40d16631d7473d7a2df1b7357af7da7b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
           "custom_fields": [],
-          "text": "Psymon Spine - Charismatic Mutations - Jumprope (SAFER Remix)",
-          "artist": "Psymon Spine",
-          "title": "Jumprope (SAFER Remix)",
-          "album": "Charismatic Mutations",
-          "genre": "",
-          "isrc": "USA2B2104900",
+          "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+          "artist": "Radio Mario Maria",
+          "title": "Toques de Gong Radios Chilenas",
+          "album": "MARCA",
+          "genre": "MARCA",
+          "isrc": "",
           "lyrics": ""
         }
       }
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 291045,
-      "played_at": 1787290535,
-      "duration": 154,
+      "sh_id": 291054,
+      "played_at": 1787291154,
+      "duration": 1315,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "05ee578b31c22764023d89f2fc52bbaa",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/0959ff6277a704edb94d14e0-1757470305.jpg",
+        "id": "ec17efb4e7662e411cd04e1072849873",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/2915a80b114ba888747de2be",
         "custom_fields": [],
-        "text": "Amerindios - Amerindios - Los vietnamitas",
-        "artist": "Amerindios",
-        "title": "Los vietnamitas",
-        "album": "Amerindios",
-        "genre": "Other",
+        "text": "Jos\u00e9 Vicente Asuar - El Computador Virtuoso - Exposici\u00f3n de Sonidos Electr\u00f3nicos y M\u00fasica con Computadoras",
+        "artist": "Jos\u00e9 Vicente Asuar",
+        "title": "Exposici\u00f3n de Sonidos Electr\u00f3nicos y M\u00fasica con Computadoras",
+        "album": "El Computador Virtuoso",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 141,
-      "remaining": 13
+      "elapsed": 977,
+      "remaining": 338
     },
     "playing_next": {
-      "cued_at": 1787290323,
-      "played_at": 1787290685,
-      "duration": 130.64155,
+      "cued_at": 1787290945,
+      "played_at": 1787292465,
+      "duration": 286.461978,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "e973b3bf8546e67a4ec574b1a00ca246",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/b398b0dfe85117725904d2bc",
+        "id": "6eebfa9b4087a5642942536a267a613f",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/af484e6c33a69de9b930a466-1757470396.jpg",
         "custom_fields": [],
-        "text": "Coro Ni\u00f1o y Patria - Coro Ni\u00f1o y Patria - Ojos Azules",
-        "artist": "Coro Ni\u00f1o y Patria",
-        "title": "Ojos Azules ",
-        "album": "Coro Ni\u00f1o y Patria",
-        "genre": "",
+        "text": "Combo Xingu - Xingu - Puente Sobre Aguas Turbulentas (Bridge Over Troubled Water)",
+        "artist": "Combo Xingu",
+        "title": "Puente Sobre Aguas Turbulentas (Bridge Over Troubled Water)",
+        "album": "Xingu",
+        "genre": "Funk/Soul",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 291051,
+        "played_at": 1787290950,
+        "duration": 207,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "3fbaf887720045a15def029676689400",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d9c33f5d913b922fe548ac5a",
+          "custom_fields": [],
+          "text": "Quilapay\u00fan - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+          "artist": "Quilapay\u00fan",
+          "title": "El Pueblo Unido Jam\u00e1s Ser\u00e1 Vencido",
+          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291048,
+        "played_at": 1787290809,
+        "duration": 143,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "9613b70d97729e88d9509023a9fdca73",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/70f9b2ff139ac5f75e4cccb6",
+          "custom_fields": [],
+          "text": "Grua - Tiempo Libre - Tiempo Libre",
+          "artist": "Grua",
+          "title": "Tiempo Libre",
+          "album": "Tiempo Libre",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291047,
+        "played_at": 1787290681,
+        "duration": 130,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "e973b3bf8546e67a4ec574b1a00ca246",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/b398b0dfe85117725904d2bc",
+          "custom_fields": [],
+          "text": "Coro Ni\u00f1o y Patria - Coro Ni\u00f1o y Patria - Ojos Azules",
+          "artist": "Coro Ni\u00f1o y Patria",
+          "title": "Ojos Azules ",
+          "album": "Coro Ni\u00f1o y Patria",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291045,
+        "played_at": 1787290535,
+        "duration": 154,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "05ee578b31c22764023d89f2fc52bbaa",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/0959ff6277a704edb94d14e0-1757470305.jpg",
+          "custom_fields": [],
+          "text": "Amerindios - Amerindios - Los vietnamitas",
+          "artist": "Amerindios",
+          "title": "Los vietnamitas",
+          "album": "Amerindios",
+          "genre": "Other",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 291043,
         "played_at": 1787290328,
@@ -234,86 +314,6 @@
           "artist": "Capablanca",
           "title": "Sola Quedar\u00e1",
           "album": "Lo que es Amor",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 291041,
-        "played_at": 1787290307,
-        "duration": 22,
-        "playlist": "CONTEXTO",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "97f40d2f6b7165e60d81c532238585ab",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6ca96d9e8fbbf071d6d4f387",
-          "custom_fields": [],
-          "text": "Propagandas Radiales - Nacionalizaci\u00f3n del Cobre - Propaganda 6",
-          "artist": "Propagandas Radiales",
-          "title": "Propaganda 6",
-          "album": "Nacionalizaci\u00f3n del Cobre",
-          "genre": "CircunferenciaPunga",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 291039,
-        "played_at": 1787290121,
-        "duration": 189,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "935ebcfd48b96a0b10e1a9ad65574af7",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e9b038eb16af180e21945492",
-          "custom_fields": [],
-          "text": "Giolito y su Combo - Cosecha Tropical - Quiero Empezar",
-          "artist": "Giolito y su Combo",
-          "title": "Quiero Empezar",
-          "album": "Cosecha Tropical",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 291037,
-        "played_at": 1787289962,
-        "duration": 167,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "aaa02d79a4efb709cf12c6e074b777df",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/1992f91e25901bc11a6a0531",
-          "custom_fields": [],
-          "text": "Humberto Loz\u00e1n - Muy bien hecho est\u00e1",
-          "artist": "Humberto Loz\u00e1n",
-          "title": "Muy bien hecho est\u00e1",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 291035,
-        "played_at": 1787289735,
-        "duration": 234,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "730b21180f93684cb3f5d87e781f86b8",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/e3950a8831d19a6170096c6c",
-          "custom_fields": [],
-          "text": "Frutos del Pa\u00eds - Sin T\u00ed - T\u00fa Sabes Que Es \u00c9l",
-          "artist": "Frutos del Pa\u00eds",
-          "title": "T\u00fa Sabes Que Es \u00c9l",
-          "album": "Sin T\u00ed",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,41 +373,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 291046,
-      "played_at": 1787290593,
-      "duration": 280,
+      "sh_id": 291062,
+      "played_at": 1787292093,
+      "duration": 309,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "afbf357bd6c50f1da081a09017ee7afd",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1f575f383b6a1ce8ece5bd84-1781895414.jpg",
+        "id": "0cb774d9ae3833e4e90fa46cc7d4a565",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/96ceb7b38d1ae66c82996308-1781491403.jpg",
         "custom_fields": [],
-        "text": "Rufus & Chaka Khan - Chaka Khan (Tracks) - Ain't Nobody",
-        "artist": "Rufus & Chaka Khan",
-        "title": "Ain't Nobody",
-        "album": "Chaka Khan (Tracks)",
-        "genre": "R&B",
+        "text": "samuel vio - miel-reversiones  - 05 amantes - ripio remix",
+        "artist": "samuel vio",
+        "title": "miel-reversiones  - 05 amantes - ripio remix",
+        "album": "",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 83,
-      "remaining": 197
+      "elapsed": 38,
+      "remaining": 271
     },
     "playing_next": {
-      "cued_at": 1787290307,
-      "played_at": 1787290865,
-      "duration": 285.62288197598,
+      "cued_at": 1787291932,
+      "played_at": 1787292394,
+      "duration": 262.03428576412,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "8f644b149fbc8ddc48ef0f4a7c9917f5",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3b02af0ce77d04ed5346df9c-1781571128.jpg",
+        "id": "141405408c49d3a9dfa77137c692be45",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6fa4bb3531a9aca6cfed99a3-1781491406.jpg",
         "custom_fields": [],
-        "text": "F600 vs. Leonino - Cobijo - 03 Sorteando el destino",
-        "artist": "F600 vs. Leonino",
-        "title": "03 Sorteando el destino",
-        "album": "Cobijo",
+        "text": "samuel vio - miel-reversiones  - 06 ciruelo - antonia navarro remix",
+        "artist": "samuel vio",
+        "title": "miel-reversiones  - 06 ciruelo - antonia navarro remix",
+        "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -415,103 +415,103 @@
     },
     "song_history": [
       {
-        "sh_id": 291042,
-        "played_at": 1787290312,
-        "duration": 286,
+        "sh_id": 291059,
+        "played_at": 1787291937,
+        "duration": 160,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "79e3db09b3f05e63e0c48dff097c5b8b",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/c8e572e157b3d6be15812841-1781895543.jpg",
+          "id": "e4e5771bf4a192f1c8e21817e307d151",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e72fef25f571cae753a3158f-1781491395.jpg",
           "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "artist": "Chaka Khan",
-          "title": "Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "All is fair in love boy When the love is shared Now you've been acting for some time Like you just don't care About me  Well my mama used to say That there would come a day When fools begin to open up their eyes  You never miss the water Till the well runs dry Now I have had enough bad love So I'm telling you goodbye, goodbye  You've been taking me for granted You even made me cry And sorry just ain't good enough Baby not this time  My mama used to say That there would come a day When the truth can no longer be denied  You're gonna miss my love You're gonna miss my love You're gonna miss my love  You never miss the water Till the well runs dry for ya  My mama used to say That there would come a day When you would run but baby you can't hide"
-        }
-      },
-      {
-        "sh_id": 291038,
-        "played_at": 1787290032,
-        "duration": 283,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "5d533313550518e9b95df29fc53df10c",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9899cf7c85a7c718da3484c9-1781895697.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Love You All My Lifetime",
-          "artist": "Chaka Khan",
-          "title": "Love You All My Lifetime",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "Cold endless summer days since you went away Tore my heart in two and now wandering through the night I see the city lights feelin' so in need I'll never be at peace  Love you all my lifetime Lost to you eternally Everything in my life Tells me we were meant to be  Strange, there's always something wrong, dreams don't last that long What part did I play in that game and now, now you turn away Excuses are too late, feelin' so in need I'll never be at peace  Love you all my lifetime Lost to you eternally Everything in my life Tells me we were meant to be  You make the rain and the night go away You make the sun rise up in my sky You make the rain and the night go away You make the sun rise up in my sky"
-        }
-      },
-      {
-        "sh_id": 291033,
-        "played_at": 1787289664,
-        "duration": 373,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "9af63294cc0c869ccd91813443b55eff",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/ed337f9e70163a6c624400d9-1781895612.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Love Of A Lifetime (Extended Dance Version)",
-          "artist": "Chaka Khan",
-          "title": "Love Of A Lifetime (Extended Dance Version)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "Love of a lifetime  Good for you (heart of change) Got to be the heart of change Good for me - a heart of change I know we'll get it better Stir it up (got to be) Stir it tender heartedly Stir it and The whole world's gettin' better  BRIDGE:  I believe the world to be Fast and ever changing That's the way my love will be Got to last and satisfy me  CHORUS:  You got the love of a lifetime You're such a rock steady lover, baby Keep up the good love for Chaka You can hold it, boy 'Cause you don't let it go  Good for you Good for me The way we work together Short and sweet (hit and run) I know where you're comin' from We can steal And baby, we'll hit and run together  Repeat bridge  We got the love of a lifetime Ooh, we're such rock steady lovers, baby Keep up the good love together We can hold it, boy And never let it go  We got the love of a lifetime We got to keep on rockin' steady I really think I'm ready now Baby, I'm burnin', burnin', burnin'  You got the love of a lifetime You're such a rock steady lover, baby Keep up the good love for Chaka You can hold it, boy, never let it go We got the love of a lifetime Ooh, we're such rock steady lovers, baby Keep up the good love together Hold it, boy  Love of a lifetime  (Love of a lifetime) We got the love, we got the love We got the love Guess it's just a heart of change We got the love, we got the love We got the love It's got to be a heart of change We got the love, we got the love..."
-        }
-      },
-      {
-        "sh_id": 291028,
-        "played_at": 1787289400,
-        "duration": 268,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "ceba1434bc791860039feb7dbbd1c7aa",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/39db38415de04b24a3d34097-1781895713.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - I Know You, I Live You",
-          "artist": "Chaka Khan",
-          "title": "I Know You, I Live You",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
+          "text": "samuel vio - miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+          "album": "",
+          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 291024,
-        "played_at": 1787288899,
-        "duration": 505,
+        "sh_id": 291057,
+        "played_at": 1787291682,
+        "duration": 259,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "4d92a026bd3f7de236bd207fa6083edc",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/eb1fb98f158d4a6b6c86fe08-1781895288.jpg",
+          "id": "3476625df6e88053f1489f1c8174082d",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a2538e3cad26fd2b1385a450-1781490863.jpg",
           "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - I Feel For You (Extended 12'' Mix)",
-          "artist": "Chaka Khan",
-          "title": "I Feel For You (Extended 12'' Mix)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
+          "text": "samuel vio - miel-reversiones  - 03 miel - lilen remix",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 03 miel - lilen remix",
+          "album": "",
+          "genre": "",
           "isrc": "",
-          "lyrics": "Suspicions rising, answers aren't clear\rI thought we made a promise, now you've disappeared\rYou seem to lead two lives at a time\rDo I still fit in, I thought you were mine\rSitting at the bar in our favorite cafe\rI turn and see ya laughin' with her and your smile fades away\rDidn't surprise me, there's nothin' left to say\rI caught you red-handed now and you can't walk away\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, and I can't stand to hear your lies\rCaught in the act, don't you try and change my mind\r\rYou called me the only, you said, \"she's only a friend\"\rDon't pretend you're sorry, my heart will mend\rDon't you come back to me, don't you try to call\rYou couldn't hold my heart with love, now you can't hold me at all\r\rYou were caught in the act\rWhen you thought I wasn't lookin' at ya\rC.i.t.a., I can see what you're doin'\r\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a\rCaught in the act, caught in the act\rCaught in the act, c.i.t.a"
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291055,
+        "played_at": 1787291481,
+        "duration": 205,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b5e44050d2f3cdd02410612c9dcc0d49",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/5be32f1005d7447ac8a3c2ca-1781490857.jpg",
+          "custom_fields": [],
+          "text": "samuel vio - miel-reversiones  - 02 dama",
+          "artist": "samuel vio",
+          "title": "miel-reversiones  - 02 dama",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291053,
+        "played_at": 1787291151,
+        "duration": 335,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "a5485296e7eec6e99cfe9c8a60b357c1",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/635ba08da215d1431587fca9-1781571136.jpg",
+          "custom_fields": [],
+          "text": "F600 vs. Leonino - Cobijo - 04 Correquetepilla",
+          "artist": "F600 vs. Leonino",
+          "title": "04 Correquetepilla",
+          "album": "Cobijo",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 291050,
+        "played_at": 1787290870,
+        "duration": 285,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "8f644b149fbc8ddc48ef0f4a7c9917f5",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3b02af0ce77d04ed5346df9c-1781571128.jpg",
+          "custom_fields": [],
+          "text": "F600 vs. Leonino - Cobijo - 03 Sorteando el destino",
+          "artist": "F600 vs. Leonino",
+          "title": "03 Sorteando el destino",
+          "album": "Cobijo",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
         }
       }
     ],
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787290671,
+      "played_at": 1787292123,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
