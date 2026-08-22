@@ -63,63 +63,63 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 292827,
-      "played_at": 1787428124,
-      "duration": 269,
-      "playlist": "IPAD",
+      "sh_id": 292838,
+      "played_at": 1787428882,
+      "duration": 268,
+      "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "c116b1ac14a0aaf7189f53acdcce281e",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c72fcf8e6576aa7c6544bd64-1781048102.jpg",
+        "id": "8c17b32e2f67837bf640e9f8cb07a643",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/7110fbe1cac9b347d500b3c1-1775837471.jpg",
         "custom_fields": [],
-        "text": "Black Sabbath - Ten Year War - Planet Caravan",
-        "artist": "Black Sabbath",
-        "title": "Planet Caravan",
-        "album": "Ten Year War",
+        "text": "Ladytron - Paradises - Ordinary Love",
+        "artist": "Ladytron",
+        "title": "Ordinary Love",
+        "album": "Paradises",
         "genre": "",
-        "isrc": "GB5KW1602022",
+        "isrc": "CAN112501559",
         "lyrics": ""
       },
-      "elapsed": 131,
-      "remaining": 138
+      "elapsed": 155,
+      "remaining": 113
     },
     "playing_next": {
-      "cued_at": 1787428049,
-      "played_at": 1787428388,
-      "duration": 71.04,
+      "cued_at": 1787428853,
+      "played_at": 1787429146,
+      "duration": 403.461225,
       "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "a4b9e523deba887d0777401540dd2cca",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/d6398508c07453c192af104d-1775837472.jpg",
+        "id": "c59af0e3f0eff3780d1e9f5f10b61aeb",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/907acf829ec774840a18fa05-1781388396.jpg",
         "custom_fields": [],
-        "text": "IZTOK KOREN / Raphael Rogi\u0144ski - Nocturnal Consolations - Labyrinth of Air - Fire Cat",
-        "artist": "IZTOK KOREN / Raphael Rogi\u0144ski",
-        "title": "Labyrinth of Air - Fire Cat",
-        "album": "Nocturnal Consolations",
+        "text": "Pan American - Pan American - Starts Friday",
+        "artist": "Pan American",
+        "title": "Starts Friday",
+        "album": "Pan American",
         "genre": "",
-        "isrc": "QM6MZ2644806",
+        "isrc": "USI4R0401731",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 292825,
-        "played_at": 1787428054,
-        "duration": 71,
-        "playlist": "IPAD",
+        "sh_id": 292837,
+        "played_at": 1787428858,
+        "duration": 24,
+        "playlist": "MARCAS",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "5dfd138c656f7ebd0e4c7037434c6075",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/a47781cb0c99c351d2d81f29",
+          "id": "40d16631d7473d7a2df1b7357af7da7b",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
           "custom_fields": [],
-          "text": "Devadip Carlos Santana and Turiya Alice Coltrane - Illuminations - Ouru Sri Chinmop Aphorism",
-          "artist": "Devadip Carlos Santana and Turiya Alice Coltrane",
-          "title": "Ouru Sri Chinmop Aphorism",
-          "album": "Illuminations",
-          "genre": "",
+          "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+          "artist": "Radio Mario Maria",
+          "title": "Toques de Gong Radios Chilenas",
+          "album": "MARCA",
+          "genre": "MARCA",
           "isrc": "",
           "lyrics": ""
         }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 292828,
-      "played_at": 1787428156,
-      "duration": 303,
+      "sh_id": 292840,
+      "played_at": 1787429008,
+      "duration": 143,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "f5a7992c5e115f0f8c724d8624b7d072",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/cec8f9aa556007c2df9afd30",
+        "id": "9613b70d97729e88d9509023a9fdca73",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/70f9b2ff139ac5f75e4cccb6",
         "custom_fields": [],
-        "text": "Los Jaivas - Cuero y piel",
-        "artist": "Los Jaivas",
-        "title": "Cuero y piel",
-        "album": "",
+        "text": "Grua - Tiempo Libre - Tiempo Libre",
+        "artist": "Grua",
+        "title": "Tiempo Libre",
+        "album": "Tiempo Libre",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 99,
-      "remaining": 204
+      "elapsed": 29,
+      "remaining": 114
     },
     "playing_next": {
-      "cued_at": 1787428071,
-      "played_at": 1787428454,
-      "duration": 163.477475,
+      "cued_at": 1787428810,
+      "played_at": 1787429146,
+      "duration": 204.016327,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "afa516a2ec5812b27115f82370cc5d68",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f9b85bbebd3c8c80cab4115c",
+        "id": "810afbb144b2620c742c054ea9028fa2",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/120ace937b33a63938102192",
         "custom_fields": [],
-        "text": "Coro Ni\u00f1o y Patria - Coro Ni\u00f1o y Patria - El Chilote Marino",
-        "artist": "Coro Ni\u00f1o y Patria",
-        "title": "El Chilote Marino ",
-        "album": "Coro Ni\u00f1o y Patria",
+        "text": "Eliana Moraga - Noche buena",
+        "artist": "Eliana Moraga",
+        "title": "Noche buena",
+        "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 292836,
+        "played_at": 1787428815,
+        "duration": 194,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "49d0d8a3043f7d66f60180f42d73b658",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d6fbff9d70148f3bbe300c90",
+          "custom_fields": [],
+          "text": "Los Cuatro de Chile - El And\u00e9n",
+          "artist": "Los Cuatro de Chile",
+          "title": "El And\u00e9n",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 292834,
+        "played_at": 1787428617,
+        "duration": 204,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "30c10785b7f4317f4e1b48c94bf8aa23",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/349d1e276642a850c612e9f2",
+          "custom_fields": [],
+          "text": "Pop-Tops - Escondite / Paseando por la rivera [SINGLE] - Escondite",
+          "artist": "Pop-Tops",
+          "title": "Escondite",
+          "album": "Escondite / Paseando por la rivera [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 292832,
+        "played_at": 1787428456,
+        "duration": 163,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "afa516a2ec5812b27115f82370cc5d68",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f9b85bbebd3c8c80cab4115c",
+          "custom_fields": [],
+          "text": "Coro Ni\u00f1o y Patria - Coro Ni\u00f1o y Patria - El Chilote Marino",
+          "artist": "Coro Ni\u00f1o y Patria",
+          "title": "El Chilote Marino ",
+          "album": "Coro Ni\u00f1o y Patria",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 292828,
+        "played_at": 1787428156,
+        "duration": 303,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "f5a7992c5e115f0f8c724d8624b7d072",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/cec8f9aa556007c2df9afd30",
+          "custom_fields": [],
+          "text": "Los Jaivas - Cuero y piel",
+          "artist": "Los Jaivas",
+          "title": "Cuero y piel",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 292826,
         "played_at": 1787428076,
@@ -234,86 +314,6 @@
           "artist": "Relato",
           "title": "Chile Mar",
           "album": "Chile Pueblo (En El 2\u00ba A\u00f1o Del Gobierno Popular)",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292823,
-        "played_at": 1787427896,
-        "duration": 181,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "c32b62ec0e2b65104d78db8ad5211659",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/18843957c0986c8be25acf01",
-          "custom_fields": [],
-          "text": "Ariaselva - Ariaselva - Por Tus Ojitos De Noche",
-          "artist": "Ariaselva",
-          "title": "Por Tus Ojitos De Noche",
-          "album": "Ariaselva",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292821,
-        "played_at": 1787427759,
-        "duration": 140,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "965338f750d0b20b22dadaa7d4aca4a5",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ccc94b580344ed5e998c13f5",
-          "custom_fields": [],
-          "text": "Charo Cofr\u00e9 - Canasto de sue\u00f1os",
-          "artist": "Charo Cofr\u00e9",
-          "title": "Canasto de sue\u00f1os",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292817,
-        "played_at": 1787427474,
-        "duration": 286,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "3c6a609ef2d37724d5acd6b799e02d03",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a0e7e04f997665dd47786006",
-          "custom_fields": [],
-          "text": "Banda de la escuela de suboficiales - BANDA DE GUERRA ESC. SUBOFICIALES - Por El Honor De La Escuela",
-          "artist": "Banda de la escuela de suboficiales",
-          "title": "Por El Honor De La Escuela",
-          "album": "BANDA DE GUERRA ESC. SUBOFICIALES",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292814,
-        "played_at": 1787427197,
-        "duration": 276,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "d51da9a668592e033f037229740ff005",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/137d6140dd73a4fdb036039e",
-          "custom_fields": [],
-          "text": "Salvador Allende y otros - 4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular - Pista 6 primer a\u00f1o del Gobierno Popular",
-          "artist": "Salvador Allende y otros",
-          "title": "Pista 6 primer a\u00f1o del Gobierno Popular",
-          "album": "4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -373,47 +373,87 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 292829,
-      "played_at": 1787428252,
-      "duration": 311,
+      "sh_id": 292839,
+      "played_at": 1787428951,
+      "duration": 248,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "7587b5abef580c17f6e1515e88f91d54",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cb7f6da8e0328419dc4bb58a-1781895645.jpg",
+        "id": "3207eb95c7fdd2eaf1bed93359dec4d0",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3e38a5fa76d1b57f97d122cd-1781895259.jpg",
         "custom_fields": [],
-        "text": "Chaka Khan - Chaka Khan (Tracks) - Every Little Thing",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - I'm Every Woman",
         "artist": "Chaka Khan",
-        "title": "Every Little Thing",
+        "title": "I'm Every Woman",
         "album": "Chaka Khan (Tracks)",
         "genre": "R&B",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 3,
-      "remaining": 308
+      "elapsed": 86,
+      "remaining": 162
     },
     "playing_next": {
-      "cued_at": 1787427773,
-      "played_at": 1787428555,
-      "duration": 395.9902,
+      "cued_at": 1787428555,
+      "played_at": 1787429190,
+      "duration": 265.874275,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "4f8d39de51680df09479917d003e494c",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8d84e9e0c082fc1d8bcdbb11-1781895361.jpg",
+        "id": "8df173fe5e453b8fe84ccb5d57fe9ad9",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/96ceed36df3d8aa7d93b280e-1781895278.jpg",
         "custom_fields": [],
-        "text": "Chaka Khan - Chaka Khan (Tracks) - Eye To Eye (12'' Mix)",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - It Ain't Easy Lovin' Me",
         "artist": "Chaka Khan",
-        "title": "Eye To Eye (12'' Mix)",
+        "title": "It Ain't Easy Lovin' Me",
         "album": "Chaka Khan (Tracks)",
         "genre": "R&B",
         "isrc": "",
-        "lyrics": "I'm in the mood to end these empty days\rEver when I, you stare down romancin'\rEvery time I see your face hopeless\rColder than ice with no more flame\r\rI think our love has reached the part of no return\rIt's so sad when lovers don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThat distant look is all you've got to say\rEvery time I try to talk to you\rEvery word is lost in space\rDrifting further apart in every way\r\rWe've come to be the ones whose love is out of sight\rIt's so clear that we just don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThere's no reason for this heartache\rTo go on and on when the feeling's gone\rI can say now that it's to late\rTo try and change your mind\r\rNo tear, oh yeah\rA look everyday, yeah\r[Incomprehensible]\rEye to eye, I'm seeing\rEye to eye to just keep singing\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rEye to eye, a look says everything\rEye to eye, a look says everything\rEye to eye, so close, so far away\rEye to eye"
+        "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 292833,
+        "played_at": 1787428560,
+        "duration": 395,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "4f8d39de51680df09479917d003e494c",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8d84e9e0c082fc1d8bcdbb11-1781895361.jpg",
+          "custom_fields": [],
+          "text": "Chaka Khan - Chaka Khan (Tracks) - Eye To Eye (12'' Mix)",
+          "artist": "Chaka Khan",
+          "title": "Eye To Eye (12'' Mix)",
+          "album": "Chaka Khan (Tracks)",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": "I'm in the mood to end these empty days\rEver when I, you stare down romancin'\rEvery time I see your face hopeless\rColder than ice with no more flame\r\rI think our love has reached the part of no return\rIt's so sad when lovers don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThat distant look is all you've got to say\rEvery time I try to talk to you\rEvery word is lost in space\rDrifting further apart in every way\r\rWe've come to be the ones whose love is out of sight\rIt's so clear that we just don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThere's no reason for this heartache\rTo go on and on when the feeling's gone\rI can say now that it's to late\rTo try and change your mind\r\rNo tear, oh yeah\rA look everyday, yeah\r[Incomprehensible]\rEye to eye, I'm seeing\rEye to eye to just keep singing\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rEye to eye, a look says everything\rEye to eye, a look says everything\rEye to eye, so close, so far away\rEye to eye"
+        }
+      },
+      {
+        "sh_id": 292829,
+        "played_at": 1787428252,
+        "duration": 311,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "7587b5abef580c17f6e1515e88f91d54",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cb7f6da8e0328419dc4bb58a-1781895645.jpg",
+          "custom_fields": [],
+          "text": "Chaka Khan - Chaka Khan (Tracks) - Every Little Thing",
+          "artist": "Chaka Khan",
+          "title": "Every Little Thing",
+          "album": "Chaka Khan (Tracks)",
+          "genre": "R&B",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 292822,
         "played_at": 1787427778,
@@ -468,46 +508,6 @@
           "text": "4. estanques de tecoma",
           "artist": "",
           "title": "4. estanques de tecoma",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292812,
-        "played_at": 1787427096,
-        "duration": 185,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "6bffc9f2f03f2e20f54a3023f1b5636a",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1fd82dd7daff68308097a048",
-          "custom_fields": [],
-          "text": "3. cuncuna",
-          "artist": "",
-          "title": "3. cuncuna",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 292806,
-        "played_at": 1787426587,
-        "duration": 513,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8220c9525d02a8bc7d44288bdb8a09c2",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/16f8a2fef03b944e5e0334b8",
-          "custom_fields": [],
-          "text": "2. siesta en el lado sabio",
-          "artist": "",
-          "title": "2. siesta en el lado sabio",
           "album": "",
           "genre": "",
           "isrc": "",
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787428238,
+      "played_at": 1787429023,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
