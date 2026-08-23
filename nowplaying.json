@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293855,
-      "played_at": 1787506987,
-      "duration": 277,
-      "playlist": "RECUENTO_2026",
+      "sh_id": 293866,
+      "played_at": 1787507853,
+      "duration": 194,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "d6e387254b6f5fa44374810dad748cdc",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c12ffb15d25bdfe60b5b6247-1775837479.jpg",
+        "id": "22a832d93049a544f823ade9a627beb5",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/751c1658270d3752d4beb825-1762989078.jpg",
         "custom_fields": [],
-        "text": "Simo Cell & Abdullah Miniawy - Dying Is the Internet - Reels in 360",
-        "artist": "Simo Cell & Abdullah Miniawy",
-        "title": "Reels in 360",
-        "album": "Dying Is the Internet",
+        "text": "Ela Minus - D\u00cdA - IDK",
+        "artist": "Ela Minus",
+        "title": "IDK",
+        "album": "D\u00cdA",
         "genre": "",
-        "isrc": "NLTH62600020",
+        "isrc": "GBCEL2300918",
         "lyrics": ""
       },
-      "elapsed": 183,
-      "remaining": 94
+      "elapsed": 147,
+      "remaining": 47
     },
     "playing_next": {
-      "cued_at": 1787506823,
-      "played_at": 1787507260,
-      "duration": 323.08245,
-      "playlist": "RECUENTO_2025",
+      "cued_at": 1787507691,
+      "played_at": 1787508043,
+      "duration": 24.372284638538,
+      "playlist": "MARCAS",
       "is_request": false,
       "song": {
-        "id": "05b349a44a3b6368af48fb4038a79400",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/0f0a815db54546275940ca53-1762990897.jpg",
+        "id": "40d16631d7473d7a2df1b7357af7da7b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
         "custom_fields": [],
-        "text": "Rattle - Encircle - Ritual",
-        "artist": "Rattle",
-        "title": "Ritual",
-        "album": "Encircle",
-        "genre": "",
+        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+        "artist": "Radio Mario Maria",
+        "title": "Toques de Gong Radios Chilenas",
+        "album": "MARCA",
+        "genre": "MARCA",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 293853,
-        "played_at": 1787506828,
-        "duration": 160,
-        "playlist": "IPAD",
+        "sh_id": 293864,
+        "played_at": 1787507696,
+        "duration": 168,
+        "playlist": "RECUENTO_2026",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "acef9baaad05a73fb7f911fd8ce997b9",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/32026362e38e7437f56dedb9-1780609547.jpg",
+          "id": "3681fb463d723c918c00849537622f9f",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/71c20be5e9104ebdc765a664-1781388507.jpg",
           "custom_fields": [],
-          "text": "L\u00e4uten der Seele - Unterhaltungen mit Larven und \u00dcberresten - Keinen Mund",
-          "artist": "L\u00e4uten der Seele",
-          "title": "Keinen Mund",
-          "album": "Unterhaltungen mit Larven und \u00dcberresten",
+          "text": "Fawzi / Al Nather - 2000 - Hajmeh",
+          "artist": "Fawzi / Al Nather",
+          "title": "Hajmeh",
+          "album": "2000",
           "genre": "",
-          "isrc": "",
+          "isrc": "QZMEM2131122",
           "lyrics": ""
         }
       }
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293857,
-      "played_at": 1787507110,
-      "duration": 235,
+      "sh_id": 293868,
+      "played_at": 1787507894,
+      "duration": 246,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "d7737e6450970159e3a43f7fe9a47911",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/4147fe341adab1501bafb1db-1757470456.jpg",
+        "id": "5a82bea98bb1d7b1f378ea4bdbac6f8f",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/281ad6182103c67df4f15f71",
         "custom_fields": [],
-        "text": "En Busca del Tiempo Perdido - Amanecer [SINGLE] - Esc\u00fachame",
-        "artist": "En Busca del Tiempo Perdido",
-        "title": "Esc\u00fachame",
-        "album": "Amanecer [SINGLE]",
+        "text": "Nano Acevedo y Pancho Navarro - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - Arriba la Guardia",
+        "artist": "Nano Acevedo y Pancho Navarro",
+        "title": "Arriba la Guardia",
+        "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 60,
-      "remaining": 175
+      "elapsed": 106,
+      "remaining": 140
     },
     "playing_next": {
-      "cued_at": 1787506957,
-      "played_at": 1787507340,
-      "duration": 162.8212,
+      "cued_at": 1787507724,
+      "played_at": 1787508135,
+      "duration": 234.380063,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "cf2e6e5e301719df9dd3ccc1af9ec559",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/21ce449f861152f3879d23e2",
+        "id": "813e9b095194f32c2375cd4a78de2e47",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/385cbe75f255b233cbcd777d",
         "custom_fields": [],
-        "text": "Los Cisnes de Vichuquen - LOS CISNES DE VICHUQUEN - Desde Que Soy Soldado",
-        "artist": "Los Cisnes de Vichuquen",
-        "title": "Desde Que Soy Soldado",
-        "album": "LOS CISNES DE VICHUQUEN",
+        "text": "Ariaselva - Ariaselva - El Hombre Y La Mariposa",
+        "artist": "Ariaselva",
+        "title": "El Hombre Y La Mariposa",
+        "album": "Ariaselva",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 293865,
+        "played_at": 1787507729,
+        "duration": 169,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c038ced87d53e609c866a3f2c5714820",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/83f2fdde6ea8cde98543e865",
+          "custom_fields": [],
+          "text": "Villadiego - Tu que te reias",
+          "artist": "Villadiego",
+          "title": "Tu que te reias",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293862,
+        "played_at": 1787507499,
+        "duration": 232,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "010cc103e5d70964422620c5214173c9",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d7284fde1f4b75fca0cbe0fc",
+          "custom_fields": [],
+          "text": "Kalish - Stone of Years [SINGLE] - Stones of Years",
+          "artist": "Kalish",
+          "title": "Stones of Years",
+          "album": "Stone of Years [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293860,
+        "played_at": 1787507339,
+        "duration": 162,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "cf2e6e5e301719df9dd3ccc1af9ec559",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/21ce449f861152f3879d23e2",
+          "custom_fields": [],
+          "text": "Los Cisnes de Vichuquen - LOS CISNES DE VICHUQUEN - Desde Que Soy Soldado",
+          "artist": "Los Cisnes de Vichuquen",
+          "title": "Desde Que Soy Soldado",
+          "album": "LOS CISNES DE VICHUQUEN",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293857,
+        "played_at": 1787507110,
+        "duration": 235,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "d7737e6450970159e3a43f7fe9a47911",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/4147fe341adab1501bafb1db-1757470456.jpg",
+          "custom_fields": [],
+          "text": "En Busca del Tiempo Perdido - Amanecer [SINGLE] - Esc\u00fachame",
+          "artist": "En Busca del Tiempo Perdido",
+          "title": "Esc\u00fachame",
+          "album": "Amanecer [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 293854,
         "played_at": 1787506962,
@@ -235,86 +315,6 @@
           "title": "Salgamos A Correr",
           "album": "Sin T\u00ed",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293852,
-        "played_at": 1787506802,
-        "duration": 167,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "aaa02d79a4efb709cf12c6e074b777df",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/1992f91e25901bc11a6a0531",
-          "custom_fields": [],
-          "text": "Humberto Loz\u00e1n - Muy bien hecho est\u00e1",
-          "artist": "Humberto Loz\u00e1n",
-          "title": "Muy bien hecho est\u00e1",
-          "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293850,
-        "played_at": 1787506696,
-        "duration": 107,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "a573f2539c35d11eaffb7f68da381fec",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/3ba2b4f309e845aad948c7bc",
-          "custom_fields": [],
-          "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Canci\u00f3n del Obrero Viejo",
-          "artist": "Coro Universidad Austral de Chile",
-          "title": "Canci\u00f3n del Obrero Viejo",
-          "album": "Cantata Santa Mar\u00eda de Iquique",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293848,
-        "played_at": 1787506595,
-        "duration": 102,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "e1535827d10577e371e6ff79070f185d",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/1ecbe7f3b69fd7c88d82c0e2",
-          "custom_fields": [],
-          "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - Fiesta en la Plaza",
-          "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
-          "title": "Fiesta en la Plaza",
-          "album": "Aucam\u00e1n",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293847,
-        "played_at": 1787506546,
-        "duration": 48,
-        "playlist": "CONTEXTO",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "0a89b275315b704acf7c2a578a8bfc56",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d8e0b30600dcb122e7c34af9",
-          "custom_fields": [],
-          "text": "Propagandas Radiales - Nacionalizaci\u00f3n del Cobre - Propaganda 1",
-          "artist": "Propagandas Radiales",
-          "title": "Propaganda 1",
-          "album": "Nacionalizaci\u00f3n del Cobre",
-          "genre": "CircunferenciaPunga",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,47 +373,107 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293856,
-      "played_at": 1787507020,
-      "duration": 176,
+      "sh_id": 293867,
+      "played_at": 1787507886,
+      "duration": 493,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "3ac972eebe8affd90881726e1def7769",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4755f37a54d69c66e2a17c25-1781895466.jpg",
+        "id": "8969b0b45f12dce718263a494b2ddf1c",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4074df86e6bc26041c43b11c-1781895661.jpg",
         "custom_fields": [],
-        "text": "matthew wilder - break my stride 1983 (without announcer)",
-        "artist": "matthew wilder",
-        "title": "break my stride 1983 (without announcer)",
+        "text": "gwen guthrie - hopscotch (edit)",
+        "artist": "gwen guthrie",
+        "title": "hopscotch (edit)",
         "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 150,
-      "remaining": 26
+      "elapsed": 114,
+      "remaining": 379
     },
     "playing_next": {
-      "cued_at": 1787506696,
-      "played_at": 1787507187,
-      "duration": 292.75431048902,
+      "cued_at": 1787507475,
+      "played_at": 1787508370,
+      "duration": 313.0775625,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "d4c8f45f667fffff57d8d6053c827da5",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/956ce266abc28cddda901895-1781895551.jpg",
+        "id": "1d16446ebc1e38a241fff4c0d1720281",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/d3fe2d17f707cbdaa21fc358-1781895580.jpg",
         "custom_fields": [],
-        "text": "MBT - Backstreet Brit Funk - You Know Too Much",
-        "artist": "MBT",
-        "title": "You Know Too Much",
-        "album": "Backstreet Brit Funk",
-        "genre": "Electronic Instrumental Jazz Funk Soul Disco",
+        "text": "Alexander O'Neal Ft. Cherelle - Body + Soul - Slow And Easy (CD2) - Never Knew Love Like This Before",
+        "artist": "Alexander O'Neal Ft. Cherelle",
+        "title": "Never Knew Love Like This Before",
+        "album": "Body + Soul - Slow And Easy (CD2)",
+        "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 293861,
+        "played_at": 1787507480,
+        "duration": 406,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "7637541cb540635aeee2004c71da21a5",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/b423ec4d49d6c7139ca6ddf1-1781895276.jpg",
+          "custom_fields": [],
+          "text": "Aurra - Unknown Album Dance Classics - You & Me Tognight (Extended)",
+          "artist": "Aurra",
+          "title": "You & Me Tognight (Extended)",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293858,
+        "played_at": 1787507192,
+        "duration": 292,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "d4c8f45f667fffff57d8d6053c827da5",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/956ce266abc28cddda901895-1781895551.jpg",
+          "custom_fields": [],
+          "text": "MBT - Backstreet Brit Funk - You Know Too Much",
+          "artist": "MBT",
+          "title": "You Know Too Much",
+          "album": "Backstreet Brit Funk",
+          "genre": "Electronic Instrumental Jazz Funk Soul Disco",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293856,
+        "played_at": 1787507020,
+        "duration": 176,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "3ac972eebe8affd90881726e1def7769",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/4755f37a54d69c66e2a17c25-1781895466.jpg",
+          "custom_fields": [],
+          "text": "matthew wilder - break my stride 1983 (without announcer)",
+          "artist": "matthew wilder",
+          "title": "break my stride 1983 (without announcer)",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 293851,
         "played_at": 1787506701,
@@ -450,66 +510,6 @@
           "title": "Make U Mine",
           "album": "Deepest Shades EP",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293842,
-        "played_at": 1787506147,
-        "duration": 213,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "dc9c33926dff070d2028e623b84e055b",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1b55813b570df040f2a704c3-1781895360.jpg",
-          "custom_fields": [],
-          "text": "Lou Rawls - Soul Compi - You'll Never Find Another Love",
-          "artist": "Lou Rawls",
-          "title": "You'll Never Find Another Love",
-          "album": "Soul Compi",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293838,
-        "played_at": 1787505889,
-        "duration": 262,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "a7543878e1a28643adffb7b386d249cc",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/21c6c63213c24b33a15680b5-1781895579.jpg",
-          "custom_fields": [],
-          "text": "Kevin McCord - When The Night Comes - When The Night Comes",
-          "artist": "Kevin McCord",
-          "title": "When The Night Comes",
-          "album": "When The Night Comes",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293834,
-        "played_at": 1787505483,
-        "duration": 410,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "735b554615d87939f3cc17ffcf97edc2",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/865ed9df233e401cb3153191-1781895535.jpg",
-          "custom_fields": [],
-          "text": "Kenix feat. Bobby Youngblood - Free Soul The Treasure Of West End (Disc 1) - There's Never Been (No One Like You)",
-          "artist": "Kenix feat. Bobby Youngblood",
-          "title": "There's Never Been (No One Like You)",
-          "album": "Free Soul The Treasure Of West End (Disc 1)",
-          "genre": "Disco",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787507161,
+      "played_at": 1787507985,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
