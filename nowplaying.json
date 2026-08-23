@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293952,
-      "played_at": 1787514338,
-      "duration": 272,
-      "playlist": "RECUENTO_2026",
+      "sh_id": 293961,
+      "played_at": 1787515114,
+      "duration": 273,
+      "playlist": "RECUENTO_2025",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "d701e18a1ac7abbe80504a2d98bf4ffb",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/cbe85b51dea4a56cc8f383a4-1782084315.jpg",
+        "id": "ba0c67f0f30619b51dd4c8227a25b709",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/1ace29d19376802e83f77bb5-1762989109.jpg",
         "custom_fields": [],
-        "text": "MJ Guider - Precious Systems - Their Voices Clear Now",
-        "artist": "MJ Guider",
-        "title": "Their Voices Clear Now",
-        "album": "Precious Systems",
+        "text": "Whatever The Weather - Whatever the Weather II - 12\u00b0C",
+        "artist": "Whatever The Weather",
+        "title": "12\u00b0C",
+        "album": "Whatever the Weather II",
         "genre": "",
-        "isrc": "USNCB1620107",
+        "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 70,
-      "remaining": 202
+      "elapsed": 75,
+      "remaining": 198
     },
     "playing_next": {
-      "cued_at": 1787514197,
-      "played_at": 1787514606,
-      "duration": 185.678325,
-      "playlist": "IPAD",
+      "cued_at": 1787514770,
+      "played_at": 1787515382,
+      "duration": 24.372284638538,
+      "playlist": "MARCAS",
       "is_request": false,
       "song": {
-        "id": "1c1974b84840388a3e255e86b28913a5",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/bbd238f2d3c6878c218c3152-1780613899.jpg",
+        "id": "40d16631d7473d7a2df1b7357af7da7b",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
         "custom_fields": [],
-        "text": "Stand High Patrol - Nova Tunes 3.1-4.0 (2015-2019) (Digital Version) - Sleep on It",
-        "artist": "Stand High Patrol",
-        "title": "Sleep on It",
-        "album": "Nova Tunes 3.1-4.0 (2015-2019) (Digital Version)",
-        "genre": "",
+        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
+        "artist": "Radio Mario Maria",
+        "title": "Toques de Gong Radios Chilenas",
+        "album": "MARCA",
+        "genre": "MARCA",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 293949,
-        "played_at": 1787514202,
-        "duration": 138,
-        "playlist": "RECUENTO_2026",
+        "sh_id": 293957,
+        "played_at": 1787514775,
+        "duration": 345,
+        "playlist": "IPAD",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "39a5c03a9e660f819fde8f5db78788dc",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/10d684d001675f6e6ed52c1d-1785460117.jpg",
+          "id": "53bf913209b24f1fdce3a95cca4f6650",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c00669146c99274d663ce61e-1781048078.jpg",
           "custom_fields": [],
-          "text": "helen island - last liasse - thank you",
-          "artist": "helen island",
-          "title": "thank you",
-          "album": "last liasse",
+          "text": "Octo Octa - Sigils for Survival - \u2026To the Divinity of Gay Sex",
+          "artist": "Octo Octa",
+          "title": "\u2026To the Divinity of Gay Sex",
+          "album": "Sigils for Survival",
           "genre": "",
-          "isrc": "NLX1G2400344",
+          "isrc": "US3282601805",
           "lyrics": ""
         }
       }
@@ -178,47 +178,127 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293951,
-      "played_at": 1787514322,
-      "duration": 204,
+      "sh_id": 293960,
+      "played_at": 1787515093,
+      "duration": 232,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "39c8b19762e90796193601b13a0b8358",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/94f2f60051140dcb95dae715",
+        "id": "010cc103e5d70964422620c5214173c9",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/d7284fde1f4b75fca0cbe0fc",
         "custom_fields": [],
-        "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Preg\u00f3n",
-        "artist": "Coro Universidad Austral de Chile",
-        "title": "Preg\u00f3n",
-        "album": "Cantata Santa Mar\u00eda de Iquique",
+        "text": "Kalish - Stone of Years [SINGLE] - Stones of Years",
+        "artist": "Kalish",
+        "title": "Stones of Years",
+        "album": "Stone of Years [SINGLE]",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 86,
-      "remaining": 118
+      "elapsed": 96,
+      "remaining": 136
     },
     "playing_next": {
-      "cued_at": 1787514127,
-      "played_at": 1787514522,
-      "duration": 195.84,
+      "cued_at": 1787514835,
+      "played_at": 1787515320,
+      "duration": 398.7329,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "ec7a96ec63c3f88ef0a4feec71ce9b70",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/50a8cf4ff71d30f061598aab",
+        "id": "2311652d0cf79701fc3f67cebbb75cc7",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f621f7c346bb4d41832ef2b1",
         "custom_fields": [],
-        "text": "H\u00e9ctor Presas (Cachito) - Cristal",
-        "artist": "H\u00e9ctor Presas (Cachito)",
-        "title": "Cristal",
-        "album": "",
+        "text": "Salvador Allende y otros - 4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular - Pista 3 primer a\u00f1o del Gobierno Popular",
+        "artist": "Salvador Allende y otros",
+        "title": "Pista 3 primer a\u00f1o del Gobierno Popular",
+        "album": "4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
+      {
+        "sh_id": 293959,
+        "played_at": 1787514840,
+        "duration": 255,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "b5869a29b6ba7785e775091eb847d68c",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5ac2c1e366f5b8112f3c01eb",
+          "custom_fields": [],
+          "text": "Omara Portuondo - Amor por ti / Gracias a la vida [SINGLE] - Gracias a la vida",
+          "artist": "Omara Portuondo",
+          "title": "Gracias a la vida",
+          "album": "Amor por ti / Gracias a la vida [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293956,
+        "played_at": 1787514719,
+        "duration": 122,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "c0a84284645b2d85dc33841423fb7878",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ec5a2305962c6ca61856749b",
+          "custom_fields": [],
+          "text": "Ballet Folkl\u00f3rico Nacional De Chile - Aucam\u00e1n - Chinos",
+          "artist": "Ballet Folkl\u00f3rico Nacional De Chile",
+          "title": "Chinos",
+          "album": "Aucam\u00e1n",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293954,
+        "played_at": 1787514524,
+        "duration": 195,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "ec7a96ec63c3f88ef0a4feec71ce9b70",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/50a8cf4ff71d30f061598aab",
+          "custom_fields": [],
+          "text": "H\u00e9ctor Presas (Cachito) - Cristal",
+          "artist": "H\u00e9ctor Presas (Cachito)",
+          "title": "Cristal",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293951,
+        "played_at": 1787514322,
+        "duration": 204,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "39c8b19762e90796193601b13a0b8358",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/94f2f60051140dcb95dae715",
+          "custom_fields": [],
+          "text": "Coro Universidad Austral de Chile - Cantata Santa Mar\u00eda de Iquique - Preg\u00f3n",
+          "artist": "Coro Universidad Austral de Chile",
+          "title": "Preg\u00f3n",
+          "album": "Cantata Santa Mar\u00eda de Iquique",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 293948,
         "played_at": 1787514132,
@@ -235,86 +315,6 @@
           "title": "Esta noche es noche buena",
           "album": "",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293946,
-        "played_at": 1787513888,
-        "duration": 248,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "68cb389b2471d9e72c525d8e89647c3c",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7afb74e75f2ea43e5dd81d4b-1757470407.jpg",
-          "custom_fields": [],
-          "text": "Congregacion - Viene... - Tanto Parcelamiento",
-          "artist": "Congregacion",
-          "title": "Tanto Parcelamiento",
-          "album": "Viene...",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293945,
-        "played_at": 1787513851,
-        "duration": 57,
-        "playlist": "CU\u00d1AS",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "a5c91d23cbe024d0bb484c75d64bcc58",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/489b820e6842f47801e9faac",
-          "custom_fields": [],
-          "text": "Carolina Castro Zamorano - EDEC - Cu\u00f1a EDEC",
-          "artist": "Carolina Castro Zamorano",
-          "title": "Cu\u00f1a EDEC",
-          "album": "EDEC",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293943,
-        "played_at": 1787513665,
-        "duration": 189,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "997400fc35275aa02e68d6a8d182e076",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/61f0a2655e0a878952889f2e",
-          "custom_fields": [],
-          "text": "Los Cuatro de Chile - Me peina el viento los cabellos / Camino del amor - Camino del amor",
-          "artist": "Los Cuatro de Chile",
-          "title": "Camino del amor",
-          "album": "Me peina el viento los cabellos / Camino del amor",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293940,
-        "played_at": 1787513464,
-        "duration": 203,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "364eaa53359f81dc59dafc82c2408d76",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/339dd69f69bf0804686c47bb-1757470389.jpg",
-          "custom_fields": [],
-          "text": "Combo Xingu - Xingu - Hot Pants",
-          "artist": "Combo Xingu",
-          "title": "Hot Pants",
-          "album": "Xingu",
-          "genre": "Funk/Soul",
           "isrc": "",
           "lyrics": ""
         }
@@ -373,40 +373,40 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 293950,
-      "played_at": 1787514229,
-      "duration": 260,
+      "sh_id": 293958,
+      "played_at": 1787514809,
+      "duration": 390,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "ec50105d7fe099237e889dc74cdb8d11",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/bb278155c255db41d92753b4-1782326497.jpg",
+        "id": "232cff7109d5d534410dee08208af071",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/2e11e5ea9b2e2677148c46a3-1781895284.jpg",
         "custom_fields": [],
-        "text": "2 siempre igual master",
-        "artist": "",
-        "title": "2 siempre igual master",
-        "album": "",
-        "genre": "",
+        "text": "Aurra - Unknown Album Dance Classics - You & Me Tonight (Extended 12'')",
+        "artist": "Aurra",
+        "title": "You & Me Tonight (Extended 12'')",
+        "album": "Unknown Album Dance Classics",
+        "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 179,
-      "remaining": 81
+      "elapsed": 380,
+      "remaining": 10
     },
     "playing_next": {
-      "cued_at": 1787513965,
-      "played_at": 1787514480,
-      "duration": 324.127325,
+      "cued_at": 1787514480,
+      "played_at": 1787515190,
+      "duration": 287.190175,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "7628e16ecbf7b74dd89c65ce0982632c",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a6fbccdc8c157aefb4e5de30-1782326508.jpg",
+        "id": "5f6f25c02e04221d97ab5082c239cd5f",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/45705060ee6ec1c54c2d1f67-1782326517.jpg",
         "custom_fields": [],
-        "text": "3 manantial master",
+        "text": "4 nadie lo vio master",
         "artist": "",
-        "title": "3 manantial master",
+        "title": "4 nadie lo vio master",
         "album": "",
         "genre": "",
         "isrc": "",
@@ -414,6 +414,46 @@
       }
     },
     "song_history": [
+      {
+        "sh_id": 293953,
+        "played_at": 1787514490,
+        "duration": 324,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "7628e16ecbf7b74dd89c65ce0982632c",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a6fbccdc8c157aefb4e5de30-1782326508.jpg",
+          "custom_fields": [],
+          "text": "3 manantial master",
+          "artist": "",
+          "title": "3 manantial master",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 293950,
+        "played_at": 1787514229,
+        "duration": 260,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "ec50105d7fe099237e889dc74cdb8d11",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/bb278155c255db41d92753b4-1782326497.jpg",
+          "custom_fields": [],
+          "text": "2 siempre igual master",
+          "artist": "",
+          "title": "2 siempre igual master",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
       {
         "sh_id": 293947,
         "played_at": 1787513974,
@@ -470,46 +510,6 @@
           "title": "Baby Im Scared of You",
           "album": "",
           "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293935,
-        "played_at": 1787512977,
-        "duration": 342,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "662d96344da14a4866907f99c852e216",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/17e8324109d681260084695d-1781895704.jpg",
-          "custom_fields": [],
-          "text": "Tracy Weber - Soul Compi - Sure Shot (Larry Levan mix)",
-          "artist": "Tracy Weber",
-          "title": "Sure Shot (Larry Levan mix)",
-          "album": "Soul Compi",
-          "genre": "Disco",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 293932,
-        "played_at": 1787512773,
-        "duration": 208,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "d716f9293d9ad02e9635a0fe60cc66aa",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9986c4c4b34e05846a559f81-1781895616.jpg",
-          "custom_fields": [],
-          "text": "Toyin Agbetu - Selectors 004 - Joy Orbison - Heartbreaker (Feat Nemesis & Rosaline Joyce)",
-          "artist": "Toyin Agbetu",
-          "title": "Heartbreaker (Feat Nemesis & Rosaline Joyce)",
-          "album": "Selectors 004 - Joy Orbison",
-          "genre": "Electronic; Techno; House",
           "isrc": "",
           "lyrics": ""
         }
@@ -591,7 +591,7 @@
     },
     "playing_next": {
       "cued_at": 1787061244,
-      "played_at": 1787514400,
+      "played_at": 1787515183,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
