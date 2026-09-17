@@ -37,9 +37,9 @@
           "bitrate": 256,
           "format": "mp3",
           "listeners": {
-            "total": 1,
-            "unique": 1,
-            "current": 1
+            "total": 0,
+            "unique": 0,
+            "current": 0
           },
           "path": "/rmm2.256kbps.mp3",
           "is_default": false
@@ -52,9 +52,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 322055,
-      "played_at": 1789675128,
-      "duration": 469,
+      "sh_id": 322188,
+      "played_at": 1789685126,
+      "duration": 311,
       "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "4cb7977ab9e5a4f752fd1149dd6320b2",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/c1f3f16c22fd37975ad1c03f-1779482466.jpg",
+        "id": "115f6e88e1601d1c3794446065b00901",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/8f44686ef017c92615e5a2db-1789000117.jpg",
         "custom_fields": [],
-        "text": "Slash Need - SIT & GRIN - BORDER TOWN",
-        "artist": "Slash Need",
-        "title": "BORDER TOWN",
-        "album": "SIT & GRIN",
+        "text": "Vanishing Twin - Ookii Gekkou - Wider Than Itself",
+        "artist": "Vanishing Twin",
+        "title": "Wider Than Itself",
+        "album": "Ookii Gekkou",
         "genre": "",
-        "isrc": "QZWFX2588494",
+        "isrc": "GBCKK2158306",
         "lyrics": ""
       },
-      "elapsed": 51,
-      "remaining": 418
+      "elapsed": 82,
+      "remaining": 229
     },
     "playing_next": {
-      "cued_at": 1789674815,
-      "played_at": 1789675593,
-      "duration": 24.372284638538,
-      "playlist": "MARCAS",
+      "cued_at": 1789684940,
+      "played_at": 1789685433,
+      "duration": 247.640775,
+      "playlist": "RECUENTO_2026",
       "is_request": false,
       "song": {
-        "id": "40d16631d7473d7a2df1b7357af7da7b",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
+        "id": "8c281fe2c0cc60d8864911de67d675bc",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/6ccc998953295859473f453e-1777170664.jpg",
         "custom_fields": [],
-        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
-        "artist": "Radio Mario Maria",
-        "title": "Toques de Gong Radios Chilenas",
-        "album": "MARCA",
-        "genre": "MARCA",
-        "isrc": "",
+        "text": "Avalon Emerson - Written into Changes - Eden",
+        "artist": "Avalon Emerson",
+        "title": "Eden",
+        "album": "Written into Changes",
+        "genre": "",
+        "isrc": "USJ5G2636901",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 322051,
-        "played_at": 1789674822,
-        "duration": 312,
-        "playlist": "RECUENTO_2026",
+        "sh_id": 322186,
+        "played_at": 1789684947,
+        "duration": 192,
+        "playlist": "RECUENTO_2025",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "f9c0541d5bad5f4a9110d37c8fd60be0",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/ac8816a3bea734417b2af254-1777084485.jpg",
+          "id": "852e80eef2d46b167f2663bfc2520410",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/aff6d7dae9e26ea47a9d767f-1762989105.jpg",
           "custom_fields": [],
-          "text": "Automatic - Excess - Automaton",
-          "artist": "Automatic",
-          "title": "Automaton",
-          "album": "Excess",
+          "text": "Shedfromthebody - Whisper and Wane - Destroyer",
+          "artist": "Shedfromthebody",
+          "title": "Destroyer",
+          "album": "Whisper and Wane",
           "genre": "",
-          "isrc": "US2S72266006",
+          "isrc": "USY242474320",
           "lyrics": ""
         }
       }
@@ -178,41 +178,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 322053,
-      "played_at": 1789674960,
-      "duration": 251,
+      "sh_id": 322187,
+      "played_at": 1789684979,
+      "duration": 306,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "945a9ea749f285afa7fd21b8766538bc",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/71be0df7d6bfbd8617588a44",
+        "id": "cd75ee359efb5fce03cc756c673cc3fe",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ea3899619fcd688c8f8d4c86-1757470647.jpg",
         "custom_fields": [],
-        "text": "Patricia Maldonado - Las cosas que se tienen por quererse",
-        "artist": "Patricia Maldonado",
-        "title": "Las cosas que se tienen por quererse",
-        "album": "",
-        "genre": "",
+        "text": "Sacros - Sacros - Paloma De Plumas Blancas",
+        "artist": "Sacros",
+        "title": "Paloma De Plumas Blancas",
+        "album": "Sacros",
+        "genre": "Psychedelic Folk-Rock",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 219,
-      "remaining": 32
+      "elapsed": 229,
+      "remaining": 77
     },
     "playing_next": {
-      "cued_at": 1789674732,
-      "played_at": 1789675207,
-      "duration": 204.77385,
+      "cued_at": 1789684865,
+      "played_at": 1789685280,
+      "duration": 152.528938,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "30c10785b7f4317f4e1b48c94bf8aa23",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/349d1e276642a850c612e9f2",
+        "id": "e2c448cc7b6dec2a76319c32ce493d40",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/604bdb4cb4208aa200479361",
         "custom_fields": [],
-        "text": "Pop-Tops - Escondite / Paseando por la rivera [SINGLE] - Escondite",
-        "artist": "Pop-Tops",
-        "title": "Escondite",
-        "album": "Escondite / Paseando por la rivera [SINGLE]",
+        "text": "Charo Cofr\u00e9 - Mi R\u00edo [SINGLE] - Mi Rio",
+        "artist": "Charo Cofr\u00e9",
+        "title": "Mi Rio",
+        "album": "Mi R\u00edo [SINGLE]",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -220,100 +220,100 @@
     },
     "song_history": [
       {
-        "sh_id": 322050,
-        "played_at": 1789674740,
-        "duration": 226,
+        "sh_id": 322184,
+        "played_at": 1789684873,
+        "duration": 112,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "ee9a42fe5ab85a37fe7734bef49f2577",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/775147961fabca0209e3be43",
+          "id": "e1822217aee6b260af542ef814232de7",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/c9e6630513422b5b4362446a",
           "custom_fields": [],
-          "text": "Patricio Ren\u00e1n - Oraci\u00f3n de un joven triste",
-          "artist": "Patricio Ren\u00e1n",
-          "title": "Oraci\u00f3n de un joven triste",
+          "text": "Los Cisnes de Vichuquen - LOS CISNES DE VICHUQUEN - En La Mar Hay Una Torre",
+          "artist": "Los Cisnes de Vichuquen",
+          "title": "En La Mar Hay Una Torre",
+          "album": "LOS CISNES DE VICHUQUEN",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322182,
+        "played_at": 1789684714,
+        "duration": 161,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "660a904e6efc820e966914671fb1d822",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7f7ea6f16489f90e7781a379-1757470314.jpg",
+          "custom_fields": [],
+          "text": "Amerindios - Tu sue\u00f1o es mi sue\u00f1o, tu grito es mi canto... - Sin nombre",
+          "artist": "Amerindios",
+          "title": "Sin nombre",
+          "album": "Tu sue\u00f1o es mi sue\u00f1o, tu grito es mi canto...",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322180,
+        "played_at": 1789684565,
+        "duration": 154,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1308181871e7ef246bf3c9a97b84fcf4",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/a23d80607de31945a72c65f6",
+          "custom_fields": [],
+          "text": "Ver\u00f3nica Hurtado - Ellos / Cuando tu decidas - Ellos",
+          "artist": "Ver\u00f3nica Hurtado",
+          "title": "Ellos",
+          "album": "Ellos / Cuando tu decidas",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322178,
+        "played_at": 1789684324,
+        "duration": 253,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "2adaef7fa9752c3e076d53263b471cc3",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/62ab247311e558b4e09955d6",
+          "custom_fields": [],
+          "text": "Patricia Maldonado - Desde hace tiempo / Eres lo que nunca quise ser [SINGLE] - DESDE HACE TIEMPO",
+          "artist": "Patricia Maldonado",
+          "title": "DESDE HACE TIEMPO",
+          "album": "Desde hace tiempo / Eres lo que nunca quise ser [SINGLE]",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322175,
+        "played_at": 1789684114,
+        "duration": 213,
+        "playlist": "EDEC",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "80b9410302647ebce606b1d7e99622e0",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/faa34f0e415ce268be5a776b",
+          "custom_fields": [],
+          "text": "Chito Morales - El cornudo Floridor",
+          "artist": "Chito Morales",
+          "title": "El cornudo Floridor",
           "album": "",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322048,
-        "played_at": 1789674565,
-        "duration": 179,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "4326103d1d22e927405ba615dce2860f",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/bd8bfc401241bddd11c2c60d",
-          "custom_fields": [],
-          "text": "Los Fortineros - A la bandera de Chile / En la mitad de un salar - En la mitad de un salar",
-          "artist": "Los Fortineros",
-          "title": "En la mitad de un salar",
-          "album": "A la bandera de Chile / En la mitad de un salar",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322046,
-        "played_at": 1789674436,
-        "duration": 134,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8e7b334782c9d2124e350f25f2fe532d",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/29b5de2f44155ebf40226a48",
-          "custom_fields": [],
-          "text": "Los 4 de Chile - Los 4 de Chile - El Burrito Blanco",
-          "artist": "Los 4 de Chile",
-          "title": "El Burrito Blanco",
-          "album": "Los 4 de Chile",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322042,
-        "played_at": 1789674031,
-        "duration": 412,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "50750a0767a01170e5fb10f1ac3b5be8",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/6f5914e6f4ea5db4114a174d-1757470559.jpg",
-          "custom_fields": [],
-          "text": "Los Jaivas - Los Jaivas (La Ventana) - Mira Ni\u00f1ita",
-          "artist": "Los Jaivas",
-          "title": "Mira Ni\u00f1ita",
-          "album": "Los Jaivas (La Ventana)",
-          "genre": "Prog Folk (Chile)",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322039,
-        "played_at": 1789673851,
-        "duration": 180,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "410026a65aa96dcc2c7d33d953936198",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/120fc2749aa0818a8336bf79",
-          "custom_fields": [],
-          "text": "Salvador Allende y otros - 4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular - Pista 7 primer a\u00f1o del Gobierno Popular",
-          "artist": "Salvador Allende y otros",
-          "title": "Pista 7 primer a\u00f1o del Gobierno Popular",
-          "album": "4 de noviembre de 1971: primer a\u00f1o del Gobierno Popular",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -347,9 +347,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 0,
-            "unique": 0,
-            "current": 0
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/radio.mp3",
           "is_default": true
@@ -362,9 +362,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 0,
-      "unique": 0,
-      "current": 0
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -373,143 +373,143 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 322054,
-      "played_at": 1789675110,
-      "duration": 342,
+      "sh_id": 322185,
+      "played_at": 1789684932,
+      "duration": 395,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "662d96344da14a4866907f99c852e216",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/17e8324109d681260084695d-1781895704.jpg",
+        "id": "4f8d39de51680df09479917d003e494c",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8d84e9e0c082fc1d8bcdbb11-1781895361.jpg",
         "custom_fields": [],
-        "text": "Tracy Weber - Soul Compi - Sure Shot (Larry Levan mix)",
-        "artist": "Tracy Weber",
-        "title": "Sure Shot (Larry Levan mix)",
-        "album": "Soul Compi",
-        "genre": "Disco",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - Eye To Eye (12'' Mix)",
+        "artist": "Chaka Khan",
+        "title": "Eye To Eye (12'' Mix)",
+        "album": "Chaka Khan (Tracks)",
+        "genre": "R&B",
         "isrc": "",
-        "lyrics": ""
+        "lyrics": "I'm in the mood to end these empty days\rEver when I, you stare down romancin'\rEvery time I see your face hopeless\rColder than ice with no more flame\r\rI think our love has reached the part of no return\rIt's so sad when lovers don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThat distant look is all you've got to say\rEvery time I try to talk to you\rEvery word is lost in space\rDrifting further apart in every way\r\rWe've come to be the ones whose love is out of sight\rIt's so clear that we just don't see\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rThere's no reason for this heartache\rTo go on and on when the feeling's gone\rI can say now that it's to late\rTo try and change your mind\r\rNo tear, oh yeah\rA look everyday, yeah\r[Incomprehensible]\rEye to eye, I'm seeing\rEye to eye to just keep singing\r\rEye to eye, a look says everything\rEye to eye, so close, so far away\r\rEye to eye, a look says everything\rEye to eye, a look says everything\rEye to eye, so close, so far away\rEye to eye"
       },
-      "elapsed": 69,
-      "remaining": 273
+      "elapsed": 276,
+      "remaining": 119
     },
     "playing_next": {
-      "cued_at": 1789674901,
-      "played_at": 1789675443,
-      "duration": 342.02125,
+      "cued_at": 1789684619,
+      "played_at": 1789685318,
+      "duration": 248.32,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "023a60d3b58a59176f0eec8c4899bbd8",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/aa6d69c72ed536706f8e6c71-1781895318.jpg",
+        "id": "3207eb95c7fdd2eaf1bed93359dec4d0",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3e38a5fa76d1b57f97d122cd-1781895259.jpg",
         "custom_fields": [],
-        "text": "Womack & Womack - Baby Im Scared of You",
-        "artist": "Womack & Womack",
-        "title": "Baby Im Scared of You",
-        "album": "",
-        "genre": "",
+        "text": "Chaka Khan - Chaka Khan (Tracks) - I'm Every Woman",
+        "artist": "Chaka Khan",
+        "title": "I'm Every Woman",
+        "album": "Chaka Khan (Tracks)",
+        "genre": "R&B",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 322052,
-        "played_at": 1789674906,
-        "duration": 208,
+        "sh_id": 322181,
+        "played_at": 1789684624,
+        "duration": 311,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "d716f9293d9ad02e9635a0fe60cc66aa",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/9986c4c4b34e05846a559f81-1781895616.jpg",
+          "id": "7587b5abef580c17f6e1515e88f91d54",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/cb7f6da8e0328419dc4bb58a-1781895645.jpg",
           "custom_fields": [],
-          "text": "Toyin Agbetu - Selectors 004 - Joy Orbison - Heartbreaker (Feat Nemesis & Rosaline Joyce)",
-          "artist": "Toyin Agbetu",
-          "title": "Heartbreaker (Feat Nemesis & Rosaline Joyce)",
-          "album": "Selectors 004 - Joy Orbison",
-          "genre": "Electronic; Techno; House",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322049,
-        "played_at": 1789674655,
-        "duration": 254,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "9e7e0c8c82894067e6847546655326f9",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1ef9cad91451146e4ccd9dbe-1781895718.jpg",
-          "custom_fields": [],
-          "text": "Tina Moore - Pure\u2026 90s Dance Party - Never Gonna Let You Go",
-          "artist": "Tina Moore",
-          "title": "Never Gonna Let You Go",
-          "album": "Pure\u2026 90s Dance Party",
-          "genre": "Uk Garage",
-          "isrc": "",
-          "lyrics": "Nev-, never\nNever\nNev-, never\nNever\nNev-, never\n\nI never gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore\n\nThe time has come for me to open my eyes\nBlinded from when I let you go, boy\nNow I see a new light\nI got you back in my life, oh, yeah\n\nI never gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore\n\nYou are the one\nThat brings joy to my life\nI'm sprung so strong\nI've got the strength to go on\nI just let love be\nNow, my man is here with me, ooh, yeah\n\nNever gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore\n\nI never gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore\n\nBaby, let me show how I missed you\nI'll give you things that you long for\nI'll give you love everyday\nOoh, what a special way\nI'll guarantee you never ever stray, yeah\n\nNever ever, never ever\nNever ever, never ever\nNever ever, never ever\nNever ever, never ever\n\nOoh (I never ever wanna let you-)\nOoh (I never ever wanna let you-)\nOoh (I never ever wanna let you-) (never let you go)\nOoh (I never ever wanna let you-)\nOoh (I never ever wanna let you-)\nOoh (I never ever wanna let you-) (never let you go)\n\nI never gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore\n\nNever gonna let you go (let you go)\n'Cause you're my baby\nWorth more than a million in gold (I'm telling you, boy)\nNow that I've got you back\nI'll never let you go (let you go)\nWon't be a fool anymore, ooh, oh\n\nNever gonna let you go (oh, never) (let you go)\n(You're my baby, yeah, never letting it go) (I'm telling you, boy)\nNow that I've got you back (no, no, no) (let you go)\n(You're my baby, hey)\nNever gonna let you go (let you go)"
-        }
-      },
-      {
-        "sh_id": 322045,
-        "played_at": 1789674417,
-        "duration": 242,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "96f67b9c53e389600033bba435475caf",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/096539fa2fe22e386afeaf58-1781895301.jpg",
-          "custom_fields": [],
-          "text": "Joe Bataan - 100 Tubes Funk (Cd3) - Rap-O-Clap-O",
-          "artist": "Joe Bataan",
-          "title": "Rap-O-Clap-O",
-          "album": "100 Tubes Funk (Cd3)",
-          "genre": "Funk",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 322043,
-        "played_at": 1789674215,
-        "duration": 206,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "7571cb3922122def6ef8ac532403174a",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/f6e535e547b2d62fcbaea9ca-1781895635.jpg",
-          "custom_fields": [],
-          "text": "Timmy Thomas - Soul Compi; The 70's Soul Experience Disc 4 - Why Can't We Live Together",
-          "artist": "Timmy Thomas",
-          "title": "Why Can't We Live Together",
-          "album": "Soul Compi; The 70's Soul Experience Disc 4",
+          "text": "Chaka Khan - Chaka Khan (Tracks) - Every Little Thing",
+          "artist": "Chaka Khan",
+          "title": "Every Little Thing",
+          "album": "Chaka Khan (Tracks)",
           "genre": "R&B",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 322040,
-        "played_at": 1789673933,
-        "duration": 282,
+        "sh_id": 322176,
+        "played_at": 1789684150,
+        "duration": 478,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "620d6bd5ace93c54b5345e6da6a96df3",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/d845916984c8faa44236e8cb-1781895578.jpg",
+          "id": "7eaef181c53f300e7848ab3f2de45201",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/6487bd23799396d47eb6b124",
           "custom_fields": [],
-          "text": "The Joubert Singers - Soul Compi - Stand On The Word (Larry Levan Mix)  (1985)",
-          "artist": "The Joubert Singers",
-          "title": "Stand On The Word (Larry Levan Mix)  (1985)",
-          "album": "Soul Compi",
-          "genre": "Disco/Gospel",
+          "text": "6. damas",
+          "artist": "",
+          "title": "6. damas",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322174,
+        "played_at": 1789684013,
+        "duration": 140,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "993ebce31137b940f96f2d1a5d56f7b4",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/83a4cdc8fe35178ab4e0ac5d",
+          "custom_fields": [],
+          "text": "5. famatina",
+          "artist": "",
+          "title": "5. famatina",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322168,
+        "played_at": 1789683648,
+        "duration": 369,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "be1af87224e4d29f47e08e012456f431",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/f89df3d5f4c9a404702f29a5",
+          "custom_fields": [],
+          "text": "4. estanques de tecoma",
+          "artist": "",
+          "title": "4. estanques de tecoma",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 322164,
+        "played_at": 1789683468,
+        "duration": 185,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "6bffc9f2f03f2e20f54a3023f1b5636a",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1fd82dd7daff68308097a048",
+          "custom_fields": [],
+          "text": "3. cuncuna",
+          "artist": "",
+          "title": "3. cuncuna",
+          "album": "",
+          "genre": "",
           "isrc": "",
           "lyrics": ""
         }
@@ -590,8 +590,8 @@
       "remaining": 0
     },
     "playing_next": {
-      "cued_at": 1789067907,
-      "played_at": 1789675167,
+      "cued_at": 1789078720,
+      "played_at": 1789685196,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
