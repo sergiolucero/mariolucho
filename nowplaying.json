@@ -63,64 +63,64 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 325321,
-      "played_at": 1789923315,
-      "duration": 434,
+      "sh_id": 325430,
+      "played_at": 1789931913,
+      "duration": 192,
       "playlist": "RECUENTO_2026",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "a33289197c6ff900265446981ba1756a",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/090cd91d387ef80a94656d4a-1777254663.jpg",
+        "id": "9d5b035e7fc551397907013a5040af50",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/e70696aa34dd840e23232249-1778812565.jpg",
         "custom_fields": [],
-        "text": "Geologist - Can I Get a Pack of Camel Lights? - Sonora",
-        "artist": "Geologist",
-        "title": "Sonora",
-        "album": "Can I Get a Pack of Camel Lights?",
+        "text": "Loraine James / Miho Hatori - Detached From the Rest of You - Flatline",
+        "artist": "Loraine James / Miho Hatori",
+        "title": "Flatline",
+        "album": "Detached From the Rest of You",
         "genre": "",
-        "isrc": "US58L2697010",
+        "isrc": "GBLZC2600006",
         "lyrics": ""
       },
-      "elapsed": 276,
-      "remaining": 158
+      "elapsed": 64,
+      "remaining": 128
     },
     "playing_next": {
-      "cued_at": 1789923109,
-      "played_at": 1789923744,
-      "duration": 24.372284638538,
-      "playlist": "MARCAS",
+      "cued_at": 1789931651,
+      "played_at": 1789932100,
+      "duration": 566.491425,
+      "playlist": "IPAD",
       "is_request": false,
       "song": {
-        "id": "40d16631d7473d7a2df1b7357af7da7b",
-        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/9d5e0208b892cf7b92f21aaa",
+        "id": "f77a0d40b29256f7cdc0e013c936f666",
+        "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/5b56eca3c459550ceedc3501-1780609614.jpg",
         "custom_fields": [],
-        "text": "Radio Mario Mar\u00eda - INSERTS - Toques de Gong Radios Chilenas",
-        "artist": "Radio Mario Maria",
-        "title": "Toques de Gong Radios Chilenas",
-        "album": "MARCA",
-        "genre": "MARCA",
+        "text": "Paul Lansky - More Than Idle Chatter - Idle Chatter",
+        "artist": "Paul Lansky",
+        "title": "Idle Chatter",
+        "album": "More Than Idle Chatter",
+        "genre": "",
         "isrc": "",
         "lyrics": ""
       }
     },
     "song_history": [
       {
-        "sh_id": 325318,
-        "played_at": 1789923116,
-        "duration": 208,
-        "playlist": "IPAD",
+        "sh_id": 325427,
+        "played_at": 1789931659,
+        "duration": 272,
+        "playlist": "RECUENTO_2026",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "0af84cc94545413a23e0a1ce18a24b52",
-          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/041adbabd37e59bd0223cd12-1780610003.jpg",
+          "id": "d701e18a1ac7abbe80504a2d98bf4ffb",
+          "art": "https://tina.radiomariomaria.live/api/station/rmm1/art/cbe85b51dea4a56cc8f383a4-1782084315.jpg",
           "custom_fields": [],
-          "text": "Kuunatic - Wheels of \u00d6mon - Syzygy and a Counter Truth",
-          "artist": "Kuunatic",
-          "title": "Syzygy and a Counter Truth",
-          "album": "Wheels of \u00d6mon",
+          "text": "MJ Guider - Precious Systems - Their Voices Clear Now",
+          "artist": "MJ Guider",
+          "title": "Their Voices Clear Now",
+          "album": "Precious Systems",
           "genre": "",
-          "isrc": "",
+          "isrc": "USNCB1620107",
           "lyrics": ""
         }
       }
@@ -152,9 +152,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 2,
-            "unique": 2,
-            "current": 2
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/eldiscoescultura.mp3",
           "is_default": true
@@ -167,9 +167,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 2,
-      "unique": 2,
-      "current": 2
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -178,41 +178,41 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 325320,
-      "played_at": 1789923303,
-      "duration": 317,
+      "sh_id": 325429,
+      "played_at": 1789931906,
+      "duration": 178,
       "playlist": "EDEC",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "9db5304b9c5cff1d56caaf0dd1c46838",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/7b8bf85978efd0e18166d168",
+        "id": "a09a21d4ce305b3d85adb96b76c73e6d",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/774231946278b8daa11fd2fa",
         "custom_fields": [],
-        "text": "Los Tupamaros - Los Tupamaros Cantan - Poemas 8 y 9 - Candombe",
-        "artist": "Los Tupamaros",
-        "title": "Poemas 8 y 9 - Candombe",
-        "album": "Los Tupamaros Cantan",
+        "text": "Patricia Maldonado - No debemos continuar",
+        "artist": "Patricia Maldonado",
+        "title": "No debemos continuar",
+        "album": "",
         "genre": "",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 288,
-      "remaining": 29
+      "elapsed": 71,
+      "remaining": 107
     },
     "playing_next": {
-      "cued_at": 1789923257,
-      "played_at": 1789923615,
-      "duration": 164.414694,
+      "cued_at": 1789931559,
+      "played_at": 1789932079,
+      "duration": 187.30115,
       "playlist": "EDEC",
       "is_request": false,
       "song": {
-        "id": "1267aa903fdc5b63017785ca8148d1a1",
-        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/cbf556e40d4c51f29fb05e87",
+        "id": "bf5bbd955997c8b129491244505748fa",
+        "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/54e305f9660e2e6515da93bb",
         "custom_fields": [],
-        "text": "H\u00e9ctor Presas (Cachito) - Medallita de la suerte",
-        "artist": "H\u00e9ctor Presas (Cachito)",
-        "title": "Medallita de la suerte",
-        "album": "",
+        "text": "Coro Ni\u00f1o y Patria - Coro Ni\u00f1o y Patria - Marinero",
+        "artist": "Coro Ni\u00f1o y Patria",
+        "title": "Marinero",
+        "album": "Coro Ni\u00f1o y Patria",
         "genre": "",
         "isrc": "",
         "lyrics": ""
@@ -220,68 +220,28 @@
     },
     "song_history": [
       {
-        "sh_id": 325319,
-        "played_at": 1789923265,
-        "duration": 57,
-        "playlist": "CU\u00d1AS",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "a5c91d23cbe024d0bb484c75d64bcc58",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/489b820e6842f47801e9faac",
-          "custom_fields": [],
-          "text": "Carolina Castro Zamorano - EDEC - Cu\u00f1a EDEC",
-          "artist": "Carolina Castro Zamorano",
-          "title": "Cu\u00f1a EDEC",
-          "album": "EDEC",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 325316,
-        "played_at": 1789923002,
-        "duration": 263,
+        "sh_id": 325426,
+        "played_at": 1789931567,
+        "duration": 346,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "bc7db84a84ca69a434c011c9b7c457db",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/16780cf4185e32630d4887d5",
+          "id": "fd4d1c670e54f3a3ba2023c4cb3d7b87",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/ce123b57fa75cf13eee110d9-1757470588.jpg",
           "custom_fields": [],
-          "text": "Panal - Panal - Cucurrucucu paloma",
-          "artist": "Panal",
-          "title": "Cucurrucucu paloma",
-          "album": "Panal",
-          "genre": "Psych",
+          "text": "Manduka - Manduka - Entra Y Sale",
+          "artist": "Manduka",
+          "title": "Entra Y Sale",
+          "album": "Manduka",
+          "genre": "Mpb",
           "isrc": "",
           "lyrics": ""
         }
       },
       {
-        "sh_id": 325314,
-        "played_at": 1789922843,
-        "duration": 165,
-        "playlist": "EDEC",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "2a05f8a4e01ee92fd0e65deeb9838e35",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/19e26ff2f41c5c30a33e1673",
-          "custom_fields": [],
-          "text": "Valericio Leppe - 29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido - 29 de Junio",
-          "artist": "Valericio Leppe",
-          "title": "29 de Junio",
-          "album": "29 de Junio de 1973 - El Pueblo Unido Jam\u00e1s Sera Vencido",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 325312,
-        "played_at": 1789922683,
+        "sh_id": 325425,
+        "played_at": 1789931409,
         "duration": 161,
         "playlist": "EDEC",
         "streamer": "",
@@ -300,20 +260,60 @@
         }
       },
       {
-        "sh_id": 325310,
-        "played_at": 1789922462,
-        "duration": 222,
+        "sh_id": 325422,
+        "played_at": 1789931229,
+        "duration": 187,
         "playlist": "EDEC",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "5145a2870bbf4aa5e36dd2d726a07400",
-          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/5ed7cda2dfbeae6edde972ba",
+          "id": "d1e17a6b4e5326fb972bc13ac175331d",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/f08c28b4b52e4670cfefaf5c",
           "custom_fields": [],
-          "text": "Cero Grado - Amante ni\u00f1a / Llega el oto\u00f1o - Amante ni\u00f1a",
-          "artist": "Cero Grado",
-          "title": "Amante ni\u00f1a",
-          "album": "Amante ni\u00f1a / Llega el oto\u00f1o",
+          "text": "Patricio Mor\u00e1n - Natacha",
+          "artist": "Patricio Mor\u00e1n",
+          "title": "Natacha",
+          "album": "",
+          "genre": "",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 325420,
+        "played_at": 1789931066,
+        "duration": 169,
+        "playlist": "CONTEXTO",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "5093f66763899e52789c7ad2de9ae736",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/549566afb344c4eb1569b7c1",
+          "custom_fields": [],
+          "text": "Radio Presidente Balmaceda - 5975 kHz - Santiago (CHL)",
+          "artist": "Radio Presidente Balmaceda",
+          "title": "5975 kHz - Santiago (CHL)",
+          "album": "",
+          "genre": "Radioscopia",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 325419,
+        "played_at": 1789931041,
+        "duration": 44,
+        "playlist": "CU\u00d1AS",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "9fdb7dbdffdcf0ea236383a852283a1a",
+          "art": "https://tina.radiomariomaria.live/api/station/eldiscoescultura/art/62811ce00892ec0d04caace7",
+          "custom_fields": [],
+          "text": "Macarena Lav\u00edn - EDEC - Cu\u00f1a EDEC",
+          "artist": "Macarena Lav\u00edn",
+          "title": "Cu\u00f1a EDEC",
+          "album": "EDEC",
           "genre": "",
           "isrc": "",
           "lyrics": ""
@@ -347,9 +347,9 @@
           "bitrate": 192,
           "format": "mp3",
           "listeners": {
-            "total": 0,
-            "unique": 0,
-            "current": 0
+            "total": 1,
+            "unique": 1,
+            "current": 1
           },
           "path": "/radio.mp3",
           "is_default": true
@@ -362,9 +362,9 @@
       "hls_listeners": 0
     },
     "listeners": {
-      "total": 0,
-      "unique": 0,
-      "current": 0
+      "total": 1,
+      "unique": 1,
+      "current": 1
     },
     "live": {
       "is_live": false,
@@ -373,40 +373,40 @@
       "art": null
     },
     "now_playing": {
-      "sh_id": 325323,
-      "played_at": 1789923545,
-      "duration": 259,
+      "sh_id": 325428,
+      "played_at": 1789931716,
+      "duration": 490,
       "playlist": "Especial fines de junio",
       "streamer": "",
       "is_request": false,
       "song": {
-        "id": "3476625df6e88053f1489f1c8174082d",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/a2538e3cad26fd2b1385a450-1781490863.jpg",
+        "id": "00183ab60288982906a30fc958195949",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/0f55645341638d3d79056c3b-1781895629.jpg",
         "custom_fields": [],
-        "text": "samuel vio - miel-reversiones  - 03 miel - lilen remix",
-        "artist": "samuel vio",
-        "title": "miel-reversiones  - 03 miel - lilen remix",
-        "album": "",
-        "genre": "",
+        "text": "ABC - Unknown Album Dance Classics - The Look Of Love (Ultimix)",
+        "artist": "ABC",
+        "title": "The Look Of Love (Ultimix)",
+        "album": "Unknown Album Dance Classics",
+        "genre": "Dance Classics",
         "isrc": "",
         "lyrics": ""
       },
-      "elapsed": 46,
-      "remaining": 213
+      "elapsed": 261,
+      "remaining": 229
     },
     "playing_next": {
-      "cued_at": 1789923339,
-      "played_at": 1789923795,
-      "duration": 160.78367515446,
+      "cued_at": 1789931289,
+      "played_at": 1789932196,
+      "duration": 400.97965347774,
       "playlist": "Especial fines de junio",
       "is_request": false,
       "song": {
-        "id": "e4e5771bf4a192f1c8e21817e307d151",
-        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/e72fef25f571cae753a3158f-1781491395.jpg",
+        "id": "cc1b20dd606827a3d75b8da8056f51af",
+        "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/43f911073961d88d887e8f71-1781895733.jpg",
         "custom_fields": [],
-        "text": "samuel vio - miel-reversiones  - 04 materia - mucho suen\u0303o remix",
-        "artist": "samuel vio",
-        "title": "miel-reversiones  - 04 materia - mucho suen\u0303o remix",
+        "text": "Adonis - Lost In The Sound",
+        "artist": "Adonis",
+        "title": "Lost In The Sound",
         "album": "",
         "genre": "",
         "isrc": "",
@@ -415,19 +415,79 @@
     },
     "song_history": [
       {
-        "sh_id": 325322,
-        "played_at": 1789923344,
-        "duration": 205,
+        "sh_id": 325423,
+        "played_at": 1789931294,
+        "duration": 426,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "b5e44050d2f3cdd02410612c9dcc0d49",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/5be32f1005d7447ac8a3c2ca-1781490857.jpg",
+          "id": "efe45780f72afff8699379c0794aa8da",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/8794b6691a27d72321849e4a-1781895671.jpg",
           "custom_fields": [],
-          "text": "samuel vio - miel-reversiones  - 02 dama",
-          "artist": "samuel vio",
-          "title": "miel-reversiones  - 02 dama",
+          "text": "9.9 - Unknown Album Dance Classics - All Of Me For All Of You (UK 12'' Re-Mixed Version)",
+          "artist": "9.9",
+          "title": "All Of Me For All Of You (UK 12'' Re-Mixed Version)",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 325417,
+        "played_at": 1789930892,
+        "duration": 406,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "bc6f091a8652b87e4c2892caa438e6ba",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/23e86b98b5132d057e592d1e-1781895338.jpg",
+          "custom_fields": [],
+          "text": "52nd Street - 80's Soul Classics Volume #3 - Sweet Soul Vibes And Funky Club Tunes - I Can't Let You Go",
+          "artist": "52nd Street",
+          "title": "I Can't Let You Go",
+          "album": "80's Soul Classics Volume #3 - Sweet Soul Vibes And Funky Club Tunes",
+          "genre": "Electronic, Funk / Soul",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 325412,
+        "played_at": 1789930491,
+        "duration": 405,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "cfe7b41af6ef45080d2e5bb4324c8dac",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/54b46903523510af6bfeee0b-1781895707.jpg",
+          "custom_fields": [],
+          "text": "Alexander O'Neal - Unknown Album Dance Classics - (What Can I Say) To Make You Love Me (Hateful Club Mix)",
+          "artist": "Alexander O'Neal",
+          "title": "(What Can I Say) To Make You Love Me (Hateful Club Mix)",
+          "album": "Unknown Album Dance Classics",
+          "genre": "Dance Classics",
+          "isrc": "",
+          "lyrics": ""
+        }
+      },
+      {
+        "sh_id": 325410,
+        "played_at": 1789930264,
+        "duration": 231,
+        "playlist": "Especial fines de junio",
+        "streamer": "",
+        "is_request": false,
+        "song": {
+          "id": "1bf22d8e06cb52f573400f4511cd4c9e",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1f8f6fe3d87a5a9ad153040b",
+          "custom_fields": [],
+          "text": "[08] 18m2",
+          "artist": "",
+          "title": "[08] 18m2",
           "album": "",
           "genre": "",
           "isrc": "",
@@ -435,83 +495,23 @@
         }
       },
       {
-        "sh_id": 325317,
-        "played_at": 1789923013,
-        "duration": 335,
+        "sh_id": 325407,
+        "played_at": 1789930046,
+        "duration": 223,
         "playlist": "Especial fines de junio",
         "streamer": "",
         "is_request": false,
         "song": {
-          "id": "a5485296e7eec6e99cfe9c8a60b357c1",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/635ba08da215d1431587fca9-1781571136.jpg",
+          "id": "eecfb41687538bd01c7b28d31c1c2ca5",
+          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/7e3239184969576a40504fa5",
           "custom_fields": [],
-          "text": "F600 vs. Leonino - Cobijo - 04 Correquetepilla",
-          "artist": "F600 vs. Leonino",
-          "title": "04 Correquetepilla",
-          "album": "Cobijo",
+          "text": "[07] cuarto mundo",
+          "artist": "",
+          "title": "[07] cuarto mundo",
+          "album": "",
           "genre": "",
           "isrc": "",
           "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 325313,
-        "played_at": 1789922732,
-        "duration": 285,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "8f644b149fbc8ddc48ef0f4a7c9917f5",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/3b02af0ce77d04ed5346df9c-1781571128.jpg",
-          "custom_fields": [],
-          "text": "F600 vs. Leonino - Cobijo - 03 Sorteando el destino",
-          "artist": "F600 vs. Leonino",
-          "title": "03 Sorteando el destino",
-          "album": "Cobijo",
-          "genre": "",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 325309,
-        "played_at": 1789922456,
-        "duration": 280,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "afbf357bd6c50f1da081a09017ee7afd",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/1f575f383b6a1ce8ece5bd84-1781895414.jpg",
-          "custom_fields": [],
-          "text": "Rufus & Chaka Khan - Chaka Khan (Tracks) - Ain't Nobody",
-          "artist": "Rufus & Chaka Khan",
-          "title": "Ain't Nobody",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": ""
-        }
-      },
-      {
-        "sh_id": 325305,
-        "played_at": 1789922174,
-        "duration": 286,
-        "playlist": "Especial fines de junio",
-        "streamer": "",
-        "is_request": false,
-        "song": {
-          "id": "79e3db09b3f05e63e0c48dff097c5b8b",
-          "art": "https://tina.radiomariomaria.live/api/station/tectonica/art/c8e572e157b3d6be15812841-1781895543.jpg",
-          "custom_fields": [],
-          "text": "Chaka Khan - Chaka Khan (Tracks) - Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "artist": "Chaka Khan",
-          "title": "Never Miss The Water (Feat. Me'Shell Ndeg\u00e9ocello)",
-          "album": "Chaka Khan (Tracks)",
-          "genre": "R&B",
-          "isrc": "",
-          "lyrics": "All is fair in love boy When the love is shared Now you've been acting for some time Like you just don't care About me  Well my mama used to say That there would come a day When fools begin to open up their eyes  You never miss the water Till the well runs dry Now I have had enough bad love So I'm telling you goodbye, goodbye  You've been taking me for granted You even made me cry And sorry just ain't good enough Baby not this time  My mama used to say That there would come a day When the truth can no longer be denied  You're gonna miss my love You're gonna miss my love You're gonna miss my love  You never miss the water Till the well runs dry for ya  My mama used to say That there would come a day When you would run but baby you can't hide"
         }
       }
     ],
@@ -590,8 +590,8 @@
       "remaining": 0
     },
     "playing_next": {
-      "cued_at": 1789316250,
-      "played_at": 1789923578,
+      "cued_at": 1789327063,
+      "played_at": 1789931971,
       "duration": 180.2971,
       "playlist": "default",
       "is_request": false,
